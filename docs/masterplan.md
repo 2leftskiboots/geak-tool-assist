@@ -109,22 +109,23 @@ Das GEAK-Tool bekommt neue Releases. Der Assist muss Änderungen **früh erkenne
 ### 5.2 Erkennen
 
 - **Struktur-Check** (`npm run check-geak`, Etappe W01): liest ein festes Referenzprojekt (nur lesen) und erstellt einen Strukturabdruck (Seiten, Felder, Beschriftungen, Auswahllisten, Pflichtfelder). Danach vergleicht er mit dem letzten bestätigten Abdruck und meldet, was neu ist, was fehlt und was sich geändert hat.
-- Wann er läuft:
-  - automatisch **vor jedem schreibenden Lauf** (Kurzfassung: nur die betroffenen Seiten),
-  - **wöchentlich** als geplante Aufgabe auf Cyrils PC,
-  - **von Hand**, sobald ein Release bekannt wird.
-- **Release-Hinweise:** Versionsnummer des GEAK-Tools (falls sichtbar) wird bei jedem Check mitgeschrieben. Release Notes und Mitteilungen des Vereins GEAK legt Cyril in `docs/geak-tool/releases/` ab oder gibt sie der Wartungs-Sitzung.
+- **Auslöser ist der Versionswechsel.** Das GEAK-Tool zeigt die aktuelle Release-Version in der Fusszeile. Bei jedem Start liest der Assist sie mit (kostet nichts, die Seite ist ohnehin offen) und vergleicht sie mit der zuletzt bestätigten Version.
+  - Version gleich: normal weiterarbeiten.
+  - Version neu: Der Assist arbeitet nur noch lesend, meldet den Wechsel, verweist auf die Release Notes und schlägt den Struktur-Check vor.
+- Kein regelmässiger Lauf (z. B. wöchentlich) und kein Check vor jedem schreibenden Lauf. Begründung: Es gibt nur 2–3 Releases pro Jahr, und jedes ist an der Version erkennbar. Kleine Änderungen ohne neue Version fängt der sichere Abbruch (5.1) ab. Von Hand starten geht jederzeit.
+- **Release Notes** sind öffentlich: <https://www.geak-tool.ch/expertInfo>, Abschnitt «Release Notes». Die Wartungs-Sitzung liest sie zuerst. So weiss sie schon vor dem Check, wo sich etwas geändert hat, und kann fachliche Änderungen einordnen.
 
 ### 5.3 Nachführen (Ablauf bei einer Änderung)
 
+0. **Release Notes lesen** und den Struktur-Check laufen lassen.
 1. **Einordnen:**
    - *technisch*: nur die Oberfläche hat sich verändert (Feld verschoben, umbenannt) → Feldkarte anpassen.
    - *fachlich*: neue Felder, neue Pflichten, geänderte Berechnung oder Kataloge → zusätzlich ein Entscheid, bei Bedarf die Masterplan-Sitzung.
-2. **Wartungs-Sitzung** (eigene Claude-Sitzung): Feldkarte und Feldkatalog anpassen, bis der Struktur-Check wieder grün ist, dann den neuen Abdruck als Referenz bestätigen.
+2. **Wartungs-Sitzung** (eigene Claude-Sitzung): Feldkarte und Feldkatalog anpassen, bis der Struktur-Check wieder grün ist. Danach den neuen Abdruck und die neue Version als Referenz bestätigen.
 3. **Betroffene Bausteine prüfen:** Übergabeformat (bei Änderung Versionsnummer erhöhen und das Destillation Tool informieren), Prüfregeln (E02, E04), Schreibskripte.
 4. **Protokoll:** Eintrag in `docs/geak-tool/release-protokoll.md` (Datum, GEAK-Version, Änderung, Anpassung, Commit).
 
-Bis der Check wieder grün ist, läuft der Assist **nur lesend**.
+Bis die neue Version bestätigt ist, läuft der Assist **nur lesend**.
 
 Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktualisierung und Änderungsbericht.
 
@@ -148,7 +149,7 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 - OFFEN: Welche Gemeinden die Förderdatenbank abdeckt (Liste Region Thun). Klärung in E03.
 - OFFEN: Wie der Förder-Check rechnet (Regeln als Daten oder Prüfung durch die KI mit Quellenangabe). Klärung in E04.
 - OFFEN: Welches Projekt als festes Referenzprojekt für den Struktur-Check dient (darf sich nicht laufend ändern). Klärung in W01.
-- OFFEN: Ob das GEAK-Tool eine Versionsnummer anzeigt und wo Release Notes erscheinen. Klärung in W01.
+- OFFEN: Genaues Format der Version in der Fusszeile und Aufbau der Release-Notes-Seite. Klärung in W01.
 
 ## 8. Arbeitsweise mit diesem Plan
 
@@ -156,7 +157,7 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 - **Etappen-Sitzung:** liest zuerst `CLAUDE.md`, diesen Masterplan und die eigene Etappendatei. Sie arbeitet nur am Umfang der Etappe, hält Fachentscheide in `docs/entscheide/` fest und setzt am Ende den Status in der Etappendatei und in der Tabelle oben.
 - Stellt eine Etappen-Sitzung fest, dass der Plan nicht mehr stimmt: nicht selbst umbauen, sondern in der Etappendatei unter «Rückmeldungen an den Masterplan» notieren.
 
-- **Wartungs-Sitzung:** wird bei einem Befund des Struktur-Checks oder bei einem bekannten Release gestartet und folgt Abschnitt 5.3.
+- **Wartungs-Sitzung:** wird gestartet, wenn der Versionswächter eine neue GEAK-Version meldet, und folgt Abschnitt 5.3.
 
 ## 9. Änderungsprotokoll
 
@@ -164,3 +165,4 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 |---|---|---|
 | 2026-11-14 | Masterplan erstellt nach Interview mit Cyril | 0003 |
 | 2026-11-14 | Wartung bei GEAK-Tool-Releases ergänzt (Abschnitt 5, Etappe W01) | 0004 |
+| 2026-11-14 | Struktur-Check nur bei Versionswechsel statt wöchentlich und vor jedem Schreiben | 0004 |

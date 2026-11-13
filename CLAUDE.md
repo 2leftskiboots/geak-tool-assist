@@ -14,7 +14,7 @@ Cyril programmiert selbst wenig: Entscheide kurz und verständlich erklären.
 
 **Vor jeder Arbeit lesen:** `docs/masterplan.md` (Ziel, Bausteine, Grundsätze, Etappen) und die Datei der eigenen Etappe in `docs/etappen/`. Etappen-Sitzungen bleiben im Umfang ihrer Etappe, setzen am Ende Status und Ergebnis und notieren Planabweichungen unter «Rückmeldungen an den Masterplan». Den Masterplan selbst ändert nur die Masterplan-Sitzung, mit Entscheid.
 
-Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das Übergabeformat vom Destillation Tool gibt der Assist vor. Fehlende Daten: Standardwert, markieren, gesammelt zeigen. Varianten gibt Cyril vor. Erst lesen und prüfen, dann schreiben. Wartung (0004): Feldzugriffe nur über die Feldkarte; unbekanntes Feld → nicht speichern, melden; bei Abweichungen im Struktur-Check nur lesend arbeiten.
+Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das Übergabeformat vom Destillation Tool gibt der Assist vor. Fehlende Daten: Standardwert, markieren, gesammelt zeigen. Varianten gibt Cyril vor. Erst lesen und prüfen, dann schreiben. Wartung (0004): Feldzugriffe nur über die Feldkarte; unbekanntes Feld → nicht speichern, melden; neue GEAK-Version in der Fusszeile → nur lesend arbeiten, bis die Wartung sie bestätigt hat (Release Notes: `https://www.geak-tool.ch/expertInfo`).
 
 ## Konventionen
 
