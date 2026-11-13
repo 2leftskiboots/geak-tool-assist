@@ -25,11 +25,11 @@ export async function starteBrowser() {
   return { kontext, seite };
 }
 
-// OFFEN: Woran man «angemeldet» sicher erkennt, ist noch nicht bekannt.
-// Vorläufig: Ein sichtbares Passwortfeld heisst «nicht angemeldet».
+// Angemeldet: nach dem Login leitet das GEAK-Tool auf /portfolio weiter
+// (Test 2026-11-13). Zusätzlich darf kein Passwortfeld sichtbar sein.
 export async function istAngemeldet(seite) {
   const passwortFelder = await seite.locator('input[type=password]:visible').count();
-  return passwortFelder === 0;
+  return passwortFelder === 0 && new URL(seite.url()).pathname.startsWith('/portfolio');
 }
 
 export async function warteAufEnter(frage) {

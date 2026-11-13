@@ -30,4 +30,4 @@ Cyril programmiert selbst wenig: Entscheide kurz und verständlich erklären.
 
 ## Stand (2026-11-13)
 
-Grundgerüst angelegt. Offen: Test des Zugangs auf Cyrils PC (`npm run test-zugang`); Erkennung «angemeldet» ist noch eine Vermutung (`// OFFEN:` in `src/browser.js`).
+Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Noch zu bestätigen: Anmeldung bleibt beim nächsten Start im Profil erhalten. Nächste Etappe: festlegen, welche Teile des GEAK ausgefüllt werden.
