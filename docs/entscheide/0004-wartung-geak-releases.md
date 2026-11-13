@@ -1,7 +1,7 @@
 # 0004 – Wartung bei neuen Releases des GEAK-Tools
 
 - Datum: 2026-11-14
-- Status: vorgeschlagen (wartet auf OK von Cyril)
+- Status: angenommen (OK Cyril 2026-11-14)
 - Ergänzt 0003
 
 ## Ausgangslage
