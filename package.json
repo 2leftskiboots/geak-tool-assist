@@ -1,0 +1,13 @@
+{
+  "name": "geak-tool-assist",
+  "version": "0.1.0",
+  "private": true,
+  "description": "KI-Unterstützung beim Ausfüllen des GEAK-Tools (DTplan)",
+  "type": "module",
+  "scripts": {
+    "test-zugang": "node scripts/test-zugang.js"
+  },
+  "dependencies": {
+    "playwright": "1.55.0"
+  }
+}
