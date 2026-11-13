@@ -17,17 +17,17 @@ Cyril programmiert selbst wenig: Entscheide kurz und verständlich erklären.
 - Unklare fachliche Punkte nicht raten: mit `// OFFEN:` markieren und melden.
 - Etappe für Etappe arbeiten; nach jeder Etappe Zusammenfassung und auf OK warten.
 - **Nie veröffentlichen, einreichen oder löschen** im GEAK-Tool, auch wenn es technisch möglich wäre. Vor dem Speichern grösserer Änderungen zeigen, was geändert wird.
-- **Secrets nie ins Repository.** Kein Passwort im Code; Cyril meldet sich im Browserfenster selbst an (siehe 0001).
+- **Secrets nie ins Repository.** Zugangsdaten nur als `GEAK_USER` / `GEAK_PASSWORT` in der lokalen Umgebung der Desktop-App (0002); nie ausgeben oder protokollieren.
 - Den Zugriffsschutz des GEAK-Tools (Azure WAF, reCAPTCHA) nie umgehen oder tarnen. Wird blockiert: melden, Betreiber fragen.
 
 ## Technik
 
 - Node.js, Playwright. Läuft **lokal auf Cyrils Windows-PC** mit sichtbarem Edge (`channel: 'msedge'`) und gespeichertem Browserprofil unter `%LOCALAPPDATA%\geak-tool-assist\profil` (ausserhalb des Repositorys). Begründung: Entscheid 0001.
-- Gemeinsamer Browserstart: `src/browser.js`.
-- `npm run test-zugang`: prüft, ob das GEAK-Tool lädt und ob die Anmeldung besteht.
-- In der Cloud-Sitzung (Umgebung «GEAK Tool Assist») blockiert das GEAK-Tool den Zugriff; dort nur Code schreiben, nicht gegen das GEAK-Tool testen.
+- Gemeinsam: `src/browser.js` – `starteBrowser()`, `oeffneGeak()` (Profil → Umgebungsvariablen → von Hand, 0002).
+- `npm run test-zugang`: prüft, ob das GEAK-Tool lädt und wie die Anmeldung zustande kam.
+- Gearbeitet wird in der **lokalen** Umgebung «GEAK-Tool-Assist» der Desktop-App (auch per Remote Control). Aus der Cloud blockiert das GEAK-Tool den Zugriff (0001).
 - Unter Windows liegt Node in `C:\Program Files\nodejs`; Repo lokal unter `C:\Users\CyrilDegenDTplan\code\geak-tool-assist`.
 
 ## Stand (2026-11-13)
 
-Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Nächste Etappe: festlegen, welche Teile des GEAK ausgefüllt werden.
+Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) gebaut, Test offen; Login-Felder noch `// OFFEN:`. Nächste Etappe: festlegen, welche Teile des GEAK ausgefüllt werden.

@@ -1,7 +1,8 @@
 // Prüft auf Cyrils PC, ob das GEAK-Tool im lokalen Browser lädt (Azure-Schutz)
-// und ob die Anmeldung im gespeicherten Profil besteht. Ändert nichts im GEAK-Tool.
+// und ob die Anmeldung klappt (Profil, Umgebungsvariablen oder von Hand).
+// Ändert nichts im GEAK-Tool.
 
-import { GEAK_URL, starteBrowser, istAngemeldet, warteAufEnter } from '../src/browser.js';
+import { starteBrowser, oeffneGeak } from '../src/browser.js';
 
 const { kontext, seite } = await starteBrowser();
 
@@ -10,24 +11,25 @@ seite.on('response', (antwort) => {
   if (antwort.status() === 403) abgelehnt.push(antwort.url());
 });
 
-await seite.goto(GEAK_URL, { waitUntil: 'networkidle', timeout: 60000 });
-await seite.waitForTimeout(3000);
+const ART = {
+  profil: 'Profil war noch angemeldet',
+  automatisch: 'automatisch mit GEAK_USER / GEAK_PASSWORT angemeldet',
+  hand: 'von Hand angemeldet',
+};
 
-const programmteileBlockiert = abgelehnt.some((url) => url.includes('/_next/static/'));
-const text = (await seite.locator('body').innerText()).trim();
-
-if (programmteileBlockiert || text.length === 0) {
-  console.log('✗ Das GEAK-Tool lädt nicht (Zugriffsschutz). Abgelehnt:');
-  for (const url of abgelehnt) console.log('   ', url.slice(0, 100));
-  console.log('Nichts umgehen – Ergebnis an Claude melden (siehe Entscheid 0001).');
-} else {
+try {
+  const art = await oeffneGeak(seite);
   console.log('✓ Das GEAK-Tool lädt.');
-  if (!(await istAngemeldet(seite))) {
-    await warteAufEnter('Bitte im Browserfenster mit dem Unterstützer-Account anmelden, dann hier Enter drücken … ');
-    await seite.waitForLoadState('networkidle');
-  }
-  console.log((await istAngemeldet(seite)) ? '✓ Angemeldet – das Profil merkt sich die Anmeldung.' : '✗ Keine Anmeldung erkannt.');
+  console.log(`✓ Angemeldet (${ART[art]}).`);
   console.log('Seitentitel:', await seite.title(), '| Adresse:', seite.url().split('?')[0]);
+} catch (fehler) {
+  if (abgelehnt.some((url) => url.includes('/_next/static/'))) {
+    console.log('✗ Das GEAK-Tool lädt nicht (Zugriffsschutz). Nichts umgehen – Ergebnis an Claude melden.');
+  } else {
+    console.log('✗', fehler.message);
+  }
+  console.log('Umgebungsvariablen gesetzt:', process.env.GEAK_USER ? 'GEAK_USER ja' : 'GEAK_USER nein', '/', process.env.GEAK_PASSWORT ? 'GEAK_PASSWORT ja' : 'GEAK_PASSWORT nein');
+  process.exitCode = 1;
 }
 
 await kontext.close();
