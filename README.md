@@ -19,7 +19,7 @@ Edge ist auf Windows vorhanden, ein zusätzlicher Browser-Download ist nicht nö
 npm run test-zugang
 ```
 
-Öffnet das GEAK-Tool in einem eigenen Edge-Fenster. Beim ersten Mal im Fenster mit dem Unterstützer-Account anmelden und im Terminal Enter drücken. Die Anmeldung bleibt im Profil `%LOCALAPPDATA%\geak-tool-assist\profil` gespeichert; ein Passwort wird nirgends abgelegt.
+Öffnet das GEAK-Tool in einem eigenen Edge-Fenster. Beim ersten Mal im Fenster mit dem Unterstützer-Account anmelden und im Terminal Enter drücken. Die Anmeldung bleibt im Profil `%LOCALAPPDATA%\geak-tool-assist\profil` gespeichert (ausserhalb des Repositorys).
 
 ## Automatische Anmeldung (Entscheid 0002)
 
