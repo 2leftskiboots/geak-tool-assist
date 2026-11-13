@@ -1,6 +1,6 @@
 // Gemeinsamer Browserstart für alle Skripte (Entscheid 0001):
 // sichtbares Edge mit eigenem, gespeichertem Profil ausserhalb des Repositorys.
-// Kein Passwort im Code: Cyril meldet sich im Fenster selbst an.
+// Kein Passwort im Code: Zugangsdaten nur aus der lokalen Umgebung (Entscheid 0002).
 
 import { chromium } from 'playwright';
 import path from 'node:path';
@@ -44,16 +44,14 @@ export async function oeffneGeak(seite) {
   const benutzer = process.env.GEAK_USER;
   const passwort = process.env.GEAK_PASSWORT;
   if (benutzer && passwort) {
-    // OFFEN: Feldnamen des Login-Formulars noch nicht bekannt; allgemeine Auswahl,
-    // nach dem ersten Lauf auf Cyrils PC an die echten Felder anpassen.
-    const passwortFeld = seite.locator('input[type=password]:visible').first();
-    const benutzerFeld = seite
-      .locator('input[type=email]:visible, input[name*=user i]:visible, input[name*=mail i]:visible, input[type=text]:visible')
-      .first();
+    // Login-Formular auf /login (geprüft 2026-11-14): Felder «Benutzername» (#Username)
+    // und «Passwort» (#Password), Knopf «Login».
+    const benutzerFeld = seite.locator('input#Username:visible');
+    const passwortFeld = seite.locator('input#Password:visible');
     if ((await passwortFeld.count()) && (await benutzerFeld.count())) {
       await benutzerFeld.fill(benutzer);
       await passwortFeld.fill(passwort);
-      await passwortFeld.press('Enter');
+      await seite.getByRole('button', { name: 'Login', exact: true }).click();
       try {
         await seite.waitForURL((url) => url.pathname.startsWith('/portfolio'), { timeout: 30000 });
         if (await istAngemeldet(seite)) return 'automatisch';

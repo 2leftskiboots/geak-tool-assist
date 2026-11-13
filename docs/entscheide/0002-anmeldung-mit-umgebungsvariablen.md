@@ -1,7 +1,7 @@
 # 0002 – Automatische Anmeldung mit lokalen Umgebungsvariablen
 
 - Datum: 2026-11-13
-- Status: vorgeschlagen (Test auf Cyrils PC offen)
+- Status: angenommen (getestet auf Cyrils PC am 2026-11-14)
 - Ergänzt 0001 (dort: Anmeldung nur von Hand)
 
 ## Ausgangslage
@@ -23,5 +23,6 @@ Nach 0001 meldet sich Cyril im Edge-Fenster von Hand an, das Profil merkt sich d
 ## Konsequenzen
 
 - Über Remote Control kann ohne Anwesenheit am PC gearbeitet werden, solange das GEAK-Tool beim Login kein reCAPTCHA verlangt. Verlangt es eines, wird das nicht umgangen: Cyril meldet sich am PC an.
-- Die Feldnamen des Login-Formulars sind noch nicht bekannt (`// OFFEN:` in `src/browser.js`); nach dem ersten Lauf anpassen.
+- Login-Formular auf `/login`: Felder `#Username` und `#Password`, Knopf «Login» (geprüft 2026-11-14). Ändert das GEAK-Tool das Formular, `src/browser.js` anpassen.
+- Test 2026-11-14: im Profil abgemeldet, `npm run test-zugang` meldet sich automatisch an und landet auf `/portfolio`. Kein reCAPTCHA beim Login.
 - Ändert Cyril das Passwort, muss er es in der lokalen Umgebung nachführen.

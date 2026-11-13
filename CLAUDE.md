@@ -28,6 +28,6 @@ Cyril programmiert selbst wenig: Entscheide kurz und verständlich erklären.
 - Gearbeitet wird in der **lokalen** Umgebung «GEAK-Tool-Assist» der Desktop-App (auch per Remote Control). Aus der Cloud blockiert das GEAK-Tool den Zugriff (0001).
 - Unter Windows liegt Node in `C:\Program Files\nodejs`; Repo lokal unter `C:\Users\CyrilDegenDTplan\code\geak-tool-assist`.
 
-## Stand (2026-11-13)
+## Stand (2026-11-14)
 
-Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) gebaut, Test offen; Login-Felder noch `// OFFEN:`. Nächste Etappe: festlegen, welche Teile des GEAK ausgefüllt werden.
+Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) getestet und angenommen: Abmelden über «Abmelden» oben rechts führt auf `/login`, das Skript meldet sich mit `#Username` / `#Password` wieder an (kein reCAPTCHA). Nächste Etappe: festlegen, welche Teile des GEAK ausgefüllt werden.
