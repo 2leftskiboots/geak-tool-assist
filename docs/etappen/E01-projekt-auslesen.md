@@ -13,7 +13,8 @@ Ein bestehendes Projekt im GEAK-Tool wird komplett ausgelesen und als JSON-Datei
 - Aufbau des GEAK-Tools erkunden: Seiten, Reiter, Felder, Listen (Bauteile, Massnahmen, Varianten, Förderbeiträge, Texte, Fotos).
 - Feldkatalog anlegen (z. B. `docs/geak-tool/feldkatalog.md`): welche Felder es gibt, Typ, Einheit, Pflicht ja/nein.
 - Skript, das ein Projekt ausliest und als JSON speichert. Ablage in einem Ordner, der nicht eingecheckt wird (Kundendaten).
-- Feldzugriffe an einer Stelle bündeln, damit Änderungen am GEAK-Tool nur dort nachgeführt werden müssen.
+- **Feldkarte** (z. B. `src/geak/feldkarte.js`): alle Feldzugriffe an einer Stelle, möglichst über sichtbare Beschriftungen. Grundlage für die Wartung (Masterplan Abschnitt 5, W01).
+- Fehlt ein erwartetes Feld, meldet das Auslesen die Stelle klar, statt still leere Werte zu liefern.
 
 ## Nicht im Umfang
 

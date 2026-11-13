@@ -14,7 +14,7 @@ Cyril programmiert selbst wenig: Entscheide kurz und verständlich erklären.
 
 **Vor jeder Arbeit lesen:** `docs/masterplan.md` (Ziel, Bausteine, Grundsätze, Etappen) und die Datei der eigenen Etappe in `docs/etappen/`. Etappen-Sitzungen bleiben im Umfang ihrer Etappe, setzen am Ende Status und Ergebnis und notieren Planabweichungen unter «Rückmeldungen an den Masterplan». Den Masterplan selbst ändert nur die Masterplan-Sitzung, mit Entscheid.
 
-Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das Übergabeformat vom Destillation Tool gibt der Assist vor. Fehlende Daten: Standardwert, markieren, gesammelt zeigen. Varianten gibt Cyril vor. Erst lesen und prüfen, dann schreiben.
+Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das Übergabeformat vom Destillation Tool gibt der Assist vor. Fehlende Daten: Standardwert, markieren, gesammelt zeigen. Varianten gibt Cyril vor. Erst lesen und prüfen, dann schreiben. Wartung (0004): Feldzugriffe nur über die Feldkarte; unbekanntes Feld → nicht speichern, melden; bei Abweichungen im Struktur-Check nur lesend arbeiten.
 
 ## Konventionen
 
@@ -36,4 +36,4 @@ Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das 
 
 ## Stand (2026-11-14)
 
-Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) getestet und angenommen: Abmelden über «Abmelden» oben rechts führt auf `/login`, das Skript meldet sich mit `#Username` / `#Password` wieder an (kein reCAPTCHA). Masterplan erstellt (0003, vorgeschlagen). Nächste Etappe: E01 – GEAK-Projekt auslesen.
+Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) getestet und angenommen: Abmelden über «Abmelden» oben rechts führt auf `/login`, das Skript meldet sich mit `#Username` / `#Password` wieder an (kein reCAPTCHA). Masterplan erstellt (0003 angenommen), Wartung ergänzt (0004 vorgeschlagen). Nächste Etappe: E01 – GEAK-Projekt auslesen.

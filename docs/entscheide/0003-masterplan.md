@@ -1,7 +1,7 @@
 # 0003 – Masterplan: Grundsätze und Etappenreihenfolge
 
 - Datum: 2026-11-14
-- Status: vorgeschlagen (wartet auf OK von Cyril)
+- Status: angenommen (OK Cyril 2026-11-14, ergänzt durch 0004)
 
 ## Ausgangslage
 
