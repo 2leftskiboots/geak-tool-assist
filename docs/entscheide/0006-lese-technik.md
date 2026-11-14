@@ -1,7 +1,7 @@
 # 0006 – Lese-Technik: Antwort der Seite mitlesen
 
 - Datum: 2026-11-14
-- Status: vorgeschlagen (wartet auf OK Cyril)
+- Status: angenommen (OK Cyril, 2026-11-14)
 - Etappe: E01
 
 ## Frage

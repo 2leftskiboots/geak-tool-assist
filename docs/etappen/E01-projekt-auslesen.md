@@ -26,7 +26,7 @@ Ein bestehendes Projekt im GEAK-Tool wird komplett ausgelesen und als JSON-Datei
 - [x] Feldkatalog für alle Bereiche des GEAK Plus vorhanden (technischer Teil; Pflichtfelder und Beschriftungen OFFEN, siehe Ergebnis)
 - [x] ein echtes Projekt lässt sich vollständig auslesen
 - [ ] Cyril hat Stichproben mit dem Tool verglichen (Kurzansicht: `daten/projekte/567444/zusammenfassung.txt`)
-- [x] Entscheid zur Lese-Technik festgehalten (0006, wartet auf OK)
+- [x] Entscheid zur Lese-Technik festgehalten (0006, angenommen)
 
 ## Offene Punkte
 
