@@ -71,3 +71,10 @@ Regeln:
 - Beträge exakt aus dem Dokument, mit Quelle (URL + Artikel/Seite).
 - `kein_programm`: nur setzen, wenn Gemeindewebsite, Verordnungs-/Reglementsammlung und Energiebereich geprüft sind; die geprüften Seiten stehen in `geprueft`.
 - Umlaute und «ss» (Schweizer Schreibweise).
+
+## Allgemeine Fachregeln (Cyril, 2026-11-14)
+
+- **kW-Formeln gelten auf der Gesamtleistung**, nicht auf dem Anteil über der Schwelle, sofern das Dokument nichts anderes sagt. Probe: Die Förderung steigt mit der Grösse immer, die Stufen schliessen lückenlos aneinander an (Kanton Bern: bis 15 kW Fr. 6'000; ab 15 kW 4'500 + 15 x 100 = 6'000). Schliessen Stufen nicht an oder sinkt der Betrag bei wachsender Grösse, ist das eine Lücke (`unklar_formel`).
+- **Nur aktuell gültige Programme erfassen.** Künftige Änderungen werden nicht erfasst, ausser es ist völlig klar, dass sie kommen und ab wann. Programme werden praktisch nie vorangekündigt, ihre Gültigkeit ist unbestimmt, bis eine Anpassung kommt; dafür gibt es den monatlichen Abgleich. Im GEAK-Tool werden immer die heute gültigen Werte eingesetzt.
+- **Nicht erfasst:** Impulsberatung (EnergieSchweiz) und Steuerabzüge.
+- **Kumulation:** Mit Gemeindeprogrammen in der Regel möglich, sonst würde die Einschränkung genannt. Mit anderen Förderprogrammen (EnergieSchweiz u. a.) in der Regel nicht möglich.

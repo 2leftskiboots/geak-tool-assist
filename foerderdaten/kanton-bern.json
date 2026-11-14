@@ -15,12 +15,54 @@
     "https://www.bafu.admin.ch/de/foerderungen-im-gebaeudebereich"
   ],
   "dokumente": [
-    {"titel": "Leitfaden Förderprogramm Kanton Bern, Erneuerbare Energie und Energieeffizienz (29 Seiten)", "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "typ": "pdf", "stand": "März 2026 (Titelblatt); Anpassungen auf März 2026 und Januar 2026 auf S. 29 genannt", "gueltig_ab": "", "gueltig_bis": ""},
-    {"titel": "Förderbeiträge Gebäude (Neubau, GEAK-Klassen, Minergie)", "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html", "typ": "html", "stand": "Seite ohne Datum; deckt sich mit Leitfaden März 2026", "gueltig_ab": "", "gueltig_bis": ""},
-    {"titel": "Förderbeiträge Anlagen (Heizungsersatz, Solarthermie, Wärmenetze, Ladeinfrastruktur)", "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/anlagen.html", "typ": "html", "stand": "Seite ohne Datum; deckt sich mit Leitfaden März 2026", "gueltig_ab": "", "gueltig_bis": ""},
-    {"titel": "Förderbeiträge Beratung und Information (GEAK Plus, Grobanalyse, Machbarkeitsstudie, SNBS, Anlässe)", "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/beratung.html", "typ": "html", "stand": "Seite ohne Datum; deckt sich mit Leitfaden März 2026", "gueltig_ab": "", "gueltig_bis": ""},
-    {"titel": "Pflichtenheft Grobanalyse / Beratungsbericht", "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-ef-fp-grobanalyse-pflichtenheft-beratungsbericht-de.pdf", "typ": "pdf", "stand": "nicht gelesen, nur verlinkt", "gueltig_ab": "", "gueltig_bis": ""},
-    {"titel": "GEAK Produktreglement (Anforderung für GEAK Plus im Förderverfahren)", "url": "https://www.geak.ch/media/rpro_produktreglement_2024_geak.pdf", "typ": "pdf", "stand": "Ausgabe 2024; nicht gelesen, nur verlinkt", "gueltig_ab": "", "gueltig_bis": ""}
+    {
+      "titel": "Leitfaden Förderprogramm Kanton Bern, Erneuerbare Energie und Energieeffizienz (29 Seiten)",
+      "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+      "typ": "pdf",
+      "stand": "März 2026 (Titelblatt); Anpassungen auf März 2026 und Januar 2026 auf S. 29 genannt",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Förderbeiträge Gebäude (Neubau, GEAK-Klassen, Minergie)",
+      "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html",
+      "typ": "html",
+      "stand": "Seite ohne Datum; deckt sich mit Leitfaden März 2026",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Förderbeiträge Anlagen (Heizungsersatz, Solarthermie, Wärmenetze, Ladeinfrastruktur)",
+      "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/anlagen.html",
+      "typ": "html",
+      "stand": "Seite ohne Datum; deckt sich mit Leitfaden März 2026",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Förderbeiträge Beratung und Information (GEAK Plus, Grobanalyse, Machbarkeitsstudie, SNBS, Anlässe)",
+      "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/beratung.html",
+      "typ": "html",
+      "stand": "Seite ohne Datum; deckt sich mit Leitfaden März 2026",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Pflichtenheft Grobanalyse / Beratungsbericht",
+      "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-ef-fp-grobanalyse-pflichtenheft-beratungsbericht-de.pdf",
+      "typ": "pdf",
+      "stand": "nicht gelesen, nur verlinkt",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "GEAK Produktreglement (Anforderung für GEAK Plus im Förderverfahren)",
+      "url": "https://www.geak.ch/media/rpro_produktreglement_2024_geak.pdf",
+      "typ": "pdf",
+      "stand": "Ausgabe 2024; nicht gelesen, nur verlinkt",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    }
   ],
   "allgemein": {
     "gesuch": "Online-Portal https://www.subene.apps.be.ch/ (Login über BE-Login mit AGOV, «Förderprogramm Energie», «Neu erfassen»). Gesuch immer VOR Baubeginn bzw. vor Durchführung der Massnahme; später eingereichte Gesuche werden nicht behandelt, nachträgliche Eingabe ist unzulässig und kann strafrechtliche Folgen haben. Ablauf: 1. Beitragsgesuch mit Beilagen, 2. Ausführung, 3. Auszahlungsgesuch mit Beilagen vor Ablauf der Zusicherungsfrist.",
@@ -59,13 +101,21 @@
         "Gesuch gilt nur für den GEAK Plus; weitere Massnahmen brauchen eigenes Gesuch vor Baubeginn",
         "Beilage Beitragsgesuch: Offerte; Auszahlungsgesuch: beglaubigter GEAK inkl. Datenauszug zur Publikation, GEAK Plus gemäss Produktreglement, Rechnung"
       ],
-      "ansatz": {"art": "pauschal", "wert": 1000, "einheit": "Fr.", "beschreibung": "Doppel- und Einfamilienhaus CHF 1000; Mehrfamilienhaus, Verwaltung, Schule, Verkauf, Restaurant je CHF 1500"},
+      "ansatz": {
+        "art": "pauschal",
+        "wert": 1000,
+        "einheit": "Fr.",
+        "beschreibung": "Doppel- und Einfamilienhaus CHF 1000; Mehrfamilienhaus, Verwaltung, Schule, Verkauf, Restaurant je CHF 1500"
+      },
       "minimum": "",
       "maximum": "",
       "kombinierbar": "Eigenes Gesuch; unabhängig von Gesuch Gebäude/Anlagen (diese vor Baubeginn separat). Hinweis im Leitfaden: Für Gebäudesanierung nur Baubewilligungsjahr vor 2000 zugelassen (GEAK Plus selbst: Baujahr vor 2012).",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 7; Seite Beratung"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 7; Seite Beratung"
+      }
     },
     {
       "id": "be-grobanalyse",
@@ -78,13 +128,21 @@
         "Pflichtenheft erfüllen und Berechnung SIA 380/1 inkl. Soll-Sanierungsvariante",
         "Beilagen: Offerte (Gesuch); Grobanalyse und Rechnung (Auszahlung)"
       ],
-      "ansatz": {"art": "pauschal", "wert": 3000, "einheit": "Fr.", "beschreibung": ""},
+      "ansatz": {
+        "art": "pauschal",
+        "wert": 3000,
+        "einheit": "Fr.",
+        "beschreibung": ""
+      },
       "minimum": "",
       "maximum": "",
       "kombinierbar": "Gilt nur für die Grobanalyse; weitere Massnahmen eigenes Gesuch vor Baubeginn.",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 8"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 8"
+      }
     },
     {
       "id": "be-machbarkeitsstudie",
@@ -95,13 +153,21 @@
         "Reine Planungsaufgaben und Variantenstudien für Wärmeerzeugungsersatz gelten nicht als Machbarkeitsstudie",
         "Gesuch vor Erstellung; Zusicherung 1 Jahr"
       ],
-      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der anrechenbaren Kosten", "beschreibung": "max. 50 % der anrechenbaren Kosten"},
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% der anrechenbaren Kosten",
+        "beschreibung": "max. 50 % der anrechenbaren Kosten"
+      },
       "minimum": "",
       "maximum": "CHF 30 000",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 9"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 9"
+      }
     },
     {
       "id": "be-snbs",
@@ -111,13 +177,21 @@
         "Förderberechtigt sind Zertifizierungen ab 01.01.2019",
         "Zusicherung 1 Jahr; Beilagen Beitragsgesuch: Zertifikat, Rechnung"
       ],
-      "ansatz": {"art": "prozent", "wert": 100, "einheit": "% der Zertifizierungsgebühr", "beschreibung": ""},
+      "ansatz": {
+        "art": "prozent",
+        "wert": 100,
+        "einheit": "% der Zertifizierungsgebühr",
+        "beschreibung": ""
+      },
       "minimum": "",
       "maximum": "",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 10"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 10"
+      }
     },
     {
       "id": "be-anlaesse-pilot",
@@ -128,13 +202,21 @@
         "Keine reinen Firmenveranstaltungen; Anlässe/Projekte im Kanton Bern oder klar an Berner Zielgruppen gerichtet",
         "AUE entscheidet über Förderwürdigkeit und Höhe"
       ],
-      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der anrechenbaren Kosten", "beschreibung": "max. 50 %"},
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% der anrechenbaren Kosten",
+        "beschreibung": "max. 50 %"
+      },
       "minimum": "",
       "maximum": "",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 11"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 11"
+      }
     },
     {
       "id": "be-neubau-minergie-a",
@@ -146,13 +228,21 @@
         "Gleichzeitiges Gesuch «Anlagen» nicht möglich, frühestens 3 Jahre nach Auszahlung",
         "Beilagen: Minergie-A-Nachweisformular (Excel als PDF), Pläne mit EBF-Nachweis; Auszahlung: definitives Minergie-A-Zertifikat"
       ],
-      "ansatz": {"art": "pro_m2", "wert": 75, "einheit": "Fr./m² EBF", "beschreibung": "Minergie-A"},
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 75,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "Minergie-A"
+      },
       "minimum": "",
       "maximum": "CHF 250 000 pro Gebäude; über CHF 200 000 degressiv (Formel nicht publiziert)",
       "kombinierbar": "Siehe allgemein/kumulation.",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 12"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 12"
+      }
     },
     {
       "id": "be-geak-klassenaufstieg-epfh",
@@ -165,39 +255,67 @@
         "Keine Förderung bei Öl-, Gas- oder Elektroheizung nach der Sanierung",
         "Gesuch vor Baubeginn; Zusicherung 4 Jahre; Auszahlung: aktueller beglaubigter GEAK, Fotos Hülle und Technik"
       ],
-      "ansatz": {"art": "pro_m2", "wert": 70, "einheit": "Fr./m² EBF", "beschreibung": "EFH: 2 Klassen 70; 3 Klassen 90; 4 Klassen 110; 5 Klassen 130; 6 Klassen 160"},
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 70,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "EFH: 2 Klassen 70; 3 Klassen 90; 4 Klassen 110; 5 Klassen 130; 6 Klassen 160"
+      },
       "minimum": "",
       "maximum": "je Beitrag CHF 250 000 (Grundbeitrag und Bonus getrennt), max. CHF 500 000 pro Gebäude; über CHF 200 000 degressiv",
       "kombinierbar": "Bonus Hüllenklasse additiv. Siehe allgemein/kumulation für Anlagen-Gesuche.",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html", "stelle": "Abschnitt «Sanierungen über GEAK-Klassen», Tabelle; Leitfaden S. 13"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html",
+        "stelle": "Abschnitt «Sanierungen über GEAK-Klassen», Tabelle; Leitfaden S. 13"
+      }
     },
     {
       "id": "be-geak-klassenaufstieg-mfh",
       "kategorie": "geak",
       "massnahme": "Sanierung über GEAK-Klassen, Gebäudekategorie 1-6, MFH (Fr./m² EBF)",
-      "bedingungen": ["Wie EFH (Baubewilligung vor 2000, Aufstieg Hülle und Gesamtenergie, keine fossile/elektrische Heizung danach)"],
-      "ansatz": {"art": "pro_m2", "wert": 50, "einheit": "Fr./m² EBF", "beschreibung": "MFH: 2 Klassen 50; 3 Klassen 60; 4 Klassen 70; 5 Klassen 80; 6 Klassen 90"},
+      "bedingungen": [
+        "Wie EFH (Baubewilligung vor 2000, Aufstieg Hülle und Gesamtenergie, keine fossile/elektrische Heizung danach)"
+      ],
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 50,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "MFH: 2 Klassen 50; 3 Klassen 60; 4 Klassen 70; 5 Klassen 80; 6 Klassen 90"
+      },
       "minimum": "",
       "maximum": "wie EFH",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html", "stelle": "Tabelle GEAK-Klassen; Leitfaden S. 13"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html",
+        "stelle": "Tabelle GEAK-Klassen; Leitfaden S. 13"
+      }
     },
     {
       "id": "be-geak-klassenaufstieg-nichtwohnbau",
       "kategorie": "geak",
       "massnahme": "Sanierung über GEAK-Klassen, Gebäudekategorie 1-6, Nicht-Wohnbau (Fr./m² EBF)",
-      "bedingungen": ["Wie EFH"],
-      "ansatz": {"art": "pro_m2", "wert": 40, "einheit": "Fr./m² EBF", "beschreibung": "Nicht-Wohnbau: 2 Klassen 40; 3 Klassen 50; 4 Klassen 60; 5 Klassen 70; 6 Klassen 80"},
+      "bedingungen": [
+        "Wie EFH"
+      ],
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 40,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "Nicht-Wohnbau: 2 Klassen 40; 3 Klassen 50; 4 Klassen 60; 5 Klassen 70; 6 Klassen 80"
+      },
       "minimum": "",
       "maximum": "wie EFH",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html", "stelle": "Tabelle GEAK-Klassen; Leitfaden S. 13"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/de/start/themen/klima-energie/energie/foerderprogramm-energie/foerderbeitraege-bedingungen/gebaeude.html",
+        "stelle": "Tabelle GEAK-Klassen; Leitfaden S. 13"
+      }
     },
     {
       "id": "be-bonus-huellenklasse",
@@ -207,13 +325,21 @@
         "Nur zusammen mit Sanierung über GEAK-Klassen; wird nur ausbezahlt, wenn zugesichert",
         "Erreichte Klasse Gebäudehülle nach Sanierung: A, B oder C"
       ],
-      "ansatz": {"art": "pro_m2", "wert": 90, "einheit": "Fr./m² EBF", "beschreibung": "Hülle GEAK A: 90; Hülle GEAK B: 70; Hülle GEAK C: 50"},
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 90,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "Hülle GEAK A: 90; Hülle GEAK B: 70; Hülle GEAK C: 50"
+      },
       "minimum": "",
       "maximum": "separat max. CHF 250 000 (Gesamt Beitrag plus Bonus max. CHF 500 000 pro Gebäude)",
       "kombinierbar": "Zusätzlich zum Klassenaufstiegsbeitrag. Entspricht vermutlich dem Bundes-Impulsprogramm (IP-14 Gebäudehüllenbonus), ob der Bonus ganz oder teilweise Bundesgeld ist, ist nicht belegt.",
       "gueltig_ab": "2026-01 (Erhöhung um je CHF 20 laut Leitfaden S. 29, Stand Januar 2026)",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 13 und S. 29"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 13 und S. 29"
+      }
     },
     {
       "id": "be-minergie-sanierung",
@@ -224,13 +350,21 @@
         "Gesuch vor Baubeginn; Zusicherung 4 Jahre; Beilagen: Minergie-Nachweisformular; Auszahlung: definitives Zertifikat, Fotos",
         "Innerhalb 10 Jahren nach GEAK-Sanierung: bereits ausbezahlter Beitrag wird abgezogen"
       ],
-      "ansatz": {"art": "pro_m2", "wert": 160, "einheit": "Fr./m² EBF", "beschreibung": "EFH: Minergie-A 200, Minergie-P 180, Minergie 160. MFH: A 130, P 110, Minergie 90. Nicht-Wohnbau: A 120, P 100, Minergie 80"},
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 160,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "EFH: Minergie-A 200, Minergie-P 180, Minergie 160. MFH: A 130, P 110, Minergie 90. Nicht-Wohnbau: A 120, P 100, Minergie 80"
+      },
       "minimum": "",
       "maximum": "CHF 250 000 pro Gebäude; über CHF 200 000 degressiv",
       "kombinierbar": "Kein Bonus Gebäudehülle erwähnt; siehe allgemein/kumulation.",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 15"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 15"
+      }
     },
     {
       "id": "be-waermepumpe-luft-wasser",
@@ -244,26 +378,44 @@
         "Leistungsbasis max. 50 W/m² EBF",
         "Weitere Bestimmungen siehe allgemein/weitere_bestimmungen (50 %-Deckung, Demontage, Spitzenlast, GEAK nach Abschluss)"
       ],
-      "ansatz": {"art": "pro_kw", "wert": 100, "einheit": "Fr./kW", "beschreibung": "bis 15 kW: CHF 6000; über 15 kW: CHF 4500 + CHF 100/kW (Anteil über 15 kW); über 70 kW: CHF 3200 + CHF 120/kW. Ob die kW-Anteile ab 15 bzw. ab 0 gezählt werden, steht nicht im Leitfaden (siehe offen)."},
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 100,
+        "einheit": "Fr./kW",
+        "beschreibung": "bis 15 kW: CHF 6000; ab 15 kW: CHF 4500 + CHF 100 x Gesamtleistung (15 kW = 6000, stetig); ab 70 kW: CHF 3200 + CHF 120 x Gesamtleistung. Ansatz gilt auf der Gesamtleistung (Regel Cyril 2026-11-14)."
+      },
       "minimum": "",
       "maximum": "max. 35 % der Kosten; über CHF 200 000 degressiv",
       "kombinierbar": "Heizungsersatz im Gesuch «Anlagen»; nicht gleichzeitig mit Gesuch «Gebäude» (3-Jahres-Sperre).",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 16-17"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 16-17"
+      }
     },
     {
       "id": "be-waermepumpe-erdwaerme-wasser",
       "kategorie": "heizung",
       "massnahme": "Ersatz Elektro-, Öl- oder Gasheizung durch Wärmepumpe Erdwärme/Wasser oder Wasser/Wasser",
-      "bedingungen": ["Wie Luft/Wasser; zusätzlich Gütesiegel für Erdwärmesonden-Bohrfirmen ab 16 kWth"],
-      "ansatz": {"art": "pro_kw", "wert": 360, "einheit": "Fr./kW", "beschreibung": "bis 15 kW: CHF 10 000; über 15 kW: CHF 4800 + CHF 360/kW; über 500 kW: CHF 84 800 + CHF 200/kW"},
+      "bedingungen": [
+        "Wie Luft/Wasser; zusätzlich Gütesiegel für Erdwärmesonden-Bohrfirmen ab 16 kWth"
+      ],
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 360,
+        "einheit": "Fr./kW",
+        "beschreibung": "bis 15 kW: CHF 10 000; ab 15 kW: CHF 4800 + CHF 360 x Gesamtleistung; ab 500 kW: CHF 84 800 + CHF 200 x Gesamtleistung (500 kW = 184 800 in beiden Stufen). Ansatz gilt auf der Gesamtleistung (Regel Cyril 2026-11-14)."
+      },
       "minimum": "",
       "maximum": "max. 35 % der Kosten; über CHF 200 000 degressiv",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 16"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 16"
+      }
     },
     {
       "id": "be-waermeverteilung-erstinstallation",
@@ -275,13 +427,21 @@
         "Bei EBF ab 250 m²: Pläne mit EBF-Nachweis",
         "Anrechenbar: Kosten Wärmeverteilsystem und Demontage alte Heizung; Beitrag max. 100 % der Kosten"
       ],
-      "ansatz": {"art": "pro_m2", "wert": 60, "einheit": "Fr./m² EBF", "beschreibung": "EBF unter 250 m²: CHF 15 000 pauschal; EBF ab 250 m²: CHF 60/m² EBF"},
+      "ansatz": {
+        "art": "pro_m2",
+        "wert": 60,
+        "einheit": "Fr./m² EBF",
+        "beschreibung": "EBF unter 250 m²: CHF 15 000 pauschal; EBF ab 250 m²: CHF 60/m² EBF"
+      },
       "minimum": "",
       "maximum": "max. 100 % der anrechenbaren Kosten",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 16, 18, 20"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 16, 18, 20"
+      }
     },
     {
       "id": "be-holzheizung-ersatz-fossil-elektro",
@@ -294,13 +454,21 @@
         "Auszahlung: Rapport Feuerungskontrolle (bei über 70 kW Beurteilungsschreiben AUE mit Messbericht)",
         "Max. 35 % der Kosten"
       ],
-      "ansatz": {"art": "pro_kw", "wert": 350, "einheit": "Fr./kW", "beschreibung": "bis 15 kW: CHF 6000; über 15 bis 70 kW: CHF 800 + CHF 350/kW; über 70 bis 500 kW: CHF 360/kW; über 500 kW: CHF 80 000 + CHF 200/kW"},
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 350,
+        "einheit": "Fr./kW",
+        "beschreibung": "bis 15 kW: CHF 6000; über 15 bis 70 kW: CHF 800 + CHF 350/kW; über 70 bis 500 kW: CHF 360/kW; über 500 kW: CHF 80 000 + CHF 200/kW"
+      },
       "minimum": "",
       "maximum": "max. 35 % der Kosten; über CHF 200 000 degressiv",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 18-19"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 18-19"
+      }
     },
     {
       "id": "be-waermenetz-anschluss",
@@ -312,13 +480,21 @@
         "Auszahlung: Wärmeliefervertrag",
         "Max. 35 % der Kosten"
       ],
-      "ansatz": {"art": "pro_kw", "wert": 100, "einheit": "Fr./kW", "beschreibung": "bis 15 kW: CHF 4500; über 15 bis 70 kW: CHF 3000 + CHF 100/kW; über 70 bis 500 kW: CHF 8000 + CHF 40/kW; über 500 kW: CHF 18 000 + CHF 20/kW"},
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 100,
+        "einheit": "Fr./kW",
+        "beschreibung": "bis 15 kW: CHF 4500; über 15 bis 70 kW: CHF 3000 + CHF 100/kW; über 70 bis 500 kW: CHF 8000 + CHF 40/kW; über 500 kW: CHF 18 000 + CHF 20/kW"
+      },
       "minimum": "",
       "maximum": "max. 35 % der Kosten; über CHF 200 000 degressiv",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 20-21"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 20-21"
+      }
     },
     {
       "id": "be-holz-auf-holz",
@@ -329,13 +505,21 @@
         "Wärmespeicher mind. 25 L/kW; Konformitätserklärung und Leistungsgarantie EnergieSchweiz",
         "Max. 50 W/m² EBF und max. 35 % der Anlagekosten"
       ],
-      "ansatz": {"art": "pro_kw", "wert": 100, "einheit": "Fr./kW", "beschreibung": "bis 30 kW: CHF 3000; über 30 kW: CHF 100/kW"},
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 100,
+        "einheit": "Fr./kW",
+        "beschreibung": "bis 30 kW: CHF 3000; über 30 kW: CHF 100/kW"
+      },
       "minimum": "",
       "maximum": "max. 35 % der Anlagekosten",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 22-23"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 22-23"
+      }
     },
     {
       "id": "be-solarthermie",
@@ -349,13 +533,21 @@
         "Aktive Anlagenüberwachung nach Swissolar ab 20 kWth",
         "Max. 35 % der Anlagekosten; GEAK nach Abschluss (Kat. 1-6)"
       ],
-      "ansatz": {"art": "pro_kw", "wert": 1000, "einheit": "Fr./kWth", "beschreibung": "CHF 2400 + CHF 1000 pro kWth thermische Nennleistung"},
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 1000,
+        "einheit": "Fr./kWth",
+        "beschreibung": "CHF 2400 + CHF 1000 pro kWth thermische Nennleistung"
+      },
       "minimum": "",
       "maximum": "max. 35 % der Anlagekosten",
       "kombinierbar": "Anlagen-Gesuch; Sperre mit Gesuch «Gebäude» 3 Jahre.",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 24"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 24"
+      }
     },
     {
       "id": "be-waermeerzeugung-holz-erneuerbar-ab-70kw",
@@ -367,13 +559,21 @@
         "Nachweis QM Holzheizwerke; Strom- und Wärmemessung",
         "Max. 35 % der Anlagekosten"
       ],
-      "ansatz": {"art": "andere", "wert": 130, "einheit": "Fr./MWh Wärmebedarf pro Jahr", "beschreibung": "CHF 130 pro MWh Wärmebedarf pro Jahr"},
+      "ansatz": {
+        "art": "andere",
+        "wert": 130,
+        "einheit": "Fr./MWh Wärmebedarf pro Jahr",
+        "beschreibung": "CHF 130 pro MWh Wärmebedarf pro Jahr"
+      },
       "minimum": "",
       "maximum": "max. 35 % der Anlagekosten",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 25"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 25"
+      }
     },
     {
       "id": "be-waermenetze-erneuerbar",
@@ -384,13 +584,21 @@
         "Nur vertraglich geregelte Wärmelieferungen an Dritte; Wärme aus erneuerbarer Energie oder nicht anders nutzbarer Abwärme",
         "Nachweis QM Holzheizwerke; max. 35 % der Anlagekosten"
       ],
-      "ansatz": {"art": "andere", "wert": 40, "einheit": "Fr./MWh Wärmetransport pro Jahr", "beschreibung": "CHF 40 pro MWh Wärmetransport pro Jahr"},
+      "ansatz": {
+        "art": "andere",
+        "wert": 40,
+        "einheit": "Fr./MWh Wärmetransport pro Jahr",
+        "beschreibung": "CHF 40 pro MWh Wärmetransport pro Jahr"
+      },
       "minimum": "",
       "maximum": "max. 35 % der Anlagekosten",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 26"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 26"
+      }
     },
     {
       "id": "be-ladeinfrastruktur-basis",
@@ -401,13 +609,21 @@
         "Mind. 10 Parkplätze; Lastmanagement; nur ein Gesuch je Parkierungsanlage",
         "Zusicherung 1 Jahr; max. 35 % der Anlagekosten; Bauarbeiten, Bewilligungen, Planung, Betrieb nicht anrechenbar"
       ],
-      "ansatz": {"art": "pauschal", "wert": 250, "einheit": "Fr. pro erschlossenen Parkplatz", "beschreibung": "Ausbaustufe C nach SIA 2060"},
+      "ansatz": {
+        "art": "pauschal",
+        "wert": 250,
+        "einheit": "Fr. pro erschlossenen Parkplatz",
+        "beschreibung": "Ausbaustufe C nach SIA 2060"
+      },
       "minimum": "10 Parkplätze",
       "maximum": "max. 35 % der Anlagekosten",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 27"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 27"
+      }
     },
     {
       "id": "be-bidirektionale-dc-ladestation",
@@ -418,81 +634,39 @@
         "Bidirektionalität und DC-Ladung nach SIA 2060 (Stand 2020)",
         "Zusicherung 1 Jahr; max. 35 % der Anlagekosten"
       ],
-      "ansatz": {"art": "pauschal", "wert": 3000, "einheit": "Fr. pro installierte Ladestation", "beschreibung": ""},
+      "ansatz": {
+        "art": "pauschal",
+        "wert": 3000,
+        "einheit": "Fr. pro installierte Ladestation",
+        "beschreibung": ""
+      },
       "minimum": "",
       "maximum": "max. 35 % der Anlagekosten",
       "kombinierbar": "",
       "gueltig_ab": "",
       "gueltig_bis": "",
-      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 28"}
+      "quelle": {
+        "url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+        "stelle": "Leitfaden März 2026, S. 28"
+      }
     }
   ],
   "luecken": [
-    {
-      "id": "wp-kw-zuschlag",
-      "art": "unklar_formel",
-      "programm": "be-waermepumpe-luft-wasser",
-      "text": "Stufen «bis 15 kW», «über 15 kW», «über 70 kW»: unklar, ob der kW-Zuschlag auf der Gesamtleistung (Regel Cyril: ab Schwelle Gesamtleistung x Ansatz) oder nur auf dem Anteil über der Schwelle gerechnet wird.",
-      "rueckfrage_an": "AUE, foerderung.aue@be.ch, Tel. +41 31 633 36 50",
-      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
-    },
-    {
-      "id": "wp-kw-zuschlag-erdwaerme",
-      "art": "unklar_formel",
-      "programm": "be-waermepumpe-erdwaerme-wasser",
-      "text": "Gleiche Unklarheit wie bei Luft/Wasser-Wärmepumpe (kW-Stufen).",
-      "rueckfrage_an": "AUE, foerderung.aue@be.ch",
-      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
-    },
     {
       "id": "degression-ueber-200000",
       "art": "unklar_formel",
       "text": "Degressive Berechnung über CHF 200 000: Formel/Stufen nicht im Leitfaden.",
       "rueckfrage_an": "AUE, foerderung.aue@be.ch",
       "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
-    },
-    {
-      "id": "gueltigkeit-2027",
-      "art": "veraltet",
-      "text": "Leitfaden Stand März 2026; Sätze für 2027 nicht bekannt. Vor jedem Gesuch Version prüfen.",
-      "rueckfrage_an": "Leitfaden AUE neu laden",
-      "standard": "Stand des Leitfadens im Bericht nennen."
-    },
-    {
-      "id": "impulsberatung",
-      "art": "nicht_geprueft",
-      "programm": "bund-impulsberatung-erneuerbar-heizen",
-      "text": "Im Leitfaden März 2026 nicht aufgeführt; früher CHF 350 bzw. CHF 1250, Stand unklar.",
-      "rueckfrage_an": "AUE",
-      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
-    },
-    {
-      "id": "steuerabzug",
-      "art": "nicht_geprueft",
-      "text": "Steuerabzüge nur über Suchresultat erfasst, nicht im Original gelesen.",
-      "rueckfrage_an": "Steuerverwaltung Kanton Bern",
-      "standard": "Nicht in den Förderbetrag einrechnen."
-    },
-    {
-      "id": "kumulation-gemeinde",
-      "art": "rueckfrage",
-      "text": "Kumulation mit Gemeinde- und Energieversorgerprogrammen im Leitfaden nicht geregelt.",
-      "rueckfrage_an": "AUE bzw. Gemeinde",
-      "standard": "Die Regel der Gemeinde (Doppelförderung) gilt zusätzlich; bei Zweifel Lücke."
     }
   ],
   "offen": [
-    "Gültigkeit: Leitfaden Stand März 2026 ohne Angabe gueltig_bis; Beitragssätze und Bedingungen für 2027 nicht gefunden. Vor jedem Gesuch Leitfaden-Version prüfen (Anpassungen im Jahresrhythmus, zuletzt Januar und März 2026).",
+    "Kumulation: Mit Gemeindeprogrammen ist die Kumulation in der Regel möglich, sofern nicht anders genannt; mit anderen Programmen (EnergieSchweiz u. a.) in der Regel nicht (Cyril 2026-11-14).",
     "Degressive Berechnung über CHF 200 000: Formel/Stufen nicht im Leitfaden.",
-    "Wärmepumpen: Der Leitfaden nennt die Stufen als «bis 15 kW», «über 15 kW», «über 70 kW»; unklar, ob der kW-Zuschlag auf der Gesamtleistung oder auf dem Anteil über der Schwelle gerechnet wird (Text im PDF-Layout nicht eindeutig). Beim Eintrag im GEAK-Tool oder bei AUE bestätigen lassen: foerderung.aue@be.ch, Tel. +41 31 633 36 50.",
     "Tabelle GEAK-Klassenaufstieg: Werte aus der HTML-Seite Gebäude; die PDF-Tabelle ist im Textextrakt verschachtelt (nicht unabhängig gegengeprüft, Werte stimmen aber in den erkennbaren Zeilen überein).",
     "Impulsprogramm (Bund) laut Leitfaden im kantonalen Programm integriert; welche kantonalen Beträge (z. B. Bonus Gebäudehülle, Ersatz dezentraler Elektroheizungen, WP/Holz über 70 kW) aus Bundesmitteln stammen, ist nicht ausgewiesen. Keine separate Impulsprogramm-Betragstabelle für den Kanton Bern gefunden. Die Kantonsseite auf dasgebaeudeprogramm.ch (https://www.dasgebaeudeprogramm.ch/de/kantone/set/be/) war nicht abrufbar (HTTP 302).",
     "Gebäudeprogramm-Massnahmen, die auf dasgebaeudeprogramm.ch gelistet sind (Wohnungslüftung, Neubau Minergie-P/GEAK A/A, Bonus umfassende Sanierung, Einzelbauteile Wärmedämmung), kommen im Berner Leitfaden März 2026 nicht als eigene Förderbeiträge vor: Einzelbauteil-Förderung (Dämmung) fehlt im Kanton Bern laut Leitfaden. Neubau nur Minergie-A. Ob früher bestehende Berner Förderungen entfallen sind, nicht geprüft.",
-    "Impulsberatung «erneuerbar heizen» (EnergieSchweiz): im Berner Leitfaden März 2026 nicht aufgeführt; ältere Berner Unterlagen nennen CHF 350 (EFH/MFH bis 6 Wohneinheiten) und CHF 1250 (MFH über 6 Wohneinheiten), Stand unklar. Nicht bestätigt, siehe bund.json.",
     "Photovoltaik und Speicher: im Leitfaden keine kantonale Förderung; Bund-Einmalvergütung siehe bund.json.",
-    "Gemeinde-Förderprogramme im Raum Thun nicht Teil dieser Datei.",
-    "Steuerabzüge nur kurz über Suchresultat erfasst, nicht im Originaldokument gelesen; Details (Übertragbarkeit, Rückbau Ersatzneubau, Abzug bei Förderbeiträgen) prüfen.",
-    "Budget/Kontingent: Keine Information, ob Mittel ausgeschöpft sind; Bundesmeldung vom 25.08.2026 nennt 90 % Ausschöpfung des Impulsprogramm-Budgets 2025.",
-    "Kumulation mit Gemeinde- und Energieversorgerprogrammen im Leitfaden nicht geregelt (nur CO2-Abgabe-Programme ausgeschlossen)."
+    "Gemeinde-Förderprogramme im Raum Thun nicht Teil dieser Datei."
   ]
 }
