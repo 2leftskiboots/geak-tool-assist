@@ -5,7 +5,9 @@
   "description": "KI-Unterstützung beim Ausfüllen des GEAK-Tools (DTplan)",
   "type": "module",
   "scripts": {
-    "test-zugang": "node scripts/test-zugang.js"
+    "test-zugang": "node scripts/test-zugang.js",
+    "lese-projekt": "node scripts/lese-projekt.js",
+    "feldkatalog": "node scripts/feldkatalog.js"
   },
   "dependencies": {
     "playwright": "1.55.0"

@@ -31,10 +31,11 @@ Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das 
 
 - Node.js, Playwright. Läuft **lokal auf Cyrils Windows-PC** mit sichtbarem Edge (`channel: 'msedge'`) und gespeichertem Browserprofil unter `%LOCALAPPDATA%\geak-tool-assist\profil` (ausserhalb des Repositorys). Begründung: Entscheid 0001.
 - Gemeinsam: `src/browser.js` – `starteBrowser()`, `oeffneGeak()` (Profil → Umgebungsvariablen → von Hand, 0002).
+- `src/geak/feldkarte.js` (alle Feldzugriffe, erwartete Struktur), `src/geak/lesen.js` (Lesen). `npm run lese-projekt [-- ID]` liest ein Projekt aus (Antwort der Seite mitlesen, Entscheid 0006) nach `daten/projekte/` (nicht eingecheckt, Kundendaten). `npm run feldkatalog` erzeugt `docs/geak-tool/feldkatalog.md`.
 - `npm run test-zugang`: prüft, ob das GEAK-Tool lädt und wie die Anmeldung zustande kam.
 - Gearbeitet wird in der **lokalen** Umgebung «GEAK-Tool-Assist» der Desktop-App (auch per Remote Control). Aus der Cloud blockiert das GEAK-Tool den Zugriff (0001).
 - Unter Windows liegt Node in `C:\Program Files\nodejs`; Repo lokal unter `C:\Users\CyrilDegenDTplan\code\geak-tool-assist`.
 
 ## Stand (2026-11-14)
 
-Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) getestet und angenommen: Abmelden über «Abmelden» oben rechts führt auf `/login`, das Skript meldet sich mit `#Username` / `#Password` wieder an (kein reCAPTCHA). Masterplan erstellt (0003 angenommen), Wartung ergänzt (0004 angenommen). Nächste Etappe: E01 – GEAK-Projekt auslesen.
+Grundgerüst angelegt; Zugang auf Cyrils PC getestet und bestätigt (Entscheid 0001 angenommen). Nach der Anmeldung landet man auf `/portfolio` («GEAK Portfolio»). Anmeldung bleibt im Profil erhalten (zweiter Test ohne Login). Weiterarbeit in einer lokalen Claude-Code-Sitzung auf Cyrils PC. Automatische Anmeldung (0002) getestet und angenommen: Abmelden über «Abmelden» oben rechts führt auf `/login`, das Skript meldet sich mit `#Username` / `#Password` wieder an (kein reCAPTCHA). Masterplan erstellt (0003 angenommen), Wartung ergänzt (0004 angenommen). E01 gebaut (2026-11-14): Projekt 567444 vollständig gelesen; wartet auf Stichproben und OK von Cyril, Entscheid 0006 (Lese-Technik) wartet auf OK. Danach: W01 und E02.
