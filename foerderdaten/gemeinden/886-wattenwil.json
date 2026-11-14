@@ -31,6 +31,15 @@
     ]
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Die Dokumentenliste (40 Einträge) enthält nur die Konzessionsabgabe und Spezialfinanzierungen für Grabunterhalt bzw. Werterhalt OSZW; kein Förderreglement. Die Kategorie-Filter der Dokumentenseite (Berichte, Konzepte, Merkblätter, Tarife) wurden nicht aufgelöst; dort könnten weitere Dokumente liegen.",
     "Eine Suchmaschinen-Vorschau (nicht verifiziert) nennt in der Wattenwiler Post 2019/1 einen Abschnitt «Erneuerbare Energie; Unterstützung»; das PDF war nicht abrufbar (404). Inhalt unbekannt, evtl. nur Hinweis auf Kanton.",

@@ -30,7 +30,9 @@ Eine lokale Datei mit den aktuellen Förderprogrammen, auf die der Assist zurüc
 - OFFEN: Wo die monatliche Routine läuft (Vorschlag: geplante Aufgabe in der Desktop-App auf Cyrils PC).
 - OFFEN: 6 Gemeinden sind `unklar`, weil ihre Reglementssammlung nicht abrufbar war: Wichtrach, Wimmis, Heiligenschwendi, Oberhofen, Sigriswil, Thierachern. Im Browser sichten oder bei der Gemeinde nachfragen.
 - OFFEN: Bei 33 Gemeinden steht `kein_programm`. Belegt sind Reglementsliste und Konzessionsabgabe; schwächer bei Hilterfingen, Wachseldorn, Därstetten, Wattenwil, Eriz (Hinweise in Suchvorschauen) sowie Buchholterberg, Stocken-Höfen, Kirchdorf (gescannte Richtlinien nicht gelesen). Zweiter Durchgang, sobald die Websuche nicht mehr gedrosselt ist.
-- OFFEN (fachlich, für E04): Spiez Heizungsersatz («pauschal Fr. 2'000; ab 20 kW Fr. 100/kW»), Steffisburg GEAK-Plus-Bedingung bei Baujahr vor 2000, Kanton Bern Wärmepumpen-kW-Zuschlag und Degression über Fr. 200'000, PV-Ansatz «ab 100 kW integriert» (gegen Pronovo/Fedlex prüfen). Antworten: Gemeinde bzw. AUE (foerderung.aue@be.ch).
+- ERLEDIGT (Cyril, 2026-11-14): Schwellenregel «ab X kW»: bis zur Schwelle Fixbetrag, ab der Schwelle gesamte Leistung x Ansatz (19 kW = Fixbetrag, 21 kW = 21 x Ansatz). Erfasst als `ansatz.schwelle` bei Spiez (3 Programme) und Steffisburg. Steffisburg «vor 2000» = Baujahr des Gebäudes.
+- ERLEDIGT: Unklarheiten werden maschinenlesbar im Feld `luecken` markiert (Schema: `foerderdaten/SCHEMA.md`), damit der Assist sie als Lücke ausweist. 27 Lücken in 19 Dateien erfasst (Kanton Bern, Bund, Jaberg, Oberdiessbach, 6 unklare und 8 schwach belegte Gemeinden).
+- OFFEN (fachlich, für E04): Kanton Bern Wärmepumpen-kW-Zuschlag (die Schwellenregel gilt wahrscheinlich auch hier, AUE hat es nicht bestätigt) und Degression über Fr. 200'000, PV-Ansatz «ab 100 kW integriert» (gegen Pronovo/Fedlex prüfen). Antworten: AUE (foerderung.aue@be.ch).
 - OFFEN: Jaberg-Beträge stammen aus dem Stand Dezember 2024 (Leistungskatalog wird jährlich festgelegt).
 
 ## Ergebnis

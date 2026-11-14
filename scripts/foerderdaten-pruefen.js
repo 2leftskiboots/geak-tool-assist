@@ -1,6 +1,6 @@
 // npm run foerder-pruefen
 // Prüft alle Dateien der Förderdatenbank formal und zeigt eine Übersicht über die 45 Gemeinden.
-import { ladeAlle, pruefeDatei } from '../src/foerderdaten.js';
+import { ladeAlle, pruefeDatei, alleLuecken } from '../src/foerderdaten.js';
 
 const { gemeinden, kanton, bund, liste } = ladeAlle();
 const meldungen = [];
@@ -25,6 +25,9 @@ for (const g of liste.gemeinden) {
 }
 const offen = gemeinden.reduce((n, g) => n + (g.daten.offen || []).length, 0);
 console.log(`\n${liste.gemeinden.length - fehlend}/${liste.gemeinden.length} Gemeinden erfasst, ${offen} offene Punkte in den Dateien.`);
+const luecken = alleLuecken({ gemeinden, kanton, bund });
+console.log(`\n${luecken.length} Lücken (Feld «luecken», die der Assist als Lücke ausweisen muss):`);
+for (const l of luecken) console.log(` - [${l.art}] ${l.traeger}: ${l.id}`);
 if (meldungen.length) {
   console.log(`\n${meldungen.length} Meldung(en):`);
   for (const m of meldungen) console.log(' - ' + m);

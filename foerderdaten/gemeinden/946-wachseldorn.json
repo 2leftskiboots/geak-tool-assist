@@ -10,6 +10,15 @@
   "dokumente": [],
   "allgemein": {},
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Reglementsliste (Abfall, Abwasser, Gemeindeordnung, Liegenschaftssteuer, Organisation, Personal, Wasserversorgung Zulgtal, Gebühren) enthält nichts zu Energie/Förderung/Fonds.",
     "Startseite zeigt keine Rubrik Energie/Umwelt/Bauen ausser Formulare (eBau); eine eigene Energie-Unterseite wurde nicht gefunden. Websuche ohne Treffer.",

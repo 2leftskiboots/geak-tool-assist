@@ -23,6 +23,15 @@
     "weitere_bestimmungen": []
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Reglementssammlung (42 Einträge) enthält kein Energie-/Förderreglement und keine Spezialfinanzierung Energie; Stichwortverzeichnis (A-Z) hat keinen Eintrag Energie/Förderung/Solar/Konzessionsabgabe (nur Energie Thun AG); Bauverwaltung-Seite listet unter 'Energie und Umwelt' nur Elektrizität, Gas, Umweltschutz, öV.",
     "Gemeinde-Info Hilterfingen-Hünibach (Frühjahr 2025) erwähnt nach Suchzusammenfassung, dass GEAK Plus oder Impulsberatungen für Heizungsersatz 'finanziell gefördert' werden, ohne Beträge; vermutlich Kanton/Regionale Energieberatung, nicht Gemeindeprogramm. Text selbst nicht verifiziert (PDF zu gross/nicht dekodiert).",

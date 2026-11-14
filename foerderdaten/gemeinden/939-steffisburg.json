@@ -119,7 +119,7 @@
       "kategorie": "solar_thermie",
       "massnahme": "Thermische Solaranlage (Formular 3)",
       "bedingungen": [
-        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus (Wegleitung: 'nur für Gebäude mit Baujahr vor 2000').",
+        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus (Wegleitung: 'nur für Gebäude mit Baujahr vor 2000'; Baujahr = Gebäude, nicht Anlage; geklärt durch Cyril 2026-11-14).",
         "Beitragsberechtigt: Sonnenkollektoranlagen bei bestehenden Gebäuden (mindestens 5 Jahre alt) für Warmwasser oder Warmwasser und Heizungsunterstützung.",
         "Neuanlagen als Erweiterung bestehender Anlagen (ab 5 m²) sowie Ersatz bestehender Anlagen, die mindestens 15 Jahre alt sind.",
         "Kollektoren müssen auf www.kollektorliste.ch aufgeführt sein.",
@@ -146,7 +146,7 @@
       "kategorie": "heizung",
       "massnahme": "Heizungsersatz: Erdwärme- und Grundwasser-Wärmepumpe oder Anschluss an Fernwärme/Wärmeverbund",
       "bedingungen": [
-        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus (Wegleitung: 'nur für Gebäude mit Baujahr vor 2000').",
+        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus (Wegleitung: 'nur für Gebäude mit Baujahr vor 2000'; Baujahr = Gebäude, nicht Anlage; geklärt durch Cyril 2026-11-14).",
         "Gefördert wird der Ersatz fossiler oder elektrischer Heizungen in bestehenden, bereits beheizten Gebäuden (mind. 5 Jahre alt); keine Neubauten.",
         "Luft/Wasser-Wärmepumpen werden nicht gefördert.",
         "Erdwärme-/Grundwasser-WP: zugelassenes Systemmodul (wp-systemmodul.ch) oder WP aus der Empfehlungsliste topten.ch.",
@@ -155,12 +155,7 @@
         "Wenn Anschluss an Wärmeverbund möglich ist, wird kein Beitrag an eine andere Heizung geleistet.",
         "Zusage für Wärmeverbund-Anschluss 5 Jahre gültig."
       ],
-      "ansatz": {
-        "art": "andere",
-        "wert": null,
-        "einheit": "",
-        "beschreibung": "Leistung Neuanlage <= 20 kW: CHF 2'000 pauschal; Leistung > 20 kW: CHF 100/kW"
-      },
+      "ansatz": {"art":"andere","wert":2000,"einheit":"Fr. pauschal","beschreibung":"Leistung Neuanlage <= 20 kW: CHF 2'000 pauschal; Leistung > 20 kW: CHF 100/kW","schwelle":{"einheit":"kW","grenze":20,"unterhalb":{"art":"pauschal","wert":2000},"ab_grenze":{"art":"pro_kw","wert":100,"bezug":"gesamte Leistung (Regel Cyril 2026-11-14)"},"grenzfall":"Genau 20 kW: pauschal (Wortlaut «<= 20 kW»)"}},
       "minimum": "CHF 2'000 (pauschal bis 20 kW)",
       "maximum": "CHF 10'000",
       "kombinierbar": "Bei Grossanlagen/Überbauungen legt die Fachkommission den Beitrag fest.",

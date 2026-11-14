@@ -10,6 +10,13 @@ const STATUS = ['programm', 'kein_programm', 'unklar'];
 const KATEGORIEN = ['geak', 'huelle', 'heizung', 'solar_thermie', 'pv', 'pv_speicher', 'waermenetz', 'neubau', 'beratung', 'mobilitaet', 'sonstiges'];
 const ANSATZ_ARTEN = ['pro_m2', 'pro_kw', 'pro_kwp', 'pro_kwh', 'pauschal', 'prozent', 'andere'];
 
+export const LUECKEN_ARTEN = ['unklar_formel', 'nicht_abrufbar', 'nicht_geprueft', 'veraltet', 'schwache_evidenz', 'rueckfrage'];
+
+/** Alle Lücken aller Dateien als flache Liste (für E04: Lücke statt raten). */
+export function alleLuecken({ gemeinden, kanton, bund }) {
+  return [...gemeinden, kanton, bund].filter(Boolean).flatMap(({ daten }) => (daten.luecken || []).map((l) => ({ traeger: daten.traeger, ...l })));
+}
+
 function lies(pfad) {
   return JSON.parse(readFileSync(pfad, 'utf8'));
 }
@@ -37,6 +44,9 @@ export function pruefeDatei({ datei, daten }, { gemeinde = true } = {}) {
   if (daten.status === 'programm' && progs.length === 0) f('status programm, aber keine Programme');
   if (daten.status === 'programm' && !(daten.dokumente || []).length) f('status programm, aber kein Originaldokument unter dokumente');
   if (daten.status === 'kein_programm' && progs.length > 0) f('status kein_programm, aber Programme vorhanden');
+  const lk = daten.luecken || [];
+  if (daten.status === 'unklar' && lk.length === 0) f('status unklar, aber keine Lücke unter luecken eingetragen');
+  for (const l of lk) if (!l.id || !LUECKEN_ARTEN.includes(l.art) || !l.text) f(`Lücke ungültig (id, art, text nötig): ${JSON.stringify(l).slice(0, 60)}`);
   const ids = new Set();
   for (const p of progs) {
     const k = p.id || '(ohne id)';
@@ -61,6 +71,7 @@ export function flach({ gemeinden, kanton, bund }) {
     out[`${t}|status`] = daten.status;
     for (const [k, v] of Object.entries(daten.allgemein || {})) out[`${t}|allgemein|${k}`] = JSON.stringify(v);
     for (const d of daten.dokumente || []) out[`${t}|dokument|${d.url}`] = `${d.stand || ''}|${d.gueltig_ab || ''}|${d.gueltig_bis || ''}`;
+    for (const l of daten.luecken || []) out[`${t}|luecke|${l.id}`] = l.text;
     for (const p of daten.programme || []) {
       out[`${t}|programm|${p.id}`] = JSON.stringify({ a: p.ansatz, min: p.minimum, max: p.maximum, b: p.bedingungen, k: p.kombinierbar, ab: p.gueltig_ab, bis: p.gueltig_bis });
     }

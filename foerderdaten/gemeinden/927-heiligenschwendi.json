@@ -22,6 +22,15 @@
     "weitere_bestimmungen": []
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "quelle-nicht-abrufbar",
+      "art": "nicht_abrufbar",
+      "text": "Reglementsliste nicht abrufbar. Ob ein Förderprogramm besteht, ist nicht geklärt.",
+      "rueckfrage_an": "Im Browser sichten oder Gemeinde fragen",
+      "standard": "Status unklar: Programmanspruch weder bejahen noch verneinen, als Lücke ausweisen."
+    }
+  ],
   "offen": [
     "Die Gemeindewebsite war für die automatische Abfrage nicht erreichbar (Zertifikatsfehler); Reglementsliste, Energie- und Bauen-Seiten konnten nicht selbst gelesen werden. Deshalb nicht als kein_programm markiert. Manuell im Browser prüfen: http://www.heiligenschwendi.ch/reglemente.html und Rubrik Bauen/Energie.",
     "Suchtreffer-Zusammenfassungen: Reglementsliste führt Abfall, Abwasser, Bau, Feuerwehr, Friedhof, Wasser, Parkplatz u. a., kein Energie-/Förderreglement; Links-Seite verweist nur auf kantonale Energieförderung (031 633 36 50) und Regionale Energieberatung Thun Oberland-West. Weder Spezialfinanzierung noch Konzessionsabgabe-Reglement gefunden.",

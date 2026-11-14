@@ -32,6 +32,15 @@
     ]
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Die Reglementsliste (25 Dokumente) enthält kein Energie-/Förderreglement. Die Energie-Seite (eBau/Energie) nennt nur die Meldepflicht für Wärmeerzeugerersatz und verweist auf Kanton und Regionale Energieberatung Thun Oberland-West; keine kommunalen Beiträge.",
     "Eine Suchmaschinen-Vorschau (nicht verifiziert) deutet an, dass Mitteilungsblatt Nr. 169 (ca. 2024) vom Wegfall bisheriger Gemeindeaufgaben im Energiebereich spricht; das PDF (https://www.eriz.ch/images/files/mitteilungsblatt/Mitteilungsblatt_Nr_169.pdf) wurde nur maschinell nach Schlagworten durchsucht und nicht vollständig gelesen.",

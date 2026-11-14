@@ -23,6 +23,15 @@
     ]
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "quelle-nicht-abrufbar",
+      "art": "nicht_abrufbar",
+      "text": "Reglementsliste nicht abrufbar. Ob ein Förderprogramm besteht, ist nicht geklärt.",
+      "rueckfrage_an": "Im Browser sichten oder Gemeinde fragen",
+      "standard": "Status unklar: Programmanspruch weder bejahen noch verneinen, als Lücke ausweisen."
+    }
+  ],
   "offen": [
     "Kein kommunales Energieförderprogramm gefunden (Dienstleistungen A-Z enthält nur «Energieberatung» und «Feuerungskontrolle»; Suchmaschine ohne Treffer). Nicht «kein_programm», weil die Dokumentensammlung (rund 8 Seiten à 20 Dokumente) nur auf Seite 1 (20 Dokumente, Abfall bis Datenschutz, alphabetisch; ?page=2 lieferte dieselbe Liste) geprüft werden konnte; Reglemente mit E/F/K (Energie, Förderung, Konzessionsabgabe) liegen auf nicht abrufbaren Folgeseiten.",
     "Sigriswil ist nicht Mitglied der Energieregion Thunersee (Mitgliederliste laut thun.ch).",

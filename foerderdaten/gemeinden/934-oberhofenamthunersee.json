@@ -67,6 +67,15 @@
       "quelle": {"url": "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf", "stelle": "Factsheet «Kosten und Finanzierung»; Mitgliedschaft Oberhofen laut https://www.thun.ch/energie/93568"}
     }
   ],
+  "luecken": [
+    {
+      "id": "quelle-nicht-abrufbar",
+      "art": "nicht_abrufbar",
+      "text": "Reglementsliste nicht abrufbar (Energiefranken-Hinweis auf Reglement vorhanden). Ob ein Förderprogramm besteht, ist nicht geklärt.",
+      "rueckfrage_an": "Im Browser sichten oder Gemeinde fragen",
+      "standard": "Status unklar: Programmanspruch weder bejahen noch verneinen, als Lücke ausweisen."
+    }
+  ],
   "offen": [
     "Kein eigenes kommunales Förderprogramm (Reglement/Merkblatt mit Beiträgen für Gebäudehülle, Heizung, PV usw.) auf oberhofen.ch gefunden. Das im Hinweis genannte PDF «Förderprogramm Energie 02/2025» ist nur das kantonale Informationsschreiben. Status deshalb «unklar» (nicht «kein_programm»), weil das Energie-Coaching ein kommunal mitfinanziertes Angebot ist und die Reglementssammlung nur über die Titelliste geprüft wurde.",
     "Das Reglement über die Versorgung der Einwohnergemeinde Oberhofen mit elektrischer Energie liegt nur als Scan (Bild) vor und konnte nicht maschinell gelesen werden; Hinweise auf einen Energiefonds sind daher nicht ausgeschlossen. Die Titelliste der Reglemente enthält keinen Energiefonds / kein Förderreglement Energie.",

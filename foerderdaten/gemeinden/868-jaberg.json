@@ -111,6 +111,15 @@
       "quelle": {"url": "https://www.jaberg.ch/.cm4all/uproc.php/0/E-Dokumente/Vorlage%20Gesuch%20Beitrag%20aus%20Konzessionsabgaben.pdf", "stelle": "Gesuchsformular, Tabelle Massnahme/Förderbeitrag, Zeile 4"}
     }
   ],
+  "luecken": [
+    {
+      "id": "katalog-veraltet",
+      "art": "veraltet",
+      "text": "Leistungskatalog wird jährlich festgelegt (Art. 2 Abs. 3); Formular Stand Dezember 2024, kein Katalog 2025/2026 gefunden.",
+      "rueckfrage_an": "Gemeinde Jaberg, 031 781 17 08, gemeinde@jaberg.ch",
+      "standard": "Beträge als unbestätigt ausweisen."
+    }
+  ],
   "offen": [
     "Der Leistungskatalog wird laut Art. 2 Abs. 3 der Richtlinien jährlich vom Gemeinderat festgelegt. Das gefundene Gesuchsformular stammt von Dezember 2024; ein Katalog für 2025/2026 wurde auf der Website nicht gefunden. Beträge bei der Gemeindeverwaltung (031 781 17 08, gemeinde@jaberg.ch) bestätigen lassen, bevor sie verwendet werden.",
     "Kein Gesuch vor Baubeginn nötig (Gesuch nach der Massnahme); die Bewilligung/Budgetlage (Einnahmen aus Konzessionsabgaben als Jahresdeckel, Reihenfolge des Eingangs) ist vorab nicht prüfbar. Kein Anspruch auf Auszahlung.",

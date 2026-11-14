@@ -24,6 +24,15 @@
     "weitere_bestimmungen": []
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "quelle-nicht-abrufbar",
+      "art": "nicht_abrufbar",
+      "text": "Reglementsliste nicht abrufbar. Ob ein Förderprogramm besteht, ist nicht geklärt.",
+      "rueckfrage_an": "Im Browser sichten oder Gemeinde fragen",
+      "standard": "Status unklar: Programmanspruch weder bejahen noch verneinen, als Lücke ausweisen."
+    }
+  ],
   "offen": [
     "Kein kommunales Förderprogramm Energie gefunden. Rubrik 'Umwelt und Bauen' hat Energie (Informationen einholen), Solaranlagen, Wärmeerzeuger-Ersatz (beides nur Meldung via eBau) ohne Förderangaben. Reglementssammlung der Gemeinde wurde nicht gefunden/gelesen (URL-Rate /de/verwaltung/reglemente/ ergab 404), daher nicht kein_programm.",
     "Seite 'Energie - Informationen einholen' beschreibt die Energieregion Thunersee (Heimberg, Oberhofen, Spiez, Steffisburg, Thierachern, Thun) und nennt eine Fussnote zu 'kommunalen Förderbeiträgen' ohne Inhalt in den gelesenen Texten; verweist auf Amt für Umwelt und Energie und Regionale Energieberatung. Unklar, ob dort ein Link zu Förderbeiträgen versteckt ist.",

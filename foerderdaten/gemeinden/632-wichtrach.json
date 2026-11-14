@@ -25,6 +25,15 @@
     ]
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "quelle-nicht-abrufbar",
+      "art": "nicht_abrufbar",
+      "text": "Dokumentenliste nur Seite 1 von 4 abrufbar. Ob ein Förderprogramm besteht, ist nicht geklärt.",
+      "rueckfrage_an": "Im Browser sichten oder Gemeinde fragen",
+      "standard": "Status unklar: Programmanspruch weder bejahen noch verneinen, als Lücke ausweisen."
+    }
+  ],
   "offen": [
     "Von der Dokumentenliste (4 Seiten) war nur Seite 1 abrufbar; Seiten 2 bis 4 (Reglemente, Tarife, Verordnungen ab Buchstabe F) wurden nicht gesehen. Auf Seite 1 steht nur das «Energiegesetz - Informationsblatt für Grundeigentümer»; ein Reglement zu Konzessionsabgabe/Förderprogramm Energie konnte daher nicht ausgeschlossen werden.",
     "Eine Suchvorschau (nicht verifiziert) nennt keine Konzessionsabgabe und keinen kommunalen GEAK-Beitrag. Das Versorgungswerk Niederwichtrach ist gemeindeeigen (Energieversorger, nicht erfasst); sonst BKW.",

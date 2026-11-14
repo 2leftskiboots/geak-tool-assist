@@ -427,6 +427,60 @@
       "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "Leitfaden März 2026, S. 28"}
     }
   ],
+  "luecken": [
+    {
+      "id": "wp-kw-zuschlag",
+      "art": "unklar_formel",
+      "programm": "be-waermepumpe-luft-wasser",
+      "text": "Stufen «bis 15 kW», «über 15 kW», «über 70 kW»: unklar, ob der kW-Zuschlag auf der Gesamtleistung (Regel Cyril: ab Schwelle Gesamtleistung x Ansatz) oder nur auf dem Anteil über der Schwelle gerechnet wird.",
+      "rueckfrage_an": "AUE, foerderung.aue@be.ch, Tel. +41 31 633 36 50",
+      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
+    },
+    {
+      "id": "wp-kw-zuschlag-erdwaerme",
+      "art": "unklar_formel",
+      "programm": "be-waermepumpe-erdwaerme-wasser",
+      "text": "Gleiche Unklarheit wie bei Luft/Wasser-Wärmepumpe (kW-Stufen).",
+      "rueckfrage_an": "AUE, foerderung.aue@be.ch",
+      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
+    },
+    {
+      "id": "degression-ueber-200000",
+      "art": "unklar_formel",
+      "text": "Degressive Berechnung über CHF 200 000: Formel/Stufen nicht im Leitfaden.",
+      "rueckfrage_an": "AUE, foerderung.aue@be.ch",
+      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
+    },
+    {
+      "id": "gueltigkeit-2027",
+      "art": "veraltet",
+      "text": "Leitfaden Stand März 2026; Sätze für 2027 nicht bekannt. Vor jedem Gesuch Version prüfen.",
+      "rueckfrage_an": "Leitfaden AUE neu laden",
+      "standard": "Stand des Leitfadens im Bericht nennen."
+    },
+    {
+      "id": "impulsberatung",
+      "art": "nicht_geprueft",
+      "programm": "bund-impulsberatung-erneuerbar-heizen",
+      "text": "Im Leitfaden März 2026 nicht aufgeführt; früher CHF 350 bzw. CHF 1250, Stand unklar.",
+      "rueckfrage_an": "AUE",
+      "standard": "Nicht rechnen, als Lücke ausweisen und Cyril vorlegen."
+    },
+    {
+      "id": "steuerabzug",
+      "art": "nicht_geprueft",
+      "text": "Steuerabzüge nur über Suchresultat erfasst, nicht im Original gelesen.",
+      "rueckfrage_an": "Steuerverwaltung Kanton Bern",
+      "standard": "Nicht in den Förderbetrag einrechnen."
+    },
+    {
+      "id": "kumulation-gemeinde",
+      "art": "rueckfrage",
+      "text": "Kumulation mit Gemeinde- und Energieversorgerprogrammen im Leitfaden nicht geregelt.",
+      "rueckfrage_an": "AUE bzw. Gemeinde",
+      "standard": "Die Regel der Gemeinde (Doppelförderung) gilt zusätzlich; bei Zweifel Lücke."
+    }
+  ],
   "offen": [
     "Gültigkeit: Leitfaden Stand März 2026 ohne Angabe gueltig_bis; Beitragssätze und Bedingungen für 2027 nicht gefunden. Vor jedem Gesuch Leitfaden-Version prüfen (Anpassungen im Jahresrhythmus, zuletzt Januar und März 2026).",
     "Degressive Berechnung über CHF 200 000: Formel/Stufen nicht im Leitfaden.",

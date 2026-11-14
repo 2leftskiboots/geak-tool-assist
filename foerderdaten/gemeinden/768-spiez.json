@@ -204,7 +204,7 @@
         "Gesuch: Offerte neue Wärmeversorgung, Gesuchsbrief Kanton Bern, Deklaration Wärmemix; Auszahlung: Schlussrechnung, Inbetriebnahmeprotokoll, Bestätigung Auszahlung Kanton",
         "Erneuerbarer Anteil mind. 75% gem. KEnV 2016 Anhang 8 oder Vollzugshilfe EN-101 (g = 0.4)"
       ],
-      "ansatz": {"art": "andere", "wert": 2000, "einheit": "Fr. pauschal", "beschreibung": "Pauschal CHF 2'000; ab 20 kW CHF 100/kW"},
+      "ansatz": {"art":"andere","wert":2000,"einheit":"Fr. pauschal","beschreibung":"Pauschal CHF 2'000; ab 20 kW CHF 100/kW","schwelle":{"einheit":"kW","grenze":20,"unterhalb":{"art":"pauschal","wert":2000},"ab_grenze":{"art":"pro_kw","wert":100,"bezug":"gesamte Leistung (Regel Cyril 2026-11-14)"},"grenzfall":"Genau 20 kW: laut Wortlaut «ab 20 kW» pro kW (ergibt ebenfalls 2000)"}},
       "minimum": "",
       "maximum": "Gebäude-Jahresmaximum",
       "kombinierbar": "Mit kantonaler Förderung des Heizungsersatzes (Anlagen) kombinierbar",
@@ -224,7 +224,7 @@
         "Zusätzlich gefordert: GEAK Plus oder Energieberatung der öffentlichen regionalen Energieberatung oder Nachweis guter Gebäudehülle (GEAK D) oder dokumentierter Verbrauch < 100 kWh/m2 Endenergie (gemessen)",
         "Gesuch: Offerte, Gesuchsbrief Kanton; Auszahlung: Schlussrechnung, Inbetriebnahmeprotokoll, Bestätigung Auszahlung Kanton"
       ],
-      "ansatz": {"art": "andere", "wert": 2000, "einheit": "Fr. pauschal", "beschreibung": "Pauschal CHF 2'000; ab 20 kW CHF 100/kW"},
+      "ansatz": {"art":"andere","wert":2000,"einheit":"Fr. pauschal","beschreibung":"Pauschal CHF 2'000; ab 20 kW CHF 100/kW","schwelle":{"einheit":"kW","grenze":20,"unterhalb":{"art":"pauschal","wert":2000},"ab_grenze":{"art":"pro_kw","wert":100,"bezug":"gesamte Leistung (Regel Cyril 2026-11-14)"},"grenzfall":"Genau 20 kW: laut Wortlaut «ab 20 kW» pro kW (ergibt ebenfalls 2000)"}},
       "minimum": "",
       "maximum": "Gebäude-Jahresmaximum",
       "kombinierbar": "Mit kantonaler Heizungsersatz-Förderung; Wärmepumpe ist zusätzlich zur Machbarkeitsstudie förderbar",
@@ -243,7 +243,7 @@
         "Weitere Bedingungen gemäss Förderung Kanton Bern Anlagen; keine Doppelförderung im Bereich «Gebäude»",
         "Gesuch: Offerte, Gesuchsbrief Kanton; Auszahlung: Schlussrechnung, Inbetriebnahmeprotokoll, Bestätigung Auszahlung Kanton"
       ],
-      "ansatz": {"art": "andere", "wert": 2000, "einheit": "Fr. pauschal", "beschreibung": "Pauschal CHF 2'000; ab 20 kW CHF 100/kW"},
+      "ansatz": {"art":"andere","wert":2000,"einheit":"Fr. pauschal","beschreibung":"Pauschal CHF 2'000; ab 20 kW CHF 100/kW","schwelle":{"einheit":"kW","grenze":20,"unterhalb":{"art":"pauschal","wert":2000},"ab_grenze":{"art":"pro_kw","wert":100,"bezug":"gesamte Leistung (Regel Cyril 2026-11-14)"},"grenzfall":"Genau 20 kW: laut Wortlaut «ab 20 kW» pro kW (ergibt ebenfalls 2000)"}},
       "minimum": "",
       "maximum": "Gebäude-Jahresmaximum",
       "kombinierbar": "Mit kantonaler Heizungsersatz-Förderung",
@@ -408,7 +408,7 @@
   "offen": [
     "Datumsabweichung: Webseite der Gemeinde nennt «revidiertes Programm tritt am 1. Januar 2026 in Kraft» und Dokumentdatum 13.03.2026; das PDF selbst nennt PUB-Beschluss 24.02.2026, in Kraft per 25.02.2026. Massgebend für Gesuche vor dem 25.02.2026 evtl. die Vorversion (Stand 16.10.2024) – nicht geprüft.",
     "Gesuchseingabe laut Webseite nur noch online über https://portal.energie-foerderung.ch (Portal nicht geprüft).",
-    "Heizungsersatz: Formulierung «pauschal CHF 2'000; ab 20 kW CHF 100/kW» lässt offen, ob ab 20 kW der Betrag insgesamt CHF 100 x kW beträgt (bei 20 kW = 2'000, also stetig) oder 2'000 plus 100/kW über 20 kW. Vermutlich Gesamtbetrag CHF 100/kW, nicht eindeutig. Bei der Gemeinde klären.",
+    "Heizungsersatz: Schwellenregel «pauschal CHF 2'000; ab 20 kW CHF 100/kW» als Gesamtbetrag CHF 100 x kW gelesen (Regel Cyril: unter der Schwelle Fixbetrag, ab der Schwelle Leistung x Ansatz). Gemeinde hat das nicht ausdrücklich bestätigt.",
     "In der PDF-Textebene sind Sonderzeichen (z.B. «≤» bei U-Werten) nicht lesbar; U-Wert-Mindeststandards als Grenzwerte (vermutlich ≤) interpretiert.",
     "Kein Betrag für PV-Speicher (Batterie) im Programm; keine Förderung für Neubauten.",
     "Jahresbudget der Spezialfinanzierung (Franken) nicht genannt; Mittel = 30% der Konzessionsabgabe (1.5 Rp./kWh, max. CHF 25 pro Zähler und Monat, Reglement Art. 2).",

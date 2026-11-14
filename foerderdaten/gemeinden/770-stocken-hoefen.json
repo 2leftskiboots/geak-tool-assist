@@ -11,6 +11,15 @@
   "dokumente": [],
   "allgemein": {},
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Erlassliste (26 Dokumente) enthält kein Energie-/Förderreglement. Nicht lesbar (Scan): Konzessionsabgabe Stromversorgung (ab 01.07.2021) und Richtlinien über das Beitrags- und Spendenwesen (ab 01.07.2024); Inhalt bezüglich Energiebeiträgen nicht geprüft.",
     "Merkblätter-Seite nur als Link erfasst, nicht gelesen.",

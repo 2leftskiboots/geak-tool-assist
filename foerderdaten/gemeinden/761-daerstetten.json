@@ -10,6 +10,15 @@
   "dokumente": [],
   "allgemein": {},
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Reglementsliste (29 Einträge) enthält nichts zu Energie; vorhanden sind u. a. Reglement über die Mehrwertabgabe (nicht gelesen), Jugendförderungs- und Kulturförderungsreglement.",
     "Startseite zeigt keine Rubrik Energie/Förderprogramm; keine separate Energie-Unterseite gefunden. Websuche ohne Treffer."

@@ -10,6 +10,15 @@
   "dokumente": [],
   "allgemein": {},
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Reglementssammlung (43 Dokumente, Stand Seite 2026-11-14) enthält kein Energie-/Förderreglement. Nicht lesbar (gescannte PDFs): Konzessionsabgabe Stromversorgung (01.01.2022), Fondsreglement (14.05.1999), Richtlinien Gemeindebeiträge (Stand 01.10.2024). Verwendung der Konzessionsabgabe und ob Energiemassnahmen beitragsberechtigt sind: nicht geprüft.",
     "Energieversorger (BKW) nicht erfasst.",

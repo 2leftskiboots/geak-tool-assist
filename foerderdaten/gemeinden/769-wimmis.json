@@ -22,6 +22,15 @@
     ]
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "quelle-nicht-abrufbar",
+      "art": "nicht_abrufbar",
+      "text": "Reglementsliste nicht abrufbar. Ob ein Förderprogramm besteht, ist nicht geklärt.",
+      "rueckfrage_an": "Im Browser sichten oder Gemeinde fragen",
+      "standard": "Status unklar: Programmanspruch weder bejahen noch verneinen, als Lücke ausweisen."
+    }
+  ],
   "offen": [
     "Die Reglementssammlung der Einwohnergemeinde Wimmis wurde nicht gefunden (Navigation «Amtliche Publikationen» war nicht abrufbar, 404). Die Startseite und die Wärmeverbund-Seite enthalten keine Energie-Förderbeiträge; deshalb nur «unklar», nicht «kein_programm».",
     "Plattform J (8. Juli 2021, Drittquelle): Der Gemeinderat strich die BKW-Konzessionsabgabe (1.5 Rp/kWh, über CHF 100'000/Jahr, floss in die allgemeine Kasse, keine Zweckbindung). Ob später ein Reglement eingeführt wurde, ist ungeklärt.",

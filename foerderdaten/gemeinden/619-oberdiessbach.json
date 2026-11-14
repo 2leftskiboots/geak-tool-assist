@@ -34,6 +34,15 @@
     ]
   },
   "programme": [],
+  "luecken": [
+    {
+      "id": "nachfolgeprogramm",
+      "art": "rueckfrage",
+      "text": "Förderrichtlinien per 31.12.2025 aufgehoben; ob ein Nachfolgeprogramm (EVO) kommt, ist nicht belegt.",
+      "rueckfrage_an": "Gemeinde Oberdiessbach, 031 770 27 27",
+      "standard": "Als «kein Programm, mit Rückfrage» behandeln."
+    }
+  ],
   "offen": [
     "Das einzige gefundene Förderdokument (EFR) trägt den Vermerk «Aufgehoben per 31.12.25, Frist für Gesuche: 30.04.26». Es gilt somit nicht mehr (Stand 2026-11-14). Ob ein Nachfolgeprogramm (z. B. durch die per 1.1.2026 ausgegliederte Elektrizitätsversorgung EVO, Anstaltsreglement) geplant ist, ist nicht belegt; bei der Gemeinde (031 770 27 27) nachfragen.",
     "Die Seite «Energieberatung, Förderbeiträge» enthält keine Beträge, nur Hinweise auf Energieberatung Bern-Mittelland und kantonale Pflichten.",

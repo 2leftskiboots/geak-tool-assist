@@ -10,6 +10,15 @@
   "dokumente": [],
   "allgemein": {},
   "programme": [],
+  "luecken": [
+    {
+      "id": "schwache-evidenz",
+      "art": "schwache_evidenz",
+      "text": "Status kein_programm ist nur schwach belegt (Suchvorschau-Hinweise oder gescannte Richtlinien nicht gelesen). Details unter offen.",
+      "rueckfrage_an": "Gemeindeverwaltung bestätigen lassen",
+      "standard": "Als «kein Programm (unbestätigt)» ausweisen."
+    }
+  ],
   "offen": [
     "Reglementssammlung (rund 40 Dokumente) enthält kein Energie-/Förderreglement; nur Konzessionsabgabe Stromlieferung (740.21), Gebührentarif Feuerungskontrolle und Sozialfonds. Datei 740.21 beim Abruf nicht als Konzessionsabgabe-Reglement erkennbar (lieferte Metadaten «Gebührenreglement Kirchdorf»), nicht inhaltlich geprüft.",
     "Seite /verwaltung/einwohnerservice/umwelt nur als Link gesehen, nicht gelesen.",
