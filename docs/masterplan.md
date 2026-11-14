@@ -52,6 +52,7 @@ Zwei verschiedene Probleme:
 | Übergabeformat | dieses Repo | vom Assist definiert, nach den Feldern des GEAK-Tools |
 | Förderdatenbank | dieses Repo | Bund, Kanton Bern, Gemeinden Region Thun; monatlich aktualisiert, lokale Datei |
 | Lesen | dieses Repo | ein Projekt im GEAK-Tool komplett auslesen |
+| Förderrechner | dieses Repo | Förderbeiträge je Variante bestimmen (Grundlage für Prüfen und Eintragen) |
 | Prüfen | dieses Repo | Rechtschreibung, Texte ↔ Massnahmen, Förderbeiträge ↔ Varianten |
 | Schreiben | dieses Repo | Felder im GEAK-Tool ausfüllen |
 | Wartung | dieses Repo | Änderungen am GEAK-Tool erkennen und gezielt nachführen (Abschnitt 5) |
@@ -78,15 +79,25 @@ Reihenfolge nach Nutzen und Risiko. Zuerst kommt die Schlusskontrolle, weil sie 
 | W01 | [Wartung: Struktur-Check und Release-Ablauf](etappen/W01-wartung.md) | offen | E01 |
 | E02 | [Schlusskontrolle Texte](etappen/E02-schlusskontrolle-texte.md) | offen | E01 |
 | E03 | [Förderdatenbank](etappen/E03-foerderdatenbank.md) | offen | – |
-| E04 | [Schlusskontrolle Förderbeiträge](etappen/E04-schlusskontrolle-foerderung.md) | offen | E01, E03 |
+| E04 | [Förderbeiträge bestimmen und prüfen](etappen/E04-foerderbeitraege-bestimmen.md) | offen | E01, E03 |
 | E05 | [Übergabeformat und Lückenprüfung](etappen/E05-uebergabeformat.md) | offen | E01 |
 | E06 | [Ist-Zustand schreiben](etappen/E06-ist-zustand-schreiben.md) | offen | E05 |
 | E07 | [Massnahmen und Varianten schreiben](etappen/E07-massnahmen-varianten.md) | offen | E06 |
-| E08 | [Tarife und Förderbeiträge schreiben](etappen/E08-tarife-foerderung-schreiben.md) | offen | E03, E07 |
+| E08 | [Förderbeiträge und Tarife eintragen](etappen/E08-foerderung-tarife-eintragen.md) | offen | E04, E07 |
 | E09 | [Texte und Fotos](etappen/E09-texte-fotos.md) | offen | E07 |
 | E10 | [Änderungen nachführen](etappen/E10-aenderungen-nachfuehren.md) | offen | E06–E09 |
 
 E03 hängt von nichts ab und kann parallel zu E01/E02 gebaut werden. W01 folgt direkt auf E01, damit vor der ersten schreibenden Etappe (E06) erkannt wird, wenn sich das GEAK-Tool ändert.
+
+**Strang Förderung** (zieht sich durch drei Etappen, Entscheid 0005):
+
+| Schritt | Etappe | Was |
+|---|---|---|
+| Daten | E03 | Programme von Bund, Kanton Bern und Gemeinden sammeln, monatlich aktualisieren |
+| Bestimmen | E04 | für ein Projekt je Variante die Beiträge berechnen, mit Programm, Rechenweg und Quelle; Vergleich mit dem Erfassten = Prüfung |
+| Eintragen | E08 | die bestimmten Beiträge im GEAK-Tool erfassen und den Varianten bzw. Massnahmen zuordnen |
+
+Die Berechnung entsteht nur einmal (E04). Prüfen und Eintragen verwenden dieselbe Berechnung, darum können Kontrolle und Ausfüllen nicht auseinanderlaufen.
 
 Meilensteine:
 
@@ -147,7 +158,7 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 - OFFEN: Wie das GEAK-Tool technisch ausgelesen wird (Seiteninhalt oder die Datenabfragen, die die Seite selbst macht). Klärung in E01; nichts, was den Schutz umgeht.
 - OFFEN: Womit die Rechtschreibung geprüft wird. Projektdaten dürfen nicht ungefragt an externe Dienste gehen. Klärung in E02.
 - OFFEN: Welche Gemeinden die Förderdatenbank abdeckt (Liste Region Thun). Klärung in E03.
-- OFFEN: Wie der Förder-Check rechnet (Regeln als Daten oder Prüfung durch die KI mit Quellenangabe). Klärung in E04.
+- OFFEN: Wie der Förderrechner rechnet (Regeln als Daten oder Bestimmung durch die KI mit Quellenangabe). Klärung in E04.
 - OFFEN: Welches Projekt als festes Referenzprojekt für den Struktur-Check dient (darf sich nicht laufend ändern). Klärung in W01.
 - OFFEN: Genaues Format der Version in der Fusszeile und Aufbau der Release-Notes-Seite. Klärung in W01.
 
@@ -166,3 +177,4 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 | 2026-11-14 | Masterplan erstellt nach Interview mit Cyril | 0003 |
 | 2026-11-14 | Wartung bei GEAK-Tool-Releases ergänzt (Abschnitt 5, Etappe W01) | 0004 |
 | 2026-11-14 | Struktur-Check nur bei Versionswechsel statt wöchentlich und vor jedem Schreiben | 0004 |
+| 2026-11-14 | Förderung als durchgehender Strang: E04 bestimmt die Beiträge (statt nur zu prüfen), E08 trägt sie ein | 0005 |

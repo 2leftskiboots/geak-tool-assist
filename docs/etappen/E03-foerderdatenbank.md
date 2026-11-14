@@ -16,7 +16,7 @@ Eine lokale Datei mit den aktuellen Förderprogrammen, auf die der Assist zurüc
 
 ## Nicht im Umfang
 
-- Beiträge im GEAK-Tool prüfen (E04) oder eintragen (E08).
+- Beiträge für ein Projekt bestimmen und prüfen (E04) oder eintragen (E08).
 
 ## Fertig, wenn
 
