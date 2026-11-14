@@ -1,4 +1,4 @@
-# 0006 – Aufbau der Förderdatenbank (E03)
+# 0007 – Aufbau der Förderdatenbank (E03)
 
 - Datum: 2026-11-14
 - Status: angenommen (OK Cyril, 2026-11-14)

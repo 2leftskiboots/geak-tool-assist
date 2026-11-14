@@ -26,7 +26,7 @@ Eine lokale Datei mit den aktuellen Förderprogrammen, auf die der Assist zurüc
 
 ## Offene Punkte
 
-- ERLEDIGT (Entscheid 0006): Gemeindeliste = 45 Gemeinden im 10-km-Umkreis; Format JSON im Repository.
+- ERLEDIGT (Entscheid 0007): Gemeindeliste = 45 Gemeinden im 10-km-Umkreis; Format JSON im Repository.
 - OFFEN: Wo die monatliche Routine läuft (Vorschlag: geplante Aufgabe in der Desktop-App auf Cyrils PC).
 - OFFEN: 6 Gemeinden sind `unklar`, weil ihre Reglementssammlung nicht abrufbar war: Wichtrach, Wimmis, Heiligenschwendi, Oberhofen, Sigriswil, Thierachern. Im Browser sichten oder bei der Gemeinde nachfragen.
 - OFFEN: Bei 33 Gemeinden steht `kein_programm`. Belegt sind Reglementsliste und Konzessionsabgabe; schwächer bei Hilterfingen, Wachseldorn, Därstetten, Wattenwil, Eriz (Hinweise in Suchvorschauen) sowie Buchholterberg, Stocken-Höfen, Kirchdorf (gescannte Richtlinien nicht gelesen). Zweiter Durchgang, sobald die Websuche nicht mehr gedrosselt ist.
@@ -46,7 +46,7 @@ Eine lokale Datei mit den aktuellen Förderprogrammen, auf die der Assist zurüc
 | unklar (6) | Wichtrach, Wimmis, Heiligenschwendi, Oberhofen, Sigriswil, Thierachern |
 
 Wichtige Erkenntnisse:
-- **Energiefranken ist unvollständig:** Es kennt nur Thun, Steffisburg, Uetendorf und Spiez. Heimberg (neues Reglement ab 1.1.2026) und Jaberg fehlen dort. Deshalb sind die Originaldokumente die Quelle (Entscheid 0006).
+- **Energiefranken ist unvollständig:** Es kennt nur Thun, Steffisburg, Uetendorf und Spiez. Heimberg (neues Reglement ab 1.1.2026) und Jaberg fehlen dort. Deshalb sind die Originaldokumente die Quelle (Entscheid 0007).
 - Die Gemeindeprogramme sind klein und stark verschieden (Thun Gebäudehülle max. Fr. 20'000, Steffisburg Fr. 10'000, Jaberg Pauschalen mit Maximum Fr. 1'000). Detailbestimmungen (Gesuch vor/nach Realisierung, Wartelisten, Keine Doppelförderung mit dem Kanton, Baujahr vor 2000) stehen je Datei unter `allgemein` und `bedingungen`.
 - Oberdiessbach hatte bis 31.12.2025 Energieförderrichtlinien (Gesuchsfrist bis 30.4.2026), jetzt aufgehoben.
 - Energieversorger-Programme (BKW, Energie Thun AG) sind nicht erfasst.
