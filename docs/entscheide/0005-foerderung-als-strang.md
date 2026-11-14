@@ -1,7 +1,7 @@
 # 0005 – Förderung als durchgehender Strang mit einem Förderrechner
 
 - Datum: 2026-11-14
-- Status: vorgeschlagen (wartet auf OK von Cyril)
+- Status: angenommen (OK Cyril 2026-11-14)
 - Ergänzt 0003
 
 ## Ausgangslage
