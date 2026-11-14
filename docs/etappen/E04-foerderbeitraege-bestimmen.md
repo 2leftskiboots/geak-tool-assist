@@ -31,6 +31,8 @@ Für ein Projekt werden die Förderbeiträge je Variante **bestimmt**: welche Pr
 
 - OFFEN: Regeln fest als Daten hinterlegt oder Bestimmung durch die KI mit Quellenangabe (oder gemischt: einfache Ansätze als Daten, Sonderfälle mit Rückfrage).
 - OFFEN: Welche Angaben das GEAK-Tool pro Förderbeitrag erwartet (Felder aus dem Feldkatalog E01).
+- **Vorarbeit aus dem Test E01 + E03 zuerst lesen:** `docs/tests/2026-11-test-e01-e03.md`. Darin stehen: welche Felder in `projekt.json` direkt passen, die nötige Zuordnungstabelle Förderposition → Programm-ID, fehlende Eingaben (Leistung WP, PV-Bauart, eine oder mehrere Anlagen), die beiden Orte der Beiträge (`Subsidies` und `Measure.SubsidyValue`) und eine Stichprobe mit Abweichungen im Testprojekt.
+- Voraussetzung aus dem Test: Die Stufen des Kantons Bern (Heizung bis/ab 15 und 70 kW, Klassen, Hülle A/B/C) müssen in `foerderdaten/` als Daten vorliegen (Aufgabe E03, vor E04).
 
 ## Ergebnis
 

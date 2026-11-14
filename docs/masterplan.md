@@ -155,20 +155,21 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 
 - OFFEN: Wann der Assist nach Lücken fragt (vor dem Ausfüllen gesammelt oder unterwegs). Wird in E05 pragmatisch entschieden, Ziel: möglichst vorher.
 - OFFEN: Wie Cyril Lücken beantwortet (Chat in der Sitzung, Datei zum Ausfüllen o. ä.).
-- OFFEN: Wie das GEAK-Tool technisch ausgelesen wird (Seiteninhalt oder die Datenabfragen, die die Seite selbst macht). Klärung in E01; nichts, was den Schutz umgeht.
+- ERLEDIGT (0006): Lese-Technik: Der Assist liest die Antwort mit, die die Seite selbst abruft, und schickt keine eigenen Abfragen.
 - OFFEN: Womit die Rechtschreibung geprüft wird. Projektdaten dürfen nicht ungefragt an externe Dienste gehen. Klärung in E02.
-- OFFEN: Welche Gemeinden die Förderdatenbank abdeckt (Liste Region Thun). Klärung in E03.
+- ERLEDIGT (0007): Förderdatenbank deckt 45 Gemeinden im 10-km-Umkreis von Thun ab, Format JSON im Repository.
 - OFFEN: Wie der Förderrechner rechnet (Regeln als Daten oder Bestimmung durch die KI mit Quellenangabe). Klärung in E04.
-- OFFEN: Welches Projekt als festes Referenzprojekt für den Struktur-Check dient (darf sich nicht laufend ändern). Klärung in W01.
-- OFFEN: Genaues Format der Version in der Fusszeile und Aufbau der Release-Notes-Seite. Klärung in W01.
+- OFFEN: Welches Projekt als festes Referenzprojekt für den Struktur-Check dient. Vorschlag aus E01: 567444 «26-07 Kaderli, KI Test», falls Cyril es nicht mehr laufend ändert. Klärung in W01.
+- OFFEN: Aufbau der Release-Notes-Seite. Das Format der Version ist bekannt («GEAK Version 7.0.1», E01). Klärung in W01.
 
 ## 8. Arbeitsweise mit diesem Plan
 
 - **Masterplan-Sitzung:** pflegt dieses Dokument, Etappenreihenfolge, Status und Pivots. Jede Änderung der Richtung wird mit einem Entscheid begründet und im Änderungsprotokoll unten eingetragen.
 - **Etappen-Sitzung:** liest zuerst `CLAUDE.md`, diesen Masterplan und die eigene Etappendatei. Sie arbeitet nur am Umfang der Etappe, hält Fachentscheide in `docs/entscheide/` fest und setzt am Ende den Status in der Etappendatei und in der Tabelle oben.
 - Stellt eine Etappen-Sitzung fest, dass der Plan nicht mehr stimmt: nicht selbst umbauen, sondern in der Etappendatei unter «Rückmeldungen an den Masterplan» notieren.
-
 - **Wartungs-Sitzung:** wird gestartet, wenn der Versionswächter eine neue GEAK-Version meldet, und folgt Abschnitt 5.3.
+- **Test-Sitzung:** prüft, ob gebaute Etappen zusammenspielen, bevor die nächste darauf aufbaut. Bericht in `docs/tests/`.
+- **Parallele Sitzungen:** Vor dem Vergeben einer neuen Entscheid-Nummer `git pull` und die höchste vergebene Nummer prüfen. Am 2026-11-14 vergaben zwei Sitzungen beide 0006; die Förderdatenbank wurde deshalb auf 0007 umnummeriert.
 
 ## 9. Änderungsprotokoll
 
@@ -178,3 +179,6 @@ Die Förderdatenbank (E03) folgt demselben Prinzip mit eigener monatlicher Aktua
 | 2026-11-14 | Wartung bei GEAK-Tool-Releases ergänzt (Abschnitt 5, Etappe W01) | 0004 |
 | 2026-11-14 | Struktur-Check nur bei Versionswechsel statt wöchentlich und vor jedem Schreiben | 0004 |
 | 2026-11-14 | Förderung als durchgehender Strang: E04 bestimmt die Beiträge (statt nur zu prüfen), E08 trägt sie ein | 0005 |
+| 2026-11-14 | E01 gebaut: Lese-Technik | 0006 |
+| 2026-11-14 | E03 gebaut: Aufbau Förderdatenbank (umnummeriert von 0006) | 0007 |
+| 2026-11-14 | Test E01 + E03: Zusammenspiel tragfähig, E04 machbar; Befunde in `docs/tests/2026-11-test-e01-e03.md` | – |
