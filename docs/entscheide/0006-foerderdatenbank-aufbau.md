@@ -1,7 +1,7 @@
 # 0006 – Aufbau der Förderdatenbank (E03)
 
 - Datum: 2026-11-14
-- Status: vorgeschlagen (OK Cyril ausstehend)
+- Status: angenommen (OK Cyril, 2026-11-14)
 - Ergänzt 0003, 0005
 
 ## Ausgangslage
