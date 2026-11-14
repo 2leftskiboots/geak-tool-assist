@@ -24,6 +24,7 @@ Kernsätze (0003): Das GEAK-Tool ist Master (vor jeder Änderung auslesen). Das 
 - Etappe für Etappe arbeiten; nach jeder Etappe Zusammenfassung und auf OK warten.
 - **Nie veröffentlichen, einreichen oder löschen** im GEAK-Tool, auch wenn es technisch möglich wäre. Vor dem Speichern grösserer Änderungen zeigen, was geändert wird.
 - **Secrets nie ins Repository.** Zugangsdaten nur als `GEAK_USER` / `GEAK_PASSWORT` in der lokalen Umgebung der Desktop-App (0002); nie ausgeben oder protokollieren.
+- **Git selbständig:** pullen, committen, pushen und in `main` übernehmen, ohne nachzufragen (Cyril, 2026-11-14). Nur melden bei grossem Risiko (Konflikte, die Inhalte überschreiben könnten, Force-Push, Löschen von Branches oder Historie).
 - Den Zugriffsschutz des GEAK-Tools (Azure WAF, reCAPTCHA) nie umgehen oder tarnen. Wird blockiert: melden, Betreiber fragen.
 
 ## Technik
