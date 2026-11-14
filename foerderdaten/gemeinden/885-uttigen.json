@@ -1,0 +1,39 @@
+{
+  "traeger": "Gemeinde Uttigen",
+  "bfs": 885,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.uttigen.ch",
+    "https://www.uttigen.ch/de/verwaltung/dokumente/dokumente/erlasse/",
+    "https://www.uttigen.ch/de/verwaltung/dokumente/dokumente/erlasse/Reglement_fur_die_Erhebung_einer_Konzessionsabgabe_Elektrizitatsversorgung_unterschrieben.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement für die Erhebung einer Konzessionsabgabe Elektrizitätsversorgung",
+      "url": "https://www.uttigen.ch/de/verwaltung/dokumente/dokumente/erlasse/Reglement_fur_die_Erhebung_einer_Konzessionsabgabe_Elektrizitatsversorgung_unterschrieben.pdf",
+      "typ": "pdf",
+      "stand": "Scan vom 17.12.2021 (4 Seiten); Inhaltsverzeichnis: Grundlagen, Konzessionsabgabe, Übergangs-/Schlussbestimmungen, Anhang",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Die vollständige Erlasse-Liste (34 Einträge) enthält kein Reglement/keine Verordnung zu Energieförderung oder Energiefonds; einziger Energiebezug ist das Konzessionsabgabe-Reglement (nur Inhaltsverzeichnis des Scans gelesen: reine Abgaberegelung, keine Förderkapitel).",
+    "Auf der Startseite und in den Dienstleistungen kein Hinweis auf Energieförderung; es wurde keine eigene Energie-Unterseite gefunden.",
+    "Uttigen gehört nicht zur Energieregion Thunersee (Mitgliederliste laut thun.ch); Energie-Coaching dort nicht verfügbar.",
+    "Gemeindeblätter wurden nicht systematisch auf einmalige Förderaktionen durchsucht.",
+    "Energieversorger-Programme (z.B. BKW) nicht erfasst."
+  ]
+}

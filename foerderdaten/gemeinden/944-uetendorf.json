@@ -1,0 +1,189 @@
+{
+  "traeger": "Einwohnergemeinde Uetendorf",
+  "bfs": 944,
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.uetendorf.ch/verwaltung/dienstleistungen-a-z.html/18/egov_service/493",
+    "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3",
+    "https://www.uetendorf.ch/public/upload/assets/3172/Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3",
+    "https://www.uetendorf.ch/public/upload/assets/3531/Wegleitung%20F%C3%B6rderprogramm%20Uetendorf%20ab%202026.pdf?fp=2"
+  ],
+  "dokumente": [
+    {
+      "titel": "Verordnung zum Reglement über die Konzessionsabgabe und das Förderprogramm Energie",
+      "url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3",
+      "typ": "pdf",
+      "stand": "Fassung vom 18. Dezember 2025 (Teilrevision Art. 4 Abs. 1 Bst. e)",
+      "gueltig_ab": "2026-01-01 (Teilrevision); Grundfassung 2022-01-01",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Reglement über die Konzessionsabgabe und das Förderprogramm Energie",
+      "url": "https://www.uetendorf.ch/public/upload/assets/3172/Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3",
+      "typ": "pdf",
+      "stand": "Fassung vom 20. November 2023",
+      "gueltig_ab": "2022-01-01 (Art. 4 Abs. 1 ab 2024-01-01)",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Wegleitung Förderprogramm Uetendorf ab 2026",
+      "url": "https://www.uetendorf.ch/public/upload/assets/3531/Wegleitung%20F%C3%B6rderprogramm%20Uetendorf%20ab%202026.pdf?fp=2",
+      "typ": "pdf",
+      "stand": "ab 2026 (kein Datum im Dokument)",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Antragsformular Förderbeiträge ab 2025 (nicht selbst gelesen)",
+      "url": "https://www.uetendorf.ch/public/upload/assets/309/Uetendorf%20Energie%20Antragsformular%20ab%202025.pdf?fp=3",
+      "typ": "pdf",
+      "stand": "ab 2025",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Anmeldeformular mit Beilagen zwingend VOR Baubeginn/Realisierung bei der Bauverwaltung Uetendorf (Bauverwaltung@uetendorf.ch, 033 346 40 49). Förderbescheid (Verfügung) 2 Jahre gültig. Nach Realisierung Ausführungsbestätigung/Schlussrechnung einreichen; einmalige Auszahlung.",
+    "voraussetzung_kanton": "Keine ausser bei GEAK Plus/Energieberatung (Restbetrag nach Abzug Kantonsbeitrag).",
+    "kumulation": "Mit weiteren Beiträgen (z. B. nationale oder kantonale Förderprogramme) kumulierbar, soweit nicht anders definiert (VO Art. 2 Abs. 5; Wegleitung).",
+    "budget": "Spezialfinanzierung aus Konzessionsabgabe; jährliche Einlage CHF 120'000; Bestand max. CHF 200'000. Beiträge in Reihenfolge des Gesuchseingangs, bei ungenügendem Bestand Warteliste. Kein Rechtsanspruch.",
+    "gesamtmaximum": "Keines je Gesuch genannt; Maxima je Massnahme.",
+    "berechtigte": "Natürliche und juristische Personen, deren Projekt sich in Uetendorf befindet. Die Einwohnergemeinde Uetendorf als Eigentümerin ist nicht förderberechtigt; als Baurechtgeberin ist der Baurechtnehmer förderberechtigt (Reglement Art. 6).",
+    "nachweise_auszahlung": "Auszahlung in der Regel innert 60 Tagen nach vollständiger Realisierung und Genehmigung der Belege (VO Art. 8).",
+    "weitere_bestimmungen": [
+      "Neubauten, die nach dem 1. Januar 2023 bewilligt wurden, erhalten keine Beiträge nach Art. 4 Abs. 1 Bst. a bis c (thermische Solar, PV, winteroptimierte PV) (VO Art. 3 Abs. 4).",
+      "Beiträge nur für Massnahmen über die gesetzlichen Vorschriften hinaus; innerhalb Gemeinde Uetendorf; Stand der Technik (VO Art. 3).",
+      "Fördersatz zum Zeitpunkt der Gesuchseingabe (VO Art. 6 Abs. 5).",
+      "Beiträge verjähren zwei Jahre nach Rechtskraft der Verfügung; Verlängerung aus wichtigen Gründen längstens ein Jahr (VO Art. 10).",
+      "Rückforderung ohne Verzinsung bei unwahren Angaben, zweckwidriger Verwendung, Auflagenverletzung (VO Art. 9).",
+      "Entscheid durch die Tiefbau- und Umweltkommission TUK per Verfügung (Arbeitsgruppe Energie prüft)."
+    ]
+  },
+  "programme": [
+    {
+      "id": "solar-thermie",
+      "kategorie": "solar_thermie",
+      "massnahme": "Thermische Solaranlagen",
+      "bedingungen": [
+        "Sonnenkollektoranlagen zur Warmwassererzeugung und/oder Heizungsunterstützung auf bestehenden Gebäuden.",
+        "Neuanlagen, Erweiterungen, Ersatz bestehender Anlagen mit > 20 Jahre Betriebsdauer.",
+        "Nur Anlagen, die auf www.kollektorliste.ch aufgeführt sind (Wegleitung).",
+        "Keine Beiträge für Neubauten, die nach dem 1.1.2023 bewilligt wurden."
+      ],
+      "ansatz": {"art": "pro_m2", "wert": 100, "einheit": "Fr./m² Kollektorfläche"},
+      "minimum": "",
+      "maximum": "CHF 2'500",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 1 Bst. a; Wegleitung S. 1"}
+    },
+    {
+      "id": "pv",
+      "kategorie": "pv",
+      "massnahme": "Photovoltaik-Anlagen (exkl. winteroptimierte), ab mind. 2 kWp",
+      "bedingungen": [
+        "Ab mindestens 2 kWp.",
+        "Neuanlagen, Erweiterungen, Ersatz bestehender Anlagen mit > 20 Jahre Betriebsdauer.",
+        "Auf bestehenden Gebäuden; keine freistehenden Anlagen (Wegleitung).",
+        "Keine Beiträge für Neubauten, die nach dem 1.1.2023 bewilligt wurden."
+      ],
+      "ansatz": {"art": "pro_kwp", "wert": 200, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "CHF 1'500",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 1 Bst. b; Wegleitung S. 1"}
+    },
+    {
+      "id": "pv-winteroptimiert",
+      "kategorie": "pv",
+      "massnahme": "Winteroptimierte Photovoltaik-Anlagen (Neigung > 75 Grad) sowie Fassadenanlagen ab mind. 2 kWp",
+      "bedingungen": [
+        "Neigung > 75 Grad oder Fassadenanlage; ab mindestens 2 kWp.",
+        "Neuanlagen, Erweiterungen, Ersatz bestehender Anlagen mit > 20 Jahre Betriebsdauer.",
+        "Auf bestehenden Gebäuden; keine freistehenden Anlagen (Wegleitung).",
+        "Keine Beiträge für Neubauten, die nach dem 1.1.2023 bewilligt wurden."
+      ],
+      "ansatz": {"art": "pro_kwp", "wert": 300, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "CHF 3'000",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 1 Bst. c; Wegleitung S. 1"}
+    },
+    {
+      "id": "holz",
+      "kategorie": "heizung",
+      "massnahme": "Holzheizungen (Pellets, Schnitzel, Stückholz)",
+      "bedingungen": [
+        "Neuanlagen, Erweiterungen, Ersatz bestehender Anlagen mit > 15 Jahre Betriebsdauer.",
+        "Feuerungsanlage muss das Qualitätssiegel von Holzenergie Schweiz tragen (Wegleitung)."
+      ],
+      "ansatz": {"art": "pro_kw", "wert": 100, "einheit": "Fr./kW"},
+      "minimum": "",
+      "maximum": "CHF 2'000",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 1 Bst. d; Wegleitung S. 1"}
+    },
+    {
+      "id": "pv-batteriespeicher",
+      "kategorie": "pv_speicher",
+      "massnahme": "Batteriespeicher für Photovoltaikanlagen",
+      "bedingungen": [
+        "Neuanlagen und Erweiterungen bestehender Anlagen.",
+        "Ab 5 kWh."
+      ],
+      "ansatz": {"art": "prozent", "wert": 15, "einheit": "% der Batteriespeichermaterialkosten"},
+      "minimum": "",
+      "maximum": "CHF 2'000 total",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 1 Bst. e (Änderung per 01.01.2026); Wegleitung S. 1"}
+    },
+    {
+      "id": "geak-plus",
+      "kategorie": "geak",
+      "massnahme": "Erstellung eines GEAK-Plus Berichts",
+      "bedingungen": [
+        "GEAK Plus muss durch einen GEAK-Experten erstellt werden und die Anforderungen des Pflichtenhefts erfüllen (www.geak.ch)."
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% des Restbetrags nach Abzug Förderbeitrag Kanton Bern"},
+      "minimum": "",
+      "maximum": "CHF 500 Ein-/Zweifamilienhaus; CHF 1'000 Mehrfamilienhaus/Verwaltung/Schule/Verkauf/Restaurant",
+      "kombinierbar": "Zusätzlich zum Kantonsbeitrag (Restbetrag).",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 2 Bst. f; Wegleitung S. 1"}
+    },
+    {
+      "id": "energieberatung-unternehmen",
+      "kategorie": "beratung",
+      "massnahme": "Energieberatungen für Unternehmen (Energieanalysen, Energieeffizienzprogramme)",
+      "bedingungen": [
+        "Ausführung durch ausgewiesene, externe Fachperson."
+      ],
+      "ansatz": {"art": "prozent", "wert": 40, "einheit": "% des Restbetrags der Analyse/Beratung nach Abzug Förderbeitrag Kanton Bern"},
+      "minimum": "",
+      "maximum": "CHF 3'000",
+      "kombinierbar": "Nach Abzug weiterer Förderbeiträge (Kanton, PEIK o. ä.).",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.uetendorf.ch/public/upload/assets/3891/Verordnung%20zum%20Reglement%20%C3%BCber%20die%20Konzessionsabgabe%20und%20das%20F%C3%B6rderprogramm%20Energie.pdf?fp=3", "stelle": "VO Art. 4 Abs. 1 Ziff. 2 Bst. g; Wegleitung S. 1"}
+    }
+  ],
+  "offen": [
+    "Nicht gefördert (nicht aufgeführt): Gebäudehülle/Fenster/Dämmung, Wärmepumpen, Fernwärme/Wärmeverbund, Ladestationen, Innovationsprojekte.",
+    "Das Antragsformular (ab 2025) wurde nicht selbst gelesen; verlangte Beilagen daher nicht erfasst.",
+    "Wegleitung nennt Baualter nur durch 'bestehende Gebäude'; die Verordnung schliesst Neubauten mit Bewilligung nach 1.1.2023 für Bst. a-c aus (Holzheizung und Batteriespeicher sind davon nicht betroffen).",
+    "Unterschied Verordnung/Wegleitung: Wegleitung nennt für Holzheizung und PV Auflagen (Qualitätssiegel, keine freistehenden Anlagen), die in der Verordnung nicht stehen.",
+    "Wegleitung trägt kein Datum; sie ist mit der Verordnung (Stand 18.12.2025) inhaltlich konsistent.",
+    "Mit der BKW und Energie Thun AG (Konzessionsabgabe-Zahler) bestehen allenfalls eigene Programme; nicht erfasst."
+  ]
+}

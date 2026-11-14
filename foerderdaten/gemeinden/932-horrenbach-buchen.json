@@ -1,0 +1,17 @@
+{
+  "traeger": "Gemeinde Horrenbach-Buchen",
+  "bfs": 932,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://horrenbach-buchen.ch",
+    "https://horrenbach-buchen.ch/onlineschalter/"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (19 Reglemente, 2 Merkblätter) enthält kein Energie-/Förderreglement und auch kein Konzessionsabgabe-Reglement. Merkblätter betreffen nur den Begräbnisbezirk Schwarzenegg.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

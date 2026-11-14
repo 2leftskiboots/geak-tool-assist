@@ -1,0 +1,33 @@
+{
+  "traeger": "Gemeinde Sigriswil (inkl. Ortsteile Gunten, Merligen, Schwanden u.a.)",
+  "bfs": 938,
+  "abgerufen": "2026-11-14",
+  "status": "unklar",
+  "geprueft": [
+    "https://www.sigriswil.ch",
+    "https://www.sigriswil.ch/de/verwaltung/dokumente/ (nur Seite 1 von ca. 8 abrufbar, 20 Dokumente)",
+    "https://www.sigriswil.ch/de/verwaltung/dienstleistungen/",
+    "https://www.sigriswil.ch/de/verwaltung/dienstleistungen/141_energieberatung"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Die Dienstleistung «Energieberatung» verweist auf die Regionale Energieberatung Thun Oberland-West; die Erstberatung ist kostenlos (https://www.sigriswil.ch/de/verwaltung/dienstleistungen/141_energieberatung)."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Kein kommunales Energieförderprogramm gefunden (Dienstleistungen A-Z enthält nur «Energieberatung» und «Feuerungskontrolle»; Suchmaschine ohne Treffer). Nicht «kein_programm», weil die Dokumentensammlung (rund 8 Seiten à 20 Dokumente) nur auf Seite 1 (20 Dokumente, Abfall bis Datenschutz, alphabetisch; ?page=2 lieferte dieselbe Liste) geprüft werden konnte; Reglemente mit E/F/K (Energie, Förderung, Konzessionsabgabe) liegen auf nicht abrufbaren Folgeseiten.",
+    "Sigriswil ist nicht Mitglied der Energieregion Thunersee (Mitgliederliste laut thun.ch).",
+    "Eine Konzessionsabgabe/ein Energiefonds der Gemeinde wurde nicht verifiziert.",
+    "Empfehlung: Dokumentenliste im Browser durchblättern oder Gemeindeverwaltung/Bauabteilung anfragen (Tel. 033 252 90 20).",
+    "Energieversorger-Programme (z.B. BKW) nicht erfasst."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "traeger": "Gemeinde Erlenbach im Simmental",
+  "bfs": 763,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.erlenbach-be.ch/de/verwaltung/dokumente/",
+    "https://www.erlenbach-be.ch/de/portrait/erlenbach-aktuell/"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Dokumentenliste der Gemeinde (https://www.erlenbach-be.ch/de/verwaltung/dokumente/) enthält kein Energie-Förderreglement; nur Spezialfinanzierungen (u. a. Trinkwasserkraftwerk, Schutzwaldpflege, Werterhalt Liegenschaften, Planungsvorteile), Fonds (sozial, Kultur, Landwirtschaft) und Gebührentarif Feuerungskontrolle. Spezialfinanzierung Trinkwasserkraftwerk nicht gelesen (kein Gebäude-Förderprogramm zu erwarten).",
+    "Eine eigene Energie-Rubrik der Gemeinde wurde nicht gefunden (Startseite nicht gesondert ausgewertet); Verwechslungsgefahr: erlenbach.ch ist Erlenbach ZH, nicht diese Gemeinde.",
+    "Newsletter «Erlenbach Aktuell» nicht durchsucht."
+  ]
+}

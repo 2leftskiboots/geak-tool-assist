@@ -1,0 +1,43 @@
+{
+  "traeger": "Einwohnergemeinde Oberdiessbach",
+  "bfs": 619,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.oberdiessbach.ch",
+    "https://www.oberdiessbach.ch/verwaltung/elektrizitaetsversorgung.html/245",
+    "https://www.oberdiessbach.ch/verwaltung/elektrizitaetsversorgung/energie.html/250",
+    "https://www.oberdiessbach.ch/verwaltung/online-schalter.html/76",
+    "https://www.oberdiessbach.ch/behoerden/gemeindeversammlung.html/68",
+    "https://www.oberdiessbach.ch/public/upload/assets/1804/26_Richtlinien_Energief%C3%B6rderbeitr%C3%A4ge.pdf?fp=1773052554700"
+  ],
+  "dokumente": [
+    {
+      "titel": "Richtlinien über die finanzielle Förderung von Massnahmen zur Energieeffizienz und Nutzung erneuerbarer Energien (Energieförderungsrichtlinien, EFR)",
+      "url": "https://www.oberdiessbach.ch/public/upload/assets/1804/26_Richtlinien_Energief%C3%B6rderbeitr%C3%A4ge.pdf?fp=1773052554700",
+      "typ": "pdf",
+      "stand": "Beschluss Gemeinderat 19.12.2018; Deckblatt: «Aufgehoben per 31.12.25, Frist für Gesuche: 30.04.26»",
+      "gueltig_ab": "2019-01-01",
+      "gueltig_bis": "2025-12-31 (Gesuchsfrist bis 2026-04-30)"
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Programm aufgehoben; Gesuchsfrist am 30.04.2026 abgelaufen.",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Die bisherigen Richtlinien (EFR) förderten nur Ersatz von Elektroheizungen durch erneuerbare Heizungen (ohne Verteilnetz) und thermische Solaranlagen, je 50 % des kantonalen Förderbeitrags (Art. 3 und 5), sowie die Pauschalen der Energieberatung Bern-Mittelland (Art. 3 Abs. 3). Finanzierung aus der Spezialfinanzierung Elektrizitätsversorgung (Art. 1 Abs. 2). Kein Rechtsanspruch (Art. 7 Abs. 3). Stand heute nicht mehr anwendbar."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Das einzige gefundene Förderdokument (EFR) trägt den Vermerk «Aufgehoben per 31.12.25, Frist für Gesuche: 30.04.26». Es gilt somit nicht mehr (Stand 2026-11-14). Ob ein Nachfolgeprogramm (z. B. durch die per 1.1.2026 ausgegliederte Elektrizitätsversorgung EVO, Anstaltsreglement) geplant ist, ist nicht belegt; bei der Gemeinde (031 770 27 27) nachfragen.",
+    "Die Seite «Energieberatung, Förderbeiträge» enthält keine Beträge, nur Hinweise auf Energieberatung Bern-Mittelland und kantonale Pflichten.",
+    "Gemeinde führt keine eigene Reglementsseite; Zugang über Online-Schalter. Gemeindebaureglement nicht auf Förderbestimmungen geprüft.",
+    "Elektrizitätsversorgung (EVO / NetZulg AG) ist ein Energieversorger-Angebot und wurde nicht erfasst; Seite erwähnt Dachstrom EVO, Rückliefertarife PV (Details nicht geprüft)."
+  ]
+}

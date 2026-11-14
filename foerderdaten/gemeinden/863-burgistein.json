@@ -1,0 +1,20 @@
+{
+  "traeger": "Gemeinde Burgistein",
+  "bfs": 863,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.burgistein.ch",
+    "https://www.burgistein.ch/de/sicherheit-umwelt/energie",
+    "https://www.burgistein.ch/de/online-schalter/reglemente-verordnungen",
+    "https://www.burgistein.ch/de/verwaltung/regionale-bauverwaltung"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Energie-Seite nennt keine kommunalen Beiträge, verweist auf Kanton Bern (weu.be.ch Förderprogramm Energie), energiefranken.ch und EnergieSchweiz; Gemeinde ist seit 2022 im Berner Energieabkommen (BEakom).",
+    "Reglementsliste (38 Einträge) enthält kein Energie-Förderreglement; nur Konzessionsabgabe Stromversorgung und Spezialfinanzierung Werterhalt Liegenschaften Finanzvermögen (nicht gelesen, offensichtlich kein Förderprogramm).",
+    "Regionale Energieberatung Thun (regionale-energieberatung.ch) wird erwähnt: keine Gemeindeförderung."
+  ]
+}

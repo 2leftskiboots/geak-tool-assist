@@ -1,0 +1,40 @@
+{
+  "traeger": "Einwohnergemeinde Blumenstein",
+  "bfs": 922,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.blumenstein.ch",
+    "https://www.blumenstein.ch/verwaltung/reglemente-und-verordnungen",
+    "https://www.blumenstein.ch/verwaltung/energieversorgung-blumenstein",
+    "https://www.blumenstein.ch/images/content/pdf/reglemente/Energieversorgungsreglement.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement über die Versorgung der Einwohnergemeinde Blumenstein mit Energie (Aufgabenübertragung an Energieversorgung Blumenstein AG)",
+      "url": "https://www.blumenstein.ch/images/content/pdf/reglemente/Energieversorgungsreglement.pdf",
+      "typ": "pdf",
+      "stand": "Beschluss Gemeindeversammlung 29.11.2010, Art. 12",
+      "gueltig_ab": "2011-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Das Energieversorgungsreglement (Art. 8) regelt nur die Abgeltung der Energieversorgung Blumenstein AG an die Gemeinde (0.1 bis max. 0.5 Rp/kWh); keine Zweckbindung für Förderbeiträge, kein Förderprogramm."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Auf der Reglementsliste (27 Dokumente) steht kein Förderreglement, kein Energiefonds und keine Konzessionsabgabe-Verwendung; nicht online verfügbar sind laut Seite nur Schulgeld-Reglement und zwei Überbauungsordnungen (nicht energierelevant).",
+    "Nicht geprüft: Budget/Jahresrechnung auf einen Energiefonds-Konto; Formulare/Merkblätter-Seite (https://www.blumenstein.ch/verwaltung/formulare-merkblaetter) nur als Link gesehen, nicht geöffnet.",
+    "Energieversorgung Blumenstein AG (EVB, www.ev-blumenstein.ch) ist ein Energieversorger; ein allfälliges Förderangebot der EVB wurde nicht geprüft und nicht erfasst."
+  ]
+}

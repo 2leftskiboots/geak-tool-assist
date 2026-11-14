@@ -1,0 +1,36 @@
+{
+  "traeger": "Einwohnergemeinde Homberg",
+  "bfs": 931,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://homberg.ch/ (Startseite)",
+    "https://homberg.ch/onlineschalter/ (Reglementsliste mit 24 Reglementen: kein Energie-, Förder- oder Fondsreglement)",
+    "https://homberg.ch/wp-content/uploads/2025/12/Reglement-Konzessionsabgabe-Stromversorgung.pdf (Scan, als Bild gelesen)",
+    "https://homberg.ch/wp-content/uploads/2026/11/Homberg-Info2026-2.pdf (Textsuche: kein kommunales Förderprogramm; nur Hinweis auf Kanton und Regionale Energieberatung)",
+    "https://homberg.ch/wp-content/uploads/2026/05/Homberg-Info2026-1.pdf (Textsuche: kein Fund)",
+    "https://homberg.ch/wp-content/uploads/2026/01/Homberg_Info_Dezember-2025.pdf (Textsuche: kein Fund)"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement für die Erhebung einer Konzessionsabgabe Stromversorgung",
+      "url": "https://homberg.ch/wp-content/uploads/2025/12/Reglement-Konzessionsabgabe-Stromversorgung.pdf",
+      "typ": "pdf",
+      "stand": "Gemeindeversammlung 27.11.2020",
+      "gueltig_ab": "2021-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "weitere_bestimmungen": [
+      "Konzessionsabgabe max. 1.5 Rp./kWh, höchstens CHF 300 pro Jahr und Zähler (Art. 3); keine Zweckbindung, keine Förderbestimmungen. EVU laut Anhang: BKW Energie AG.",
+      "Die Gemeinde verweist in ihren Gemeindeinfos für Energiefragen auf den Kanton Bern und die öffentliche Regionale Energieberatung Thun Oberland-West."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Budget/Jahresrechnung nicht auf ein Energiefonds-Konto geprüft.",
+    "Die Gemeindeverwaltung (Dorfstrasse 42, 3622 Homberg) kann die Aussage «kein kommunales Förderprogramm» bei Bedarf bestätigen.",
+    "Programme von Energieversorgern (BKW) nicht erfasst."
+  ]
+}

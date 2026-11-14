@@ -1,0 +1,170 @@
+{
+  "traeger": "Bund (BFE/BAFU: Gebäudeprogramm, Impulsprogramm; Pronovo: Einmalvergütung Photovoltaik)",
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.dasgebaeudeprogramm.ch/de/",
+    "https://www.dasgebaeudeprogramm.ch/de/das-gebaudeprogramm/impulsprogramm/",
+    "https://www.bafu.admin.ch/de/foerderungen-im-gebaeudebereich",
+    "https://www.admin.ch/de/newnsb/qGTPQ1ZqqKag",
+    "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf",
+    "https://pubdb.bfe.admin.ch/de/publication/download/12571",
+    "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf",
+    "https://www.bfe.admin.ch/bfe/en/home/foerderung/energieeffizienz/wettbewerbliche-ausschreibungen-prokilowatt.html"
+  ],
+  "dokumente": [
+    {"titel": "Energieförderungsverordnung EnFV (SR 730.03), Anhang 2.1 Einmalvergütung Photovoltaik", "url": "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf", "typ": "pdf", "stand": "Stand am 1. Juli 2026 laut Titelblatt; Anhang 2.1 zuletzt in Kraft seit 1. Jan. 2026 (AS 2025 830)", "gueltig_ab": "", "gueltig_bis": ""},
+    {"titel": "Erläuterungen zur Änderung vom November 2026 der EnFV (Anhebung EIV-Leistungsbeitrag PV per 1. April 2027)", "url": "https://pubdb.bfe.admin.ch/de/publication/download/12571", "typ": "pdf", "stand": "November 2026 (UVEK), Änderung als Vorlage; Inkrafttreten nach Dokument per 1. April 2027", "gueltig_ab": "2027-04-01", "gueltig_bis": ""},
+    {"titel": "Medienmitteilung Bundesrat: Gebäudeprogramm und Impulsprogramm 2025", "url": "https://www.admin.ch/de/newnsb/qGTPQ1ZqqKag", "typ": "html", "stand": "25. August 2026", "gueltig_ab": "", "gueltig_bis": ""},
+    {"titel": "BAFU: Förderungen im Gebäudebereich (Gebäudeprogramm und Impulsprogramm)", "url": "https://www.bafu.admin.ch/de/foerderungen-im-gebaeudebereich", "typ": "html", "stand": "Seite vom 13. Februar 2025", "gueltig_ab": "", "gueltig_bis": ""},
+    {"titel": "Das Gebäudeprogramm (Portal)", "url": "https://www.dasgebaeudeprogramm.ch/de/", "typ": "html", "stand": "ohne Datum; verweist auf Jahresbericht 2025", "gueltig_ab": "", "gueltig_bis": ""}
+  ],
+  "allgemein": {
+    "gesuch": "Gebäudeprogramm und Impulsprogramm: Gesuch bei der kantonalen Bearbeitungsstelle (Kanton Bern: AUE, Online-Portal https://www.subene.apps.be.ch/), spätestens vor Baubeginn. Es gibt keine separate Eingabe beim Bund. PV-Einmalvergütung: Gesuch bei Pronovo (Kundenportal), unabhängig vom Kanton. ProKilowatt: Projekte/Programme über das BFE.",
+    "voraussetzung_kanton": "Gebäudeprogramm: Bund zahlt Globalbeiträge (ein Drittel der CO2-Abgabe auf Brennstoffe, maximal CHF 450 Mio. pro Jahr) an die Kantone, die Kantone setzen um (BAFU-Seite). Impulsprogramm (seit 1. Januar 2025, CHF 2 Mrd. über zehn Jahre aus dem Bundeshaushalt, gestützt auf Klima- und Innovationsgesetz): Im Kanton Bern laut Leitfaden S. 4 im bestehenden kantonalen Förderprogramm umgesetzt. Auszahlung der Bundesgelder für Gebäude/Heizung läuft damit über den Kanton Bern, ein einziges Kantonsgesuch.",
+    "kumulation": "Kantonsprogramm schliesst gleichzeitige Gesuche bei anderen Programmen mit CO2-Abgabe-Mitteln aus (myclimate, Klik, Renera AG, Leitfaden S. 4). PV-Einmalvergütung (Netzzuschlag-finanziert) ist davon getrennt; im Berner Leitfaden gibt es keine PV-Förderung und keinen Ausschluss der EIV. Zur Kumulation EIV mit kantonalen/kommunalen Beiträgen: nicht belegt.",
+    "budget": "Gebäudeprogramm nicht befristet; Impulsprogramm zehn Jahre, 2025 zu rund 90 % ausgeschöpft (Bundesmeldung 25.08.2026). 2025 verpflichtet: CHF 636.4 Mio. gesamt, davon Impulsprogramm CHF 114 Mio. EIV PV: begrenzte Mittel des Netzzuschlagsfonds.",
+    "gesamtmaximum": "",
+    "berechtigte": "Je nach Kanton und Massnahme; für Bern siehe kanton-bern.json. EIV PV: Anlagen ab 2 kW (siehe unten).",
+    "nachweise_auszahlung": "Gebäudeprogramm/Impulsprogramm: über die Kantone. EIV: Inbetriebnahmemeldung mit Unterlagen nach EnFV Anhang 2.1 Ziff. 3 und 4.",
+    "weitere_bestimmungen": [
+      "Überlagerung Bund/Kanton Bern: Betragstabellen für Heizungsersatz, Gebäudehülle (Bonus Gebäudehülleneffizienz) und Elektroheizungsersatz stehen nur im kantonalen Leitfaden; welcher Anteil Bundesmittel ist, weist der Leitfaden nicht aus. Das Impulsprogramm deckt laut dasgebaeudeprogramm.ch: Ersatz dezentraler Elektro-/fossiler Heizungen ohne hydraulische Verteilung (IP-19), Gebäudehüllenbonus (IP-14), Erstinstallation Wärmeverteilung, grosse fossile Anlagen über 70 kW (automatische Holzfeuerung, Wärmepumpen Luft/Wasser und Sole/Wasser, Wärmenetzanschluss, Solarkollektor).",
+      "Impulsprogramm 2025 (Verpflichtungen): Hüllenbonus IP-14 CHF 47.7 Mio., IP-19 CHF 26.1 Mio., Wasser/Wasser- und Sole/Wasser-Wärmepumpen CHF 21.6 Mio. (dasgebaeudeprogramm.ch).",
+      "EIV Photovoltaik (EnFV Anhang 2.1): aktuell (ab 1.4.2025, gilt unverändert bis zur geplanten Anhebung) Grundbeitrag CHF 0 für alle Leistungsklassen. Leistungsbeitrag integrierte Anlagen: unter 30 kW CHF 400/kW; 30 bis unter 100 kW CHF 330/kW; ab 100 kW CHF 250/kW. Angebaute und freistehende Anlagen: unter 30 kW CHF 360/kW; 30 bis unter 100 kW CHF 300/kW; ab 100 kW CHF 250/kW. Bei Anlagen ab 30 kW wird der Leistungsbeitrag anteilsmässig über die Leistungsklassen berechnet (Ziff. 2.5).",
+      "KLEIV (kleine Anlagen, 2 bis unter 100 kW), GREIV (grosse Anlagen ab 100 kW), HEIV (hohe Einmalvergütung, Anlagen ohne Eigenverbrauch mit mind. 150 kW; Auktion): nach BFE-Merkblatt; für HEIV Neuanlagen ohne Eigenverbrauch unter 150 kW gilt CHF 450/kW, ohne Grundbeitrag (EnFV Anhang 2.1 Ziff. 2.10).",
+      "EIV-Boni (Anhang 2.1 Ziff. 2.7): Neigungswinkelbonus (mind. 75 Grad) integriert CHF 400/kW, angebaut/freistehend CHF 200/kW; Parkflächenbonus CHF 250/kW; Winterstrombonus 3.50 Fr. (ohne Eigenverbrauch) bzw. 2.50 Fr. (mit Eigenverbrauch) mal Winterstrommehrertrag; Winterstrombonus und Neigungswinkelbonus schliessen sich aus. Bonus-Voraussetzungen im Detail nicht geprüft.",
+      "EIV erhebliche Erweiterung/Erneuerung: nur Leistungsbeitrag für die Leistungssteigerung, kein Grundbeitrag.",
+      "Geplante Änderung: Leistungsbeitrag unter 30 kW steigt per 1. April 2027 um CHF 40/kW auf CHF 440/kW (integriert) und CHF 400/kW (angebaut/freistehend); übrige Klassen unverändert (Erläuterungen UVEK November 2026). Entwurf/Verordnungsänderung, Inkraftsetzung im Wortlaut nicht bestätigt.",
+      "ProKilowatt (BFE, Stromeffizienz, v. a. Gewerbe/Industrie, auch Haushalte über Programme): Projektausschreibung 2026 bis 1. November 2026, danach Projektgesuche bis 1. November 2027; 2027 keine Programm-Ausschreibung. Für Hauseigentümer in der GEAK-Beratung kaum relevant."
+    ]
+  },
+  "programme": [
+    {
+      "id": "bund-gebaeudeprogramm",
+      "kategorie": "sonstiges",
+      "massnahme": "Das Gebäudeprogramm (Bund und Kantone): Globalbeiträge aus der CO2-Abgabe an die Kantone",
+      "bedingungen": [
+        "Gesuch bei der kantonalen Bearbeitungsstelle vor Baubeginn",
+        "Beiträge und Massnahmen je Kanton verschieden; im Kanton Bern: siehe kanton-bern.json",
+        "Auf dasgebaeudeprogramm.ch gelistete Massnahmen: Wärmedämmung, Holzfeuerung, Wärmepumpe, Anschluss Wärmenetz, Solarkollektor, Wohnungslüftung, Gesamtsanierung (Minergie/GEAK), Bonus umfassende Sanierung, Neubau Minergie-P/GEAK A/A, Wärmenetze, Analyse und Beratung"
+      ],
+      "ansatz": {"art": "andere", "wert": 0, "einheit": "", "beschreibung": "Keine Bundesbeträge pro Massnahme; Höhe legt der Kanton fest (harmonisiertes Fördermodell HFM 2015)"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "Wird im Kanton Bern im Kantonsgesuch geführt.",
+      "gueltig_ab": "2010",
+      "gueltig_bis": "nicht befristet",
+      "quelle": {"url": "https://www.bafu.admin.ch/de/foerderungen-im-gebaeudebereich", "stelle": "Abschnitt Gebäudeprogramm"}
+    },
+    {
+      "id": "bund-impulsprogramm",
+      "kategorie": "heizung",
+      "massnahme": "Impulsprogramm: Ersatz fossiler und elektrischer Heizungen, Gebäudehüllenbonus, grosse Anlagen über 70 kW",
+      "bedingungen": [
+        "Gesuch bei der kantonalen Stelle seit 1. Januar 2025; Verfahren unverändert",
+        "Schwerpunkt: grössere Liegenschaften, Mehrfamilienhäuser, Ersatz von Elektro-Widerstandsheizungen",
+        "Kanton Bern: Umsetzung im bestehenden kantonalen Förderprogramm (Leitfaden S. 4)"
+      ],
+      "ansatz": {"art": "andere", "wert": 0, "einheit": "", "beschreibung": "Keine Bundes-Betragstabelle gefunden; Beträge für Bern im kantonalen Leitfaden"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "Teil des Berner Förderprogramms; nicht separat beantragen.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "zehn Jahre (CHF 2 Mrd. total), genaues Enddatum nicht geprüft",
+      "quelle": {"url": "https://www.dasgebaeudeprogramm.ch/de/das-gebaudeprogramm/impulsprogramm/", "stelle": "ganze Seite; BAFU-Seite Abschnitt Impulsprogramm"}
+    },
+    {
+      "id": "bund-eiv-pv-integriert-klein",
+      "kategorie": "pv",
+      "massnahme": "Einmalvergütung PV, integrierte Anlage unter 30 kW (KLEIV), Leistungsbeitrag",
+      "bedingungen": [
+        "Gesuch bei Pronovo",
+        "Keine Grundbeitrag mehr (ab 1.4.2025)",
+        "Für Anlagen mit Eigenverbrauch (EIV); ohne Eigenverbrauch hohe EIV ab 150 kW (HEIV)"
+      ],
+      "ansatz": {"art": "pro_kw", "wert": 400, "einheit": "Fr./kW", "beschreibung": "integriert, Inbetriebnahme ab 1.4.2025, Leistungsklasse unter 30 kW"},
+      "minimum": "2 kW (nach BFE-Merkblatt, in EnFV-Auszug nicht geprüft)",
+      "maximum": "",
+      "kombinierbar": "Mit Boni kombinierbar (ausser Neigungswinkel- und Winterstrombonus gegenseitig).",
+      "gueltig_ab": "2025-04-01",
+      "gueltig_bis": "bis Anhebung auf 440 Fr./kW per 2027-04-01 (geplant)",
+      "quelle": {"url": "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf", "stelle": "EnFV Anhang 2.1 Ziff. 2.8"}
+    },
+    {
+      "id": "bund-eiv-pv-integriert-mittel",
+      "kategorie": "pv",
+      "massnahme": "Einmalvergütung PV, integrierte Anlage 30 bis unter 100 kW und ab 100 kW (KLEIV/GREIV)",
+      "bedingungen": ["Wie oben"],
+      "ansatz": {"art": "pro_kw", "wert": 330, "einheit": "Fr./kW", "beschreibung": "30 bis unter 100 kW: 330 Fr./kW; ab 100 kW: 250 Fr./kW (Tabellenwert im PDF-Extrakt nur einmal lesbar, siehe offen)"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "2025-04-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf", "stelle": "EnFV Anhang 2.1 Ziff. 2.8"}
+    },
+    {
+      "id": "bund-eiv-pv-angebaut",
+      "kategorie": "pv",
+      "massnahme": "Einmalvergütung PV, angebaute und freistehende Anlagen (Aufdach)",
+      "bedingungen": ["Wie oben"],
+      "ansatz": {"art": "pro_kw", "wert": 360, "einheit": "Fr./kW", "beschreibung": "unter 30 kW: 360; 30 bis unter 100 kW: 300; ab 100 kW: 250 (Inbetriebnahme ab 1.4.2025); Grundbeitrag 0"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "2025-04-01",
+      "gueltig_bis": "Anhebung unter 30 kW auf 400 Fr./kW per 2027-04-01 (geplant)",
+      "quelle": {"url": "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf", "stelle": "EnFV Anhang 2.1 Ziff. 2.9; Erläuterungen https://pubdb.bfe.admin.ch/de/publication/download/12571"}
+    },
+    {
+      "id": "bund-eiv-pv-boni",
+      "kategorie": "pv",
+      "massnahme": "EIV PV Boni: Neigungswinkel (mind. 75 Grad), Parkfläche, Winterstrom",
+      "bedingungen": ["Neigungswinkelbonus und Winterstrombonus schliessen sich aus", "Winterstrombonus erst nach dem dritten vollen Winterhalbjahr"],
+      "ansatz": {"art": "pro_kw", "wert": 400, "einheit": "Fr./kW", "beschreibung": "Neigungswinkel: integriert 400, angebaut/freistehend 200; Parkflächenbonus 250; Winterstrombonus 2.50 Fr. (mit Eigenverbrauch) bzw. 3.50 Fr. (ohne) mal Winterstrommehrertrag"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "Boni kumulierbar mit EIV (nach BFE-Merkblatt).",
+      "gueltig_ab": "",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf", "stelle": "EnFV Anhang 2.1 Ziff. 2.7"}
+    },
+    {
+      "id": "bund-heiv",
+      "kategorie": "pv",
+      "massnahme": "Hohe Einmalvergütung (HEIV), Anlagen ohne Eigenverbrauch",
+      "bedingungen": ["Neue Anlagen ohne Eigenverbrauch unter 150 kW (und erhebliche Erweiterungen unter 150 kW), in Betrieb ab 1.1.2023", "Anlagen ab 150 kW: Auktionsverfahren (nach BFE-Merkblatt, Details nicht geprüft)"],
+      "ansatz": {"art": "pro_kw", "wert": 450, "einheit": "Fr./kW", "beschreibung": "Leistungsbeitrag ohne Grundbeitrag (unter 150 kW)"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "2023-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://res.cloudinary.com/adminch/image/private/s--Me_nSUAZ--/v1752031166/Bundespublikationen/730-03d.pdf", "stelle": "EnFV Anhang 2.1 Ziff. 2.10"}
+    },
+    {
+      "id": "bund-impulsberatung-erneuerbar-heizen",
+      "kategorie": "beratung",
+      "massnahme": "Impulsberatung «erneuerbar heizen» (EnergieSchweiz)",
+      "bedingungen": ["Heizung älter als 10 Jahre (fossil/Elektro), Hauptheizung Raumwärme", "Beratung für Eigentümer kostenlos laut Suchresultat"],
+      "ansatz": {"art": "pauschal", "wert": 0, "einheit": "", "beschreibung": "Beratung kostenlos; kantonaler Beitrag nicht bestätigt"},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.weu.be.ch/content/dam/weu/dokumente/aue/de/energiefoerderung/aue-leitfaden-de.pdf", "stelle": "nicht im Leitfaden März 2026; Angabe nur aus Websuche (erneuerbarheizen.ch), nicht Originalquelle"}
+    }
+  ],
+  "offen": [
+    "Impulsprogramm: keine Betragstabelle des Bundes gefunden; massgebend sind die kantonalen Beträge. Messungen IP-04, IP-14, IP-19 wurden nur über dasgebaeudeprogramm.ch-Seiten referenziert; die einzelnen Massnahmenseiten lieferten HTTP 404/302. Welche Berner Beträge Bundesmittel sind, ist nicht ausgewiesen.",
+    "Gebäudeprogramm: Aussagen zu Änderungen 2026/2027 fehlen auf den Bundesseiten; BAFU-Seite Stand 13.02.2025. Nächste Bundesmeldung (Jahresbericht 2025, https://www.dasgebaeudeprogramm.ch/de/meta/publikationen-und-fotos/jahresberichte/) nicht gelesen.",
+    "EIV PV: Tabelle Ziff. 2.8 im PDF-Textextrakt nicht vollständig eindeutig (integrierte Anlagen ab 100 kW: nur ein Wert 250 lesbar; plausibel für die Spalte ab 1.4.2025). Bitte gegen Fedlex/Pronovo-Tarifrechner prüfen, bevor Beträge im Offert-Tool verwendet werden.",
+    "EIV PV Anhebung per 1. April 2027 (unter 30 kW: +40 Fr./kW): in den Erläuterungen UVEK vom November 2026 genannt; ob der Bundesrat die Änderung beschlossen hat und in welcher Fassung, ist nicht bestätigt. Vernehmlassungsantwort SSES (Juli 2026) nennt Vorschläge von 400/300/250 Fr./kWp für <30, 30-100 und ab 100 kWp (nicht als Quelle verwendet).",
+    "EIV PV: Mindestleistung, Fristen (Gesuch vor/nach Inbetriebnahme), Wartezeit/Auszahlungszeitpunkt, Pronovo-Richtlinie (Version 4.0 vom 31.01.2025 laut Suchresultat) nicht im Original gelesen. Pronovo-Seite war nicht abrufbar (HTTP 404).",
+    "EIV PV und Kanton Bern: keine kantonale PV-Förderung im Leitfaden; Kumulation mit Gemeinde-/EVU-Beiträgen nicht geprüft.",
+    "ProKilowatt: nur kurz über Suchresultat erfasst (BFE-Seite nicht direkt abgerufen); Fördersätze nicht erhoben.",
+    "Impulsberatung «erneuerbar heizen»: nur aus Suchresultaten, im Berner Leitfaden 2026 nicht enthalten; Bestand und Höhe des Berner Beitrags (früher CHF 350 bzw. CHF 1250) ungeklärt.",
+    "Auszahlung Bundesgelder: Bund und Kanton überlagern sich beim Impulsprogramm und Gebäudeprogramm vollständig im Kantonsgesuch; Aufteilung nach Bund/Kanton für den Gesuchsteller nicht relevant, für Statistik/Nachweis nicht dokumentiert."
+  ]
+}

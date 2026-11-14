@@ -1,0 +1,27 @@
+{
+  "traeger": "Gemeinde Herbligen",
+  "bfs": 610,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://herbligen.ch",
+    "https://herbligen.ch/verwaltung/reglemente/"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement für die Erhebung einer Konzessionsabgabe Stromversorgung (kein Förderprogramm)",
+      "url": "https://herbligen.ch/wp-content/uploads/2022/08/Reglement_fuer_die_Erhebung_einer_Konzessionsabgabe_Stromversorgung.pdf",
+      "typ": "pdf",
+      "stand": "01.07.2021",
+      "gueltig_ab": "2021-07-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementssammlung enthält kein Energie-/Förderreglement. Konzessionsabgabe Stromversorgung (Urnenabstimmung 13.06.2021, in Kraft 01.07.2021; BKW; max. 1.5 Rp./kWh, max. Fr. 300 pro Zähler) gelesen: reine Abgabe, keine Förderung. Baureglement 2025 nicht auf Energievorschriften geprüft.",
+    "Seiten /verwaltung/ver-entsorgung/ und /oeffentliche-auflage/ nicht gelesen.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "traeger": "Gemeinde Reutigen",
+  "bfs": 767,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.reutigen.ch",
+    "https://www.reutigen.ch/reglemente",
+    "https://www.reutigen.ch/verordnungen",
+    "https://www.reutigen.ch/dienstleistungen",
+    "https://www.reutigen.ch/bereiche",
+    "https://www.reutigen.ch/burgerraete-verwaltung",
+    "https://www.reutigen.ch/_rtr/departement_4594",
+    "https://www.reutigen.ch/_rtr/suchformular",
+    "https://www.reutigen.ch/reglemente (im Browser gelesen, beide Seiten, 31 Einträge: kein Energie-/Förderreglement; nur Wärmeversorgungsreglement)"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Es wurde kein Hinweis auf ein kommunales Energieförderprogramm gefunden (Startseite, Bauen, Abfall/Umwelt, Suchmaschine). Nicht «kein_programm», weil die Reglementsliste nicht lesbar war. Empfehlung: Anfrage bei der Gemeindeverwaltung (gemeinde@reutigen.ch, 033 657 80 10) bzw. Liste im Browser prüfen.",
+    "Ein Wärmeverbund Reutigen mit Wärmeversorgungsreglement (Zusammenarbeitsvertrag mit dem Burgerrat) besteht; das ist ein Anschluss-/Tarifreglement, keine Förderung. Details nicht gelesen.",
+    "Ab August 2026 übernimmt die RegioBV Westamt die Baubewilligungsverfahren (keine Förderrelevanz).",
+    "Reutigen gehört nicht zur Energieregion Thunersee (Mitgliederliste laut thun.ch).",
+    "Energieversorger-Programme (z.B. BKW) nicht erfasst.",
+    "Konzessionsabgabe/Energiefonds in Budget/Rechnung nicht geprüft; Energieversorger-Programme nicht erfasst."
+  ]
+}

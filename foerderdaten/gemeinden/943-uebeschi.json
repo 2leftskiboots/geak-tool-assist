@@ -1,0 +1,28 @@
+{
+  "traeger": "Einwohnergemeinde Uebeschi",
+  "bfs": 943,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.uebeschi.ch",
+    "https://www.uebeschi.ch/verwaltung/reglemente"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Die Reglementsliste (27 Einträge) enthält kein Förder-, Energie-, Fonds- oder Spezialfinanzierungsreglement für Energie; die Startseite hat keine Rubrik Energie/Förderung. Nur die Website-Navigation und die Reglementsliste wurden geprüft, die einzelnen Reglemente (z. B. Baureglement, Mehrwertabschöpfung) nicht im Volltext.",
+    "Keine Suchmaschinen-Treffer für ein Programm in Uebeschi (Suche eingeschränkt, nur eine Suche möglich).",
+    "Baubewilligungen/Bauverwaltung laufen über RegioBV Westamt ab 2026; dort nicht geprüft.",
+    "Vorsichtshalber telefonisch bei der Gemeinde bestätigen lassen."
+  ]
+}

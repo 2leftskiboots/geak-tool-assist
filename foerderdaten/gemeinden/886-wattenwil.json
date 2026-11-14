@@ -1,0 +1,39 @@
+{
+  "traeger": "Einwohnergemeinde Wattenwil",
+  "bfs": 886,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.wattenwil.ch",
+    "https://wattenwil.ch/de/verwaltung/dokumente/",
+    "https://wattenwil.ch/wAssets/docs/dienstleistungen/Reglement-fuer-die-Erhebung-einer-Konzessionsabgabe-Stromversorgung-1.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement für die Erhebung einer Konzessionsabgabe Stromversorgung",
+      "url": "https://wattenwil.ch/wAssets/docs/dienstleistungen/Reglement-fuer-die-Erhebung-einer-Konzessionsabgabe-Stromversorgung-1.pdf",
+      "typ": "pdf",
+      "stand": "Gemeinderat 19.10.2021",
+      "gueltig_ab": "2022-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Konzessionsabgabe BKW: 1.5 Rp/kWh (max. CHF 300/Jahr und Zähler), unterbrechbar 0.5 Rp/kWh (max. CHF 96) (Art. 3). Keine Zweckbindung, kein Förderprogramm."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Die Dokumentenliste (40 Einträge) enthält nur die Konzessionsabgabe und Spezialfinanzierungen für Grabunterhalt bzw. Werterhalt OSZW; kein Förderreglement. Die Kategorie-Filter der Dokumentenseite (Berichte, Konzepte, Merkblätter, Tarife) wurden nicht aufgelöst; dort könnten weitere Dokumente liegen.",
+    "Eine Suchmaschinen-Vorschau (nicht verifiziert) nennt in der Wattenwiler Post 2019/1 einen Abschnitt «Erneuerbare Energie; Unterstützung»; das PDF war nicht abrufbar (404). Inhalt unbekannt, evtl. nur Hinweis auf Kanton.",
+    "Die Bauverwaltung bietet laut Suchvorschau Beratung (u. a. Energie) an; die Seite war nicht abrufbar. Nicht geprüft: Budget/Jahresrechnung auf Energiefonds."
+  ]
+}

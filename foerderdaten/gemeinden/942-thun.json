@@ -1,0 +1,449 @@
+{
+  "traeger": "Stadt Thun",
+  "bfs": 942,
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.thun.ch/energie/63226",
+    "https://www.thun.ch/_docn/5539051/742.2_VO_F%C3%B6rderprogramm_Energieeffizienz,_i.K.1.3.2025.pdf",
+    "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Verordnung über das Förderprogramm Energieeffizienz (VFE), 742.2, inkl. Anhang Fördertatbestände und Förderbeiträge",
+      "url": "https://www.thun.ch/_docn/5539051/742.2_VO_F%C3%B6rderprogramm_Energieeffizienz,_i.K.1.3.2025.pdf",
+      "typ": "pdf",
+      "stand": "GRB Nr. 433 vom 9. Juni 2023; Revision vom 22.01.2025 (GRB Nr. 51)",
+      "gueltig_ab": "2023-08-01 (Revision 2025-03-01)",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Weisungen Förderprogramm Energieeffizienz, Version 2.2",
+      "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+      "typ": "pdf",
+      "stand": "Version 2.2, Stand Juni 2026",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Digital über die Plattform foerderprogrammenergie.thun.ch (BE-Login). Gesuch muss VOR Beginn der Umsetzung eingereicht werden; bereits im Bau befindliche oder fertige Vorhaben werden nicht unterstützt. Nach der Eingangsbestätigung kann auf eigenes Risiko mit der Umsetzung begonnen werden. Behandlung in der Regel innert einem Monat. Die Beitragshöhe richtet sich nach den bei Gesuchseinreichung geltenden Ansätzen (VFE Art. 5 Abs. 2).",
+    "voraussetzung_kanton": "Je nach Massnahme Gesuchsnummer/Gesuchsbrief des Kantons Bern und 'Bestätigung Auszahlung' des kantonalen Programms verlangt (GEAK Plus, Heizungsersatz, thermische Solar, bidirektionale Ladestationen). Gebäudesanierung (Einzelbauteile): nur für Sanierungen, die KEINE kantonalen Beiträge für die Gebäudesanierung erhalten.",
+    "kumulation": "Kumulieren mit Kantons- und Bundesbeiträgen zulässig (Weisungen S. 1). Ausnahmen: Gebäudesanierung (keine Doppelförderung mit kantonalem Programm), Heizungsersatz (keine Doppelförderung mit Klimaprämie Energie Zukunft Schweiz; gemäss Weisungen S. 7 nicht kumulierbar mit Programmen mit Beiträgen aus der CO2-Abgabe, z. B. myclimate, Klik, Energie Zukunft Schweiz).",
+    "budget": "Pro Jahr maximal CHF 700'000 Fördermittel (VFE Art. 2 Abs. 1). Bei knappen Mitteln Warteliste für vollständige Gesuche (Art. 2 Abs. 2). Kein Rechtsanspruch (Art. 2 Abs. 3).",
+    "gesamtmaximum": "Keines für das Gesamtgesuch genannt; je Massnahme Maxima (siehe programme). Gesamtkosten-Grenze bei Heizungsersatz: max. 35 % der Anlagekosten.",
+    "berechtigte": "Nicht im Detail definiert in den gelesenen Dokumenten (Gesuchsteller/Eigentümerschaft). Gebäude- und Altersbedingungen je Massnahme (z. B. GEAK Plus: Baujahr vor 2012; Gebäudehülle: Baujahr vor 2000; thermische Solar: Baujahr vor 2012; PV-Dachbelegung: Baujahr vor 2023). Gesuche der Energie Thun AG entscheidet der Gemeinderat.",
+    "nachweise_auszahlung": "Auszahlung in der Regel innert 60 Tagen nach vollständiger Realisierung und Einreichen der Belege (VFE Art. 10). Ausführungsbestätigung muss vor Ablauf der Zusage eingereicht werden. Je Massnahme eigene Beilagen (Schlussabrechnung, Inbetriebsetzungsprotokoll, Mess-/Prüfprotokoll PV, Kantons-Bestätigung usw.).",
+    "weitere_bestimmungen": [
+      "Beiträge nur für Massnahmen, die über die gesetzlichen Vorschriften hinausgehen, die bei Gesuchseingabe gelten; Projektierung und Ausführung nach Stand der Technik (VFE Art. 3).",
+      "Zusage 3 Jahre ab Zusagedatum gültig; Verlängerung (längstens 2 Jahre) nur mit schriftlichem, begründetem Gesuch vor Ablauf (VFE Art. 10 Abs. 2/3; Weisungen S. 1).",
+      "Rückerstattung zuzüglich Zins bei unwahren Angaben, zweckwidriger Verwendung oder verletzten Auflagen (VFE Art. 11).",
+      "Förderentscheid ersetzt keine Baubewilligung/Meldungen (Weisungen S. 1).",
+      "Auflagen möglich: Erfolgskontrolle/Messungen, Zutritt zu Demonstrationszwecken, Information der Öffentlichkeit (VFE Art. 8).",
+      "Förderbeiträge unter CHF 1'000 werden bei Gebäudesanierung, winteroptimierter PV und PV-Dachbelegung nicht ausbezahlt.",
+      "Heizungsersatz: Beitragshöhe nach Leistung der neuen Heizung, aber max. 50 W/m² Energiebezugsfläche und max. 35 % der Anlagekosten; nur bestehende Gebäude, keine Neubauten; Ersatz fossiler oder elektrischer Heizungen; Anforderungen des kantonalen Programms gelten grundsätzlich.",
+      "Räumliche Energieplanung bildet die Basis für den priorisierten Energieträger beim Heizungsersatz (Priorität 1: Wärmeverbund/Fernwärme, Priorität 2: Grund-/Oberflächenwasser- oder Erdsonden-WP). Luft/Wasser-Wärmepumpen sind nicht aufgeführt (nicht gefördert)."
+    ]
+  },
+  "programme": [
+    {
+      "id": "geak-plus",
+      "kategorie": "geak",
+      "massnahme": "Gebäudeenergieausweis der Kantone (GEAK) Plus (oder Grobanalyse)",
+      "bedingungen": [
+        "Gebäude mit Baujahr vor 2012.",
+        "Förderbeitrag einmalig pro Liegenschaft innerhalb der Gültigkeitsdauer von 10 Jahren.",
+        "Grobanalyse für komplexe Gebäude gemäss Vorgaben Kanton Kat. VII-XII (Versammlungslokale/Spitäler/Industrie/Lager/Sportbauten/Hallenbäder).",
+        "Gesuch mit Gesuchsnummer und Gesuchsbrief Kanton Bern; Auszahlung mit Rechnung GEAK-Bericht und 'Bestätigung Auszahlung' des Kantons."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% des vom Kanton nicht bezahlten Anteils",
+        "beschreibung": "50 % des vom Kanton Bern nicht bezahlten Anteils"
+      },
+      "minimum": "",
+      "maximum": "CHF 500 für Ein-/Zweifamilienhaus; CHF 1'000 für Mehrfamilienhaus/Verwaltung/Schule/Verkauf/Restaurant/Hotel (Zweckbauten Kat. III-VI); CHF 1'000 für Grobanalyse komplexe Gebäude",
+      "kombinierbar": "Kumulation mit Kanton (GEAK-Plus-Beitrag Kanton ist Basis).",
+      "gueltig_ab": "2023-08-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 2; VFE Anhang"
+      }
+    },
+    {
+      "id": "huelle-einzelbauteile",
+      "kategorie": "huelle",
+      "massnahme": "Energetische Gebäudesanierung - Förderung Einzelbauteile",
+      "bedingungen": [
+        "Keine Doppelförderung im Bereich 'Gebäude' gemäss Förderprogramm Kanton Bern; Gesamtsanierungen, die vom kantonalen Programm unterstützt werden, erhalten keine Beiträge.",
+        "Vorgängig GEAK Plus (bzw. Grobanalyse für komplexe Gebäude) oder Energieberatung bei der öffentlichen regionalen Energieberatung gefordert.",
+        "Aufstockungen, Anbauten, Neubauten, Ersatzneubauten nicht förderberechtigt.",
+        "Nur Gebäude mit Baujahr vor 2000 (Datum der rechtskräftigen Baubewilligung).",
+        "Mindeststandard Fenster: U-Wert Glas <= 0.60 W/m²K.",
+        "Mindeststandard Dämmung gegen Aussen: U-Wert <= 0.20 W/m²K.",
+        "Mindeststandard Dämmung gegen unbeheizt: U-Wert <= 0.25 W/m²K.",
+        "Beitragsberechtigte Flächen: nur im Ausgangszustand beheizte Gebäudeteile; Ausnahme: Dämmung von Estrich, Keller und Sockel förderberechtigt.",
+        "Keine Förderbeiträge unter CHF 1'000."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "Fr./m²",
+        "beschreibung": "Fensterersatz CHF 70/m² Mauerlichtmass; Wand/Dach/Boden Dämmung gegen aussen CHF 40/m² gedämmte Fläche; Wand/Dach/Boden Dämmung gegen unbeheizte Räume CHF 15/m² gedämmte Fläche"
+      },
+      "minimum": "CHF 1'000",
+      "maximum": "CHF 20'000",
+      "kombinierbar": "Nicht mit kantonalen Gebäude-Beiträgen für dieselbe Sanierung; mit Bund zulässig.",
+      "gueltig_ab": "2023-08-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 5; VFE Anhang 'Gebäudesanierungen'"
+      }
+    },
+    {
+      "id": "solar-thermie",
+      "kategorie": "solar_thermie",
+      "massnahme": "Thermische Solaranlage",
+      "bedingungen": [
+        "Sonnenkollektoranlagen für Warmwasser oder Warmwasser und Heizungsunterstützung.",
+        "Gebäude mit Baujahr vor 2012.",
+        "Validierte Leistungsgarantie (VLG) von Swissolar/EnergieSchweiz muss vorliegen.",
+        "Erweiterung bestehender Anlagen ab 5 m² neuer Kollektorfläche; Ersatz bestehender Anlagen nur, wenn mindestens 15 Jahre alt.",
+        "Aktive Anlagenüberwachung gemäss QM-Solarwärme bei thermischer Kollektor-Nennleistung über 20 kW.",
+        "Gesuch mit Gesuchsnummer/Gesuchsbrief oder Kollektorliste Kanton Bern; Auszahlung mit 'Bestätigung Auszahlung' Kanton und Inbetriebsetzungsprotokoll."
+      ],
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 300,
+        "einheit": "Fr./kW thermisch"
+      },
+      "minimum": "",
+      "maximum": "CHF 10'000",
+      "kombinierbar": "Kumulation mit Kanton/Bund zulässig.",
+      "gueltig_ab": "2023-08-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 6; VFE Anhang"
+      }
+    },
+    {
+      "id": "heizung-waermeverbund",
+      "kategorie": "heizung",
+      "massnahme": "Heizungsersatz: Anschluss an Wärmeverbund mit erneuerbarer Energie",
+      "bedingungen": [
+        "Ersatz fossiler oder elektrischer Heizungen in bestehenden Gebäuden; keine Neubauten.",
+        "Priorität 1 gemäss räumlicher Energieplanung.",
+        "Massgebend ist die Leistung der neuen Heizung, max. 50 W/m² Energiebezugsfläche und max. 35 % der Anlagekosten.",
+        "Keine Doppelförderung mit Klimaprämie Energie Zukunft Schweiz / CO2-Abgabe-Programmen.",
+        "Pläne mit eingezeichneter Energiebezugsfläche; Angaben zur aktuellen Hauptwärmeerzeugung; Offerte."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "",
+        "beschreibung": "Pauschal CHF 4'000; ab 40 kWth CHF 100/kWth"
+      },
+      "minimum": "CHF 4'000",
+      "maximum": "CHF 10'000",
+      "kombinierbar": "Kumulation mit Kanton/Bund zulässig, ausser Klimaprämie/CO2-Abgabe-Programme.",
+      "gueltig_ab": "2023-08-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 7; VFE Anhang 'Heizungsersatz' Ziff. 1"
+      }
+    },
+    {
+      "id": "heizung-fernwaerme-kva",
+      "kategorie": "waermenetz",
+      "massnahme": "Heizungsersatz: Anschluss an das Fernwärmenetz ab KVA Thun",
+      "bedingungen": [
+        "Ersatz fossiler oder elektrischer Heizungen in bestehenden Gebäuden; keine Neubauten.",
+        "Berechnungsbasis: einmalige Anschlusskosten (Anschlussgebühr) nach Abzug aller Subventionen und Beiträge Dritter.",
+        "Keine Doppelförderung mit Klimaprämie Energie Zukunft Schweiz / CO2-Abgabe-Programmen."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 40,
+        "einheit": "% der Anschlussgebühr nach Abzug Subventionen/Dritter"
+      },
+      "minimum": "",
+      "maximum": "CHF 30'000 pro Anschluss",
+      "kombinierbar": "Nach Abzug aller anderen Beiträge Dritter.",
+      "gueltig_ab": "2023-08-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 7; VFE Anhang 'Heizungsersatz' Ziff. 1"
+      }
+    },
+    {
+      "id": "heizung-wp-erdsonde-grundwasser",
+      "kategorie": "heizung",
+      "massnahme": "Heizungsersatz: Grund-/Oberflächenwasser- oder Erdsonden-Wärmepumpen",
+      "bedingungen": [
+        "Ersatz fossiler oder elektrischer Heizungen in bestehenden Gebäuden; keine Neubauten.",
+        "Priorität 2 (nach Wärmeverbund/Fernwärme) gemäss räumlicher Energieplanung.",
+        "Massgebend ist die Leistung der neuen Heizung, max. 50 W/m² Energiebezugsfläche und max. 35 % der Anlagekosten.",
+        "Anforderungen des kantonalen Förderprogramms gelten grundsätzlich.",
+        "Zusätzlich für Wärmepumpen: GEAK Plus oder Energieberatung der öffentlichen regionalen Energieberatung oder Nachweis guter Gebäudehülle (GEAK D) oder dokumentierter Verbrauch < 100 kWh/m² Endenergie.",
+        "Grund-/Oberflächenwasser-WP: gefördert werden Anlagen mit > 30 kW thermischer Leistung; kleinere nur ausnahmsweise, wenn Machbarkeitsstudie keine negativen Auswirkungen auf Nachbarparzellen ausweist.",
+        "Keine Doppelförderung mit Klimaprämie Energie Zukunft Schweiz / CO2-Abgabe-Programmen."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "",
+        "beschreibung": "Pauschal CHF 2'000; ab 10 kWth CHF 200/kWth"
+      },
+      "minimum": "CHF 2'000",
+      "maximum": "CHF 20'000",
+      "kombinierbar": "Kumulation mit Kanton/Bund zulässig, ausser Klimaprämie/CO2-Abgabe-Programme.",
+      "gueltig_ab": "2023-08-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 7; VFE Anhang 'Heizungsersatz' Ziff. 2"
+      }
+    },
+    {
+      "id": "machbarkeit-wasser-probebohrung",
+      "kategorie": "heizung",
+      "massnahme": "Machbarkeitsstudie Grund- und Oberflächenwassernutzung und Probebohrungen Grundwasser",
+      "bedingungen": [
+        "Machbarkeitsstudie = hydrogeologisches Gutachten; Nachbarparzellen einbeziehen (gemeinsame Nutzung prüfen).",
+        "Minimal 30 kWth Leistung.",
+        "Risikobeitrag Probebohrung nur bei erfolgloser Bohrung und wenn hydrogeologisches Gutachten Nutzung als realistisch einschätzt.",
+        "Förderung durch Kanton/Bund wird von den anrechenbaren Investitionskosten abgezogen."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 75,
+        "einheit": "% der Kosten Machbarkeitsstudie",
+        "beschreibung": "Machbarkeitsstudie 75 %; zusätzlich Risikobeitrag Probebohrung bei erfolgloser Bohrung: Bohrkosten abzüglich Bauherrenbeitrag CHF 2'000"
+      },
+      "minimum": "",
+      "maximum": "Studie max. CHF 10'000; Bohrkosten max. CHF 30'000 (abzüglich CHF 2'000 Bauherrenbeitrag)",
+      "kombinierbar": "Kanton/Bund-Beitrag wird abgezogen.",
+      "gueltig_ab": "2025-03-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 8; VFE Anhang"
+      }
+    },
+    {
+      "id": "waermeerzeugungskonzept-bauinventar",
+      "kategorie": "beratung",
+      "massnahme": "Wärmeerzeugungskonzepte bei Objekten im Bauinventar / Perimeter Altstadt Thun",
+      "bedingungen": [
+        "Objekt im Bauinventar des Kantons Bern oder Bau im Perimeter der Altstadt von Thun.",
+        "Einbindung benachbarter Gebäude ist zu prüfen.",
+        "Minimal 30 kWth Leistung.",
+        "Beitrag von Kanton/Bund wird von den anrechenbaren Investitionskosten abgezogen."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% der Kosten"
+      },
+      "minimum": "",
+      "maximum": "CHF 10'000",
+      "kombinierbar": "Kanton/Bund-Beitrag wird abgezogen.",
+      "gueltig_ab": "2025-01-22 (eingefügt)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 9; VFE Anhang"
+      }
+    },
+    {
+      "id": "pv-winteroptimiert",
+      "kategorie": "pv",
+      "massnahme": "Winteroptimierte Photovoltaik-Anlagen (Neigung > 60 Grad)",
+      "bedingungen": [
+        "Neigung steiler als 60 Grad (inkl. Fassadenanlagen), Exposition Ost über Süd bis West (Süd +/- 90 Grad).",
+        "Freiflächenanlagen ausgenommen.",
+        "Keine Förderbeiträge unter CHF 1'000."
+      ],
+      "ansatz": {
+        "art": "pro_kwp",
+        "wert": 300,
+        "einheit": "Fr./kWp",
+        "beschreibung": "CHF 300/kWp für angebaute Anlagen und Anlagen an Bauten und Infrastrukturen; CHF 1'000/kWp für integrierte Fassadenanlagen"
+      },
+      "minimum": "CHF 1'000",
+      "maximum": "CHF 30'000",
+      "kombinierbar": "Kumulation mit Bund (Einmalvergütung) zulässig (allgemeine Regel).",
+      "gueltig_ab": "2025-03-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 10; VFE Anhang"
+      }
+    },
+    {
+      "id": "pv-dachbelegung",
+      "kategorie": "pv",
+      "massnahme": "Photovoltaik-Dachbelegung (volle Dachbelegung)",
+      "bedingungen": [
+        "Gefördert wird nur die installierte Leistung, welche 25 W pro m² Energiebezugsfläche übersteigt.",
+        "Gebäude mit Baujahr vor 2023 (keine Neubauten).",
+        "Keine Förderbeiträge unter CHF 1'000.",
+        "Bei der Beurteilung der vollen Dachbelegung werden Anbauten/Aufbauten (Kamine, Lüftungsbauteile, Lukarnen), gestalterische Vorgaben berücksichtigt; Attikaterrassen zählen nicht zur Dachfläche.",
+        "Gesuch mit vermasstem Dachplan, Grundrissplänen mit Energiebezugsfläche, Datenblatt Module, Offerte."
+      ],
+      "ansatz": {
+        "art": "pro_kwp",
+        "wert": 200,
+        "einheit": "Fr./kWp",
+        "beschreibung": "CHF 200/kWp für den Anteil über 25 W/m² EBF"
+      },
+      "minimum": "CHF 1'000",
+      "maximum": "CHF 10'000",
+      "kombinierbar": "Kumulation mit Bund (Einmalvergütung) zulässig (allgemeine Regel).",
+      "gueltig_ab": "2023-08-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 11; VFE Anhang"
+      }
+    },
+    {
+      "id": "gewerbe-beratung",
+      "kategorie": "beratung",
+      "massnahme": "Energieeffizienz Gewerbe und Industrie (Beratung, Dienstleistungen, Energieeffizienzprogramme, Energieanalysen)",
+      "bedingungen": [
+        "Analyse/Beratung durch ausgewiesene externe Fachperson mit Abschlussbericht; Fokus auf Unternehmen, die nicht unter den Grossverbraucherartikel fallen.",
+        "Keine Infrastrukturen (Ausnahme Messinstallationen für Monitoring/Betriebsoptimierung).",
+        "Keine Förderung gesetzlich verpflichtender Massnahmen (z. B. Grossverbrauchermodell).",
+        "Bei mehrjährigen Angeboten auch jährliches Monitoring max. 3 Jahre.",
+        "Maximal ein Förderbeitrag alle 5 Jahre.",
+        "Drittförderung wird abgezogen."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% der Gesamtkosten nach Abzug Drittförderung"
+      },
+      "minimum": "",
+      "maximum": "CHF 20'000 (inkl. Monitoring)",
+      "kombinierbar": "Drittförderung wird abgezogen.",
+      "gueltig_ab": "2023-08-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 3; VFE Anhang"
+      }
+    },
+    {
+      "id": "ladeinfrastruktur-basis",
+      "kategorie": "mobilitaet",
+      "massnahme": "Basisinstallation für Ladeinfrastruktur E-Mobilität",
+      "bedingungen": [
+        "Bestehende Parkplätze (Einstellhallen oder Aussenparkplätze), die vor dem 1. Januar 2023 rechtskräftig bewilligt wurden.",
+        "Förderung ab drei Parkplätzen.",
+        "Ladestationen müssen intelligentes Lastmanagement aufweisen."
+      ],
+      "ansatz": {
+        "art": "pauschal",
+        "wert": 200,
+        "einheit": "Fr. pro erschlossenem Parkplatz (private Nutzung)",
+        "beschreibung": "Private Nutzung CHF 200 pro erschlossenem Parkplatz; öffentlicher Zugang CHF 500 pro erschlossenem Parkplatz; bis 50 % der Investitionskosten"
+      },
+      "minimum": "",
+      "maximum": "CHF 7'500 (beide Varianten)",
+      "kombinierbar": "",
+      "gueltig_ab": "2025-03-01 (Fassung 22.01.2025)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 12; VFE Anhang"
+      }
+    },
+    {
+      "id": "bidirektionale-dc-ladestation",
+      "kategorie": "mobilitaet",
+      "massnahme": "Bidirektionale DC-Ladestationen",
+      "bedingungen": [
+        "Gemäss Bestimmungen und Auflagen des Kantons Bern.",
+        "Gesuch mit Gesuchsnummer/Gesuchsbrief Kanton Bern; Auszahlung mit 'Bestätigung Auszahlung' Kanton."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% des vom Kanton geförderten Beitrags"
+      },
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "Zusätzlich zum kantonalen Beitrag.",
+      "gueltig_ab": "2025-01-22 (eingefügt)",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 13; VFE Anhang"
+      }
+    },
+    {
+      "id": "innovative-projekte",
+      "kategorie": "sonstiges",
+      "massnahme": "Innovative Projekte",
+      "bedingungen": [
+        "Projekte, die keiner anderen Kategorie zugeordnet werden können und wesentlich über die gesetzlichen Anforderungen hinausgehen oder ausserordentlich zum Netto-Null-Ziel beitragen.",
+        "Nachweis, dass andere private/staatliche Förderinstrumente ausgeschöpft sind (VFE Art. 4).",
+        "Keine Förderung wirtschaftlicher Lösungen; Beurteilung durch Fachbeirat Energieeffizienz."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 35,
+        "einheit": "% der Projektkosten"
+      },
+      "minimum": "",
+      "maximum": "CHF 150'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2023-08-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 14; VFE Art. 4, Anhang"
+      }
+    },
+    {
+      "id": "aktionen",
+      "kategorie": "sonstiges",
+      "massnahme": "Aktionen (befristete Aktionen für Energieeffizienz, Klima, Mobilität, erneuerbare Energien)",
+      "bedingungen": [
+        "Befristetes Vorhaben für die breite Bevölkerung oder eine Interessengruppe; Kontakt mit Geschäftsstelle vor Gesuch."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "",
+        "beschreibung": "Abhängig von der Aktion"
+      },
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "2023-08-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.thun.ch/_docn/7091887/Weisungen_F%C3%B6rderprogramm_Energieeffizienz_Version_2.2.pdf",
+        "stelle": "Weisungen S. 4"
+      }
+    }
+  ],
+  "offen": [
+    "Das Dokument der Verordnung trägt Fassung i.K. 1.3.2025 (PDF-Datum 06.02.2025). Es ist nicht geprüft, ob seither eine neuere Revision besteht, die zu den Weisungen Version 2.2 (Stand Juni 2026) gehört. Weisungen und VFE-Anhang stimmen bei den Beträgen überein.",
+    "Heizungsersatz: Weisungen S. 7 verlangen für Wärmepumpen Nachweis GEAK D/GEAK Plus/Energieberatung/Verbrauch < 100 kWh/m²; Luft/Wasser-Wärmepumpen sind weder erwähnt noch gefördert (Schluss aus Wortlaut, nicht ausdrücklich ausgeschlossen).",
+    "Holzheizungen, PV-Normalanlagen (ausser Dachbelegung über 25 W/m² EBF) und PV-Batteriespeicher sind in den Dokumenten nicht aufgeführt, also nicht gefördert.",
+    "Berechtigte (wer darf Gesuch stellen) sind nicht ausdrücklich definiert.",
+    "Mehrfamilienhaus/GEAK: Weisungen nennen Zweckbauten; VFE Anhang spricht von Kategorie III-VI.",
+    "Der Preis/Ansatz für Gebäudesanierung gilt je Bauteil; Maximum CHF 20'000 gilt für die Gesamtmassnahme (Auslegung aus Wortlaut 'Mindestförderung CHF 1'000; maximal CHF 20'000').",
+    "Geschäftsstelle ist bei der Energie Thun AG angesiedelt (VFE Art. 12); das Programm ist aber ein städtisches Programm, kein Programm des Energieversorgers. Energie Thun AG und BKW eigene Programme nicht erfasst.",
+    "Kontakt: foerderprogrammenergie@energiethun.ch, 033 225 47 80 (laut Programmseite)."
+  ]
+}

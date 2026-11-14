@@ -1,0 +1,22 @@
+{
+  "traeger": "Gemeinde Gerzensee",
+  "bfs": 866,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.gerzensee.ch",
+    "https://www.gerzensee.ch/de/verwaltung/dokumente/",
+    "https://www.gerzensee.ch/de/dorfleben/bau-gewerbeland/",
+    "https://www.gerzensee.ch/de/verwaltung/lebenslagen/?i=6&",
+    "https://www.gerzensee.ch/de/verwaltung/lebenslagen/detail.php?i=41"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Dokumentenliste (54 Dokumente) enthält kein Energie-Förderreglement; Lebensthema «Energie» ist nur ein Platzhalter mit Verweis auf Energieberatungen und Feuerungskontrolle.",
+    "Reglement Erhebung Konzessionsabgabe BKW und Reglement Planungsmehrwertabgabe vorhanden (nicht gelesen; kein Förderprogramm laut Titel).",
+    "Dienstleistung «Energieberatungen» (…/dienstleistungen/detail.php?i=195) nicht einzeln abgerufen.",
+    "Energieversorger (BKW): evtl. eigenes Förderprogramm, nicht erfasst."
+  ]
+}

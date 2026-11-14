@@ -1,6 +1,6 @@
 # E03 – Förderdatenbank
 
-- Status: offen
+- Status: gebaut, Abnahme durch Cyril offen (Stichproben, Nachprüfung von 6 Gemeinden)
 - Meilenstein: M1 Prüfassistent
 - Hängt ab von: – (parallel zu E01/E02 möglich)
 
@@ -20,16 +20,40 @@ Eine lokale Datei mit den aktuellen Förderprogrammen, auf die der Assist zurüc
 
 ## Fertig, wenn
 
-- [ ] Datei für Bund, Kanton Bern und die festgelegten Gemeinden vorhanden
-- [ ] monatliche Aktualisierung eingerichtet, erster Lauf mit Änderungsbericht
+- [x] Datei für Bund, Kanton Bern und die festgelegten Gemeinden vorhanden (45 Gemeinden, `foerderdaten/`)
+- [ ] monatliche Aktualisierung eingerichtet (Werkzeuge laufen, erster Lauf mit Bericht gemacht; geplante Aufgabe wartet auf OK Cyril)
 - [ ] Cyril hat Stichproben gegen die Originalquellen geprüft
 
 ## Offene Punkte
 
-- OFFEN: Liste der Gemeinden (Region Thun).
-- OFFEN: Wo die Routine läuft (geplante Aufgabe auf Cyrils PC oder in der Cloud; öffentliche Daten, kein GEAK-Zugang nötig).
-- OFFEN: Format (JSON, Tabelle) und ob die Datei ins Repository gehört (öffentliche Daten: möglich).
+- ERLEDIGT (Entscheid 0006): Gemeindeliste = 45 Gemeinden im 10-km-Umkreis; Format JSON im Repository.
+- OFFEN: Wo die monatliche Routine läuft (Vorschlag: geplante Aufgabe in der Desktop-App auf Cyrils PC).
+- OFFEN: 6 Gemeinden sind `unklar`, weil ihre Reglementssammlung nicht abrufbar war: Wichtrach, Wimmis, Heiligenschwendi, Oberhofen, Sigriswil, Thierachern. Im Browser sichten oder bei der Gemeinde nachfragen.
+- OFFEN: Bei 33 Gemeinden steht `kein_programm`. Belegt sind Reglementsliste und Konzessionsabgabe; schwächer bei Hilterfingen, Wachseldorn, Därstetten, Wattenwil, Eriz (Hinweise in Suchvorschauen) sowie Buchholterberg, Stocken-Höfen, Kirchdorf (gescannte Richtlinien nicht gelesen). Zweiter Durchgang, sobald die Websuche nicht mehr gedrosselt ist.
+- OFFEN (fachlich, für E04): Spiez Heizungsersatz («pauschal Fr. 2'000; ab 20 kW Fr. 100/kW»), Steffisburg GEAK-Plus-Bedingung bei Baujahr vor 2000, Kanton Bern Wärmepumpen-kW-Zuschlag und Degression über Fr. 200'000, PV-Ansatz «ab 100 kW integriert» (gegen Pronovo/Fedlex prüfen). Antworten: Gemeinde bzw. AUE (foerderung.aue@be.ch).
+- OFFEN: Jaberg-Beträge stammen aus dem Stand Dezember 2024 (Leistungskatalog wird jährlich festgelegt).
 
 ## Ergebnis
 
+**Stand 2026-11-14.** `foerderdaten/` enthält je Gemeinde eine JSON-Datei (45), dazu `kanton-bern.json` (22 Programme) und `bund.json` (8 Programme). Schema: `foerderdaten/SCHEMA.md`.
+
+| Status | Gemeinden |
+|---|---|
+| Programm (6) | Thun (15 Programme), Spiez (18), Heimberg (9), Uetendorf (7), Steffisburg (6), Jaberg (4) |
+| kein Programm (33) | alle übrigen ausser den sechs unklaren |
+| unklar (6) | Wichtrach, Wimmis, Heiligenschwendi, Oberhofen, Sigriswil, Thierachern |
+
+Wichtige Erkenntnisse:
+- **Energiefranken ist unvollständig:** Es kennt nur Thun, Steffisburg, Uetendorf und Spiez. Heimberg (neues Reglement ab 1.1.2026) und Jaberg fehlen dort. Deshalb sind die Originaldokumente die Quelle (Entscheid 0006).
+- Die Gemeindeprogramme sind klein und stark verschieden (Thun Gebäudehülle max. Fr. 20'000, Steffisburg Fr. 10'000, Jaberg Pauschalen mit Maximum Fr. 1'000). Detailbestimmungen (Gesuch vor/nach Realisierung, Wartelisten, Keine Doppelförderung mit dem Kanton, Baujahr vor 2000) stehen je Datei unter `allgemein` und `bedingungen`.
+- Oberdiessbach hatte bis 31.12.2025 Energieförderrichtlinien (Gesuchsfrist bis 30.4.2026), jetzt aufgehoben.
+- Energieversorger-Programme (BKW, Energie Thun AG) sind nicht erfasst.
+
+Werkzeuge (alle nur lesend): `npm run foerder-pruefen` (Form und Übersicht), `npm run foerder-quellen` (Fingerabdruck der 43 Originaldokumente, Änderungen melden), `npm run foerder-bericht` (Änderungsbericht gegenüber dem Vormonat; erster Lauf 2026-11, Bericht in `foerderdaten/berichte/`).
+
+Arbeitsweise: Die Recherche lief in sieben parallelen Sitzungen je Gruppe von Gemeinden. Die Websuche war dabei gedrosselt, deshalb wurden viele Gemeinden direkt über ihre Reglementssammlung geprüft. Gescannte PDFs wurden zum Teil als Bild gelesen.
+
 ## Rückmeldungen an den Masterplan
+
+- Die Förderdatenbank ist ohne Nachprüfung nicht abschliessend; die Masterplan-Risikozeile «Förderregeln unvollständig oder veraltet» trifft zu und gilt hier besonders für `kein_programm`. E04 sollte bei Gemeinden mit Status `unklar` oder schwacher Evidenz eine Rückfrage an Cyril ausweisen.
+- Die monatliche Aktualisierung braucht eine Claude-Sitzung (neu lesen, was der Quellenwächter als geändert meldet) plus Suche nach neuen Programmen in Gemeinden ohne Programm.

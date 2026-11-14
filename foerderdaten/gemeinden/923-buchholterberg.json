@@ -1,0 +1,18 @@
+{
+  "traeger": "Gemeinde Buchholterberg",
+  "bfs": 923,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.buchholterberg.ch",
+    "https://www.buchholterberg.ch/politik/reglemente-und-verordnungen.html/73"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (43 Dokumente, Stand Seite 2026-11-14) enthält kein Energie-/Förderreglement. Nicht lesbar (gescannte PDFs): Konzessionsabgabe Stromversorgung (01.01.2022), Fondsreglement (14.05.1999), Richtlinien Gemeindebeiträge (Stand 01.10.2024). Verwendung der Konzessionsabgabe und ob Energiemassnahmen beitragsberechtigt sind: nicht geprüft.",
+    "Energieversorger (BKW) nicht erfasst.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

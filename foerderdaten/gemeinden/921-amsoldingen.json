@@ -1,0 +1,44 @@
+{
+  "traeger": "Gemeinde Amsoldingen",
+  "bfs": 921,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.amsoldingen.ch",
+    "https://www.amsoldingen.ch/verwaltung/erlasse-und-downloads",
+    "https://www.amsoldingen.ch/verwaltung/abteilungen/bauwesen",
+    "https://www.amsoldingen.ch/images/content/Erlasse-und-Reglemente/Reglement-ueber-die-Erhebung-einer-Konzessionsabgabe-Stromversorgung-Version-HP.pdf",
+    "https://www.amsoldingen.ch/images/content/Erlasse-und-Reglemente/Verordnung-ueber-die-Erhebung-einer-Konzessionsabgabe-Abgabetarif-Version-hp.pdf",
+    "https://www.amsoldingen.ch/images/content/media/archive2/RichtlinienberdasBeitragsundSpendenwesen.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement über die Erhebung einer Konzessionsabgabe Stromversorgung",
+      "url": "https://www.amsoldingen.ch/images/content/Erlasse-und-Reglemente/Reglement-ueber-die-Erhebung-einer-Konzessionsabgabe-Stromversorgung-Version-HP.pdf",
+      "typ": "pdf",
+      "stand": "9. Juni 2021",
+      "gueltig_ab": "2022-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Das Konzessionsabgabe-Reglement (Art. 1-3) regelt nur die Abgabe der EVU für die Nutzung des öffentlichen Grundes (0.5-1.5 Rp./kWh, max. CHF 300 pro Jahr und Zähler); keine Zweckbindung für Energieförderung, kein Fonds.",
+      "Die Richtlinien über das Beitrags- und Spendenwesen (2016) betreffen nur Vereine, Jugendförderung und Spenden, nicht Energie."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Der Erlasse-Katalog (Reglemente, Verordnungen, Weisungen/Richtlinien, Merkblätter) enthält keinen Eintrag zu Energieförderung/Energiefonds; Bauwesen-Seite ohne Förderhinweis. Es besteht kein kommunales Programm, soweit auffindbar.",
+    "Amsoldingen gehört nicht zu den Mitgliedsgemeinden der Energieregion Thunersee (Liste laut thun.ch: Heimberg, Hilterfingen, Oberhofen, Spiez, Steffisburg, Thierachern, Thun); Energie-Coaching dort nicht verfügbar.",
+    "Mehrwertabgabe-Spezialfinanzierung (Reglement 2025) nicht gelesen; Zweckbindung betrifft üblicherweise Raumplanung, nicht Energieförderung.",
+    "Energieversorger-Programme (z.B. BKW) nicht erfasst."
+  ]
+}

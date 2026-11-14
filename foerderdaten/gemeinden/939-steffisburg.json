@@ -1,0 +1,233 @@
+{
+  "traeger": "Gemeinde Steffisburg",
+  "bfs": 939,
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/index.php",
+    "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+    "https://www.steffisburg.ch/de/politik-verwaltung/politik/cdws/erlass.php?gid=ab0a845e2fb64221a2276de4f35dc1f9",
+    "https://www.steffisburg.ch/de/politik-verwaltung/politik/cdws/erlass.php?gid=69009b73c6ae478baba6c3cdcb493580"
+  ],
+  "dokumente": [
+    {
+      "titel": "Wegleitung Gesuchsformulare und Förderbestimmungen",
+      "url": "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+      "typ": "pdf",
+      "stand": "Gültig ab Januar 2025 (Anpassung Januar 2025)",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Verordnung Spezialfinanzierung Förderung Energieeffizienz (Art. 4: Richtwerte Beiträge)",
+      "url": "https://www.steffisburg.ch/de/politik-verwaltung/politik/cdws/dok_geschaeft.php?did=a9ea49279ef34d1f9816d4eb1c6c4a6a-332&geschaeft=Verordnung%20Spezialfinanzierung%20F%C3%B6rderung%20Energieeffizienz&filename=Verordnung_Internetversion&v=5&r=PDF&typ=pdf",
+      "typ": "pdf",
+      "stand": "GRB 9. Mai 2016; 3. Teilrevision 25.11.2024",
+      "gueltig_ab": "2025-01-01 (Teilrevision)",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Reglement Spezialfinanzierung Förderung Energieeffizienz",
+      "url": "https://www.steffisburg.ch/de/politik-verwaltung/politik/cdws/dok_geschaeft.php?did=46e35653f48f47c189445838d08464ca-332&geschaeft=Reglement%20Spezialfinanzierung%20F%C3%B6rderung%20Energieeffizienz&filename=Reglement;_Internet-Version&v=3&r=PDF&typ=pdf",
+      "typ": "pdf",
+      "stand": "Beschluss Grosser Gemeinderat 17.06.2016; 2. Teilrevision 29.11.2024",
+      "gueltig_ab": "2025-01-01 (Teilrevision)",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Gesuchsformular (Formular 1 bis 4) mit Beilagen per E-Mail (tiefbau@steffisburg.ch) oder Post an Gemeindeverwaltung, Abteilung Tiefbau/Umwelt (Therese Lanz). Gesuch VOR Baubeginn (Ausnahme: GEAK Plus/Grobanalyse und Energieberatung für Unternehmen/Gewerbe/Grossverbraucher). Realisierungsbeginn vor Zusage auf eigenes Risiko. Danach Ausführungsbestätigung mit Beilagen. Entscheid der Fachkommission Energieeffizienz in der Regel innert 3 Monaten.",
+    "voraussetzung_kanton": "GEAK Plus ist Voraussetzung für Energetische Gebäudesanierung, thermische Solaranlage und Heizungsersatz (Wegleitung). Gebäudesanierung: keine Doppelförderung mit dem Kanton. GEAK-Plus-Auszahlung gegen Zahlungsbestätigung des Kantons Bern.",
+    "kumulation": "Doppelförderung mit dem Kanton bei Gebäudesanierung nicht zulässig; sonst keine ausdrückliche Kumulationsregel in den gelesenen Dokumenten.",
+    "budget": "Spezialfinanzierung (Konzessionsabgabe-Erträge, 50 % der Erträge gemäss Reglement Art. 3). Beiträge nur, wenn die Mittel es zulassen; Wartelisten bei Zusicherungen und Auszahlungen; Auszahlung kann auf das Folgejahr verschoben werden; kein Verzugszins. Kein Rechtsanspruch. Aktionen/Kampagnen insgesamt 5-10 % der jährlichen Einlagen (VO Art. 4 Bst. e).",
+    "gesamtmaximum": "Kein Gesamtmaximum je Gesuch genannt; Maxima je Massnahme. Gebäudesanierung gesamt max. CHF 10'000 (Wegleitung).",
+    "berechtigte": "Massnahmen innerhalb Gemeinde Steffisburg oder mit anderweitigem Bezug zur Gemeinde (VO Art. 3). Für Vorhaben der Gemeindeverwaltung und der NetZulg AG nur Leuchtturmprojekte.",
+    "nachweise_auszahlung": "Ausführungsbestätigung mit Beilagen und Rechnungen. GEAK Plus/Energieberatung Unternehmen: nur Dokumente zusammen mit Gesuchsformular, keine Ausführungsbestätigung. Auszahlung in Reihenfolge der eingehenden Abrechnungsdokumente; gemäss VO Art. 8 in der Regel innert 30 Tagen nach Realisierung und Vorlage der Belege.",
+    "weitere_bestimmungen": [
+      "Das Gesuch wird nach den bei vollständiger Einreichung geltenden Beitragssätzen und Bedingungen beurteilt (Stichtag = vollständig eingereichte Unterlagen).",
+      "Behandlung in der Reihenfolge des Eingangs (Poststempel).",
+      "Zusage 2 Jahre gültig (Anschluss an Wärmeverbund 5 Jahre); Verlängerung um 1 Jahr aus wichtigen Gründen mit schriftlichem Gesuch.",
+      "Innerhalb von 3 Jahren nach einer Beitragszahlung keine weiteren Zusicherungen für dasselbe Objekt und denselben Fördertatbestand.",
+      "Ausbezahlte Beiträge müssen steuerlich korrekt deklariert werden.",
+      "Rückforderung samt Zins bei unrichtigen Angaben oder Nichteinhaltung der Auflagen.",
+      "Beitragszusage unter Vorbehalt, dass die gesetzliche Grundlage der Spezialfinanzierung bestehen bleibt.",
+      "Beitragsberechtigt nur Massnahmen, die über gesetzliche Vorschriften hinausgehen; Stand der Technik.",
+      "Luft/Wasser-Wärmepumpen werden nicht gefördert (VO Art. 4 Bst. c).",
+      "Bestehende Gebäude: Gebäude gelten als bestehend, wenn sie mindestens 5 Jahre alt sind (Wegleitung)."
+    ]
+  },
+  "programme": [
+    {
+      "id": "geak-plus",
+      "kategorie": "geak",
+      "massnahme": "GEAK Plus Gebäudeausweis der Kantone (Formular 1)",
+      "bedingungen": [
+        "Förderbeitrag einmalig pro Liegenschaft oder Gebäudegruppe innerhalb der Gültigkeitsdauer von 10 Jahren.",
+        "Nachweis für Auszahlung: Zahlungsbestätigung des Kantons Bern; Kosten mit Rechnungen belegt.",
+        "Bei komplexen Gebäuden ohne GEAK: Beratung durch die Regionale Energieberatung Thun-Oberland West oder Grobanalyse gemäss kantonalen Vorgaben.",
+        "Gesuch darf nach Erstellung eingereicht werden (Ausnahme von der Vor-Baubeginn-Regel)."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 50,
+        "einheit": "% des vom Kanton nicht bezahlten Anteils (Restbetrag nach Abzug Kantonsbeitrag)"
+      },
+      "minimum": "",
+      "maximum": "CHF 500 Ein-/Zweifamilienhaus; CHF 1'000 Mehrfamilienhaus",
+      "kombinierbar": "Kumulation mit Kantonsbeitrag (Restbetrag).",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+        "stelle": "Wegleitung, Fördertatbestände, Beratung und Information (Formular 1); VO Art. 4 Bst. a"
+      }
+    },
+    {
+      "id": "huelle",
+      "kategorie": "huelle",
+      "massnahme": "Energetische Gebäudesanierung (Formular 2): Fensterersatz und Dämmung",
+      "bedingungen": [
+        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus.",
+        "Eine Doppelförderung mit dem Kanton ist nicht zulässig.",
+        "Nur Gebäude, die vor 2000 erstellt wurden (Datum der rechtskräftigen Baubewilligung).",
+        "Förderberechtigt nur im Ausgangszustand beheizte Gebäudeteile; Ausnahme: Dämmung Estrich, Keller, Sockel.",
+        "Neubauten, Anbauten, Aufstockungen und Ersatzneubauten nicht beitragsberechtigt.",
+        "Fenster: U-Wert Glas <= 0.60 W/m²K; Glasabstandhalter Kunststoff/Edelstahl (kein Aluminium).",
+        "Wand, Dach, Boden gegen Aussenklima (oder Erdreich bis 2 m): U-Wert <= 0.20 W/m²K.",
+        "Wand, Decke, Boden gegen unbeheizte Räume (oder Erdreich tiefer als 2 m): U-Wert <= 0.25 W/m²K.",
+        "Fensterfläche nach Mauerlichtmass; bei Fassaden Fensterflächen abziehen.",
+        "Erleichterungen bei U-Werten für geschützte Bauten (Inventare, von nationaler/regionaler Bedeutung) und behördlich geschützte Bauteile gegen Nachweis."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "Fr./m²",
+        "beschreibung": "Fensterersatz CHF 70/m² Mauerlichtmass; Dämmung Wand/Dach/Boden gegen Aussenklima CHF 40/m² gedämmte Fläche; Dämmung gegen unbeheizte Räume CHF 15/m² gedämmte Fläche (VO: auch gegen Erdreich)"
+      },
+      "minimum": "",
+      "maximum": "CHF 10'000 (Energetische Gebäudesanierung)",
+      "kombinierbar": "Nicht mit kantonalem Gebäudeprogramm für dieselbe Sanierung. Bei Mehrfamilienhäusern/Überbauungen legt die Fachkommission den Beitrag fest.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+        "stelle": "Wegleitung, Energetische Gebäudesanierung (Formular 2); VO Art. 4 Bst. b"
+      }
+    },
+    {
+      "id": "solar-thermie",
+      "kategorie": "solar_thermie",
+      "massnahme": "Thermische Solaranlage (Formular 3)",
+      "bedingungen": [
+        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus (Wegleitung: 'nur für Gebäude mit Baujahr vor 2000').",
+        "Beitragsberechtigt: Sonnenkollektoranlagen bei bestehenden Gebäuden (mindestens 5 Jahre alt) für Warmwasser oder Warmwasser und Heizungsunterstützung.",
+        "Neuanlagen als Erweiterung bestehender Anlagen (ab 5 m²) sowie Ersatz bestehender Anlagen, die mindestens 15 Jahre alt sind.",
+        "Kollektoren müssen auf www.kollektorliste.ch aufgeführt sein.",
+        "Nicht beitragsberechtigt: Luftkollektoren, Heutrocknungs- und Schwimmbadheizungsanlagen.",
+        "Bei grossen Anlagen kann Nutzenergieberechnung verlangt werden; Merkblatt 'Dimensionierungshilfe Sonnenkollektoren' (MINERGIE/EnergieSchweiz) einzuhalten."
+      ],
+      "ansatz": {
+        "art": "pro_kw",
+        "wert": 300,
+        "einheit": "Fr./kW thermisch"
+      },
+      "minimum": "",
+      "maximum": "CHF 10'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+        "stelle": "Wegleitung, Wärme erneuerbar (Formular 3); VO Art. 4 Bst. c"
+      }
+    },
+    {
+      "id": "heizung-erdwaerme-grundwasser-fernwaerme",
+      "kategorie": "heizung",
+      "massnahme": "Heizungsersatz: Erdwärme- und Grundwasser-Wärmepumpe oder Anschluss an Fernwärme/Wärmeverbund",
+      "bedingungen": [
+        "Gesuch vor Baubeginn; Voraussetzung ist ein GEAK Plus (Wegleitung: 'nur für Gebäude mit Baujahr vor 2000').",
+        "Gefördert wird der Ersatz fossiler oder elektrischer Heizungen in bestehenden, bereits beheizten Gebäuden (mind. 5 Jahre alt); keine Neubauten.",
+        "Luft/Wasser-Wärmepumpen werden nicht gefördert.",
+        "Erdwärme-/Grundwasser-WP: zugelassenes Systemmodul (wp-systemmodul.ch) oder WP aus der Empfehlungsliste topten.ch.",
+        "Neue Heizung muss Haupt-Wärmeerzeugung für Raumwärme und Warmwasser sein.",
+        "Ein-/Zweifamilienhäuser: Warmwasser muss an neue Wärmeerzeugung angebunden werden, falls nicht (teilweise) erneuerbar aufbereitet; bei MFH/Nichtwohnbauten nur bei zentraler Warmwassererwärmung.",
+        "Wenn Anschluss an Wärmeverbund möglich ist, wird kein Beitrag an eine andere Heizung geleistet.",
+        "Zusage für Wärmeverbund-Anschluss 5 Jahre gültig."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "",
+        "beschreibung": "Leistung Neuanlage <= 20 kW: CHF 2'000 pauschal; Leistung > 20 kW: CHF 100/kW"
+      },
+      "minimum": "CHF 2'000 (pauschal bis 20 kW)",
+      "maximum": "CHF 10'000",
+      "kombinierbar": "Bei Grossanlagen/Überbauungen legt die Fachkommission den Beitrag fest.",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+        "stelle": "Wegleitung, Heizungsersatz; VO Art. 4 Bst. c"
+      }
+    },
+    {
+      "id": "beratung-unternehmen",
+      "kategorie": "beratung",
+      "massnahme": "Energieberatung für Unternehmen/Gewerbe/Grossverbraucher",
+      "bedingungen": [
+        "Gesuch darf (wie GEAK) ohne vorherige Einreichung vor Baubeginn gestellt werden; es genügt das Vorlegen der Dokumente mit dem Gesuchsformular (keine Ausführungsbestätigung)."
+      ],
+      "ansatz": {
+        "art": "prozent",
+        "wert": 40,
+        "einheit": "% der Kosten für Analyse/Beratung"
+      },
+      "minimum": "",
+      "maximum": "CHF 3'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.steffisburg.ch/de/politik-verwaltung/politik/cdws/dok_geschaeft.php?did=a9ea49279ef34d1f9816d4eb1c6c4a6a-332&geschaeft=Verordnung%20Spezialfinanzierung%20F%C3%B6rderung%20Energieeffizienz&filename=Verordnung_Internetversion&v=5&r=PDF&typ=pdf",
+        "stelle": "Verordnung Art. 4 Bst. d (Fassung 25.11.2024); Wegleitung Allgemeine Bestimmungen"
+      }
+    },
+    {
+      "id": "leuchtturm",
+      "kategorie": "sonstiges",
+      "massnahme": "Leuchtturmprojekte / Pionierprojekte mit Vorzeigecharakter (Formular 4)",
+      "bedingungen": [
+        "Gesuch vor Baubeginn; zukunftsweisende, vorbildliche Projekte, die wesentlich über die gesetzlichen Anforderungen hinausgehen.",
+        "Dossier/Projektbeschreibung zu Idee, Umsetzung und Wirkung; Nachweis, dass andere Förderinstrumente ausgeschöpft sind (VO Art. 3 Abs. 5).",
+        "Einziger Fördertatbestand, den die Gemeindeverwaltung und die NetZulg AG beantragen dürfen."
+      ],
+      "ansatz": {
+        "art": "andere",
+        "wert": null,
+        "einheit": "",
+        "beschreibung": "Förderbeitrag und Förderbedingungen werden durch die Fachkommission festgelegt"
+      },
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": "",
+      "quelle": {
+        "url": "https://www.steffisburg.ch/de/leben-in-steffisburg/energie-mobilitaet/foerderprogramm-energie/Dokumente-ab-2025/Wegleitung-Gesuchsformulare-und-Foerderbestimmungen-2025.pdf",
+        "stelle": "Wegleitung, Leuchtturmprojekte (Formular 4)"
+      }
+    }
+  ],
+  "offen": [
+    "Wegleitung: bei Solar und Heizungsersatz steht 'Voraussetzung ist ein GEAK Plus (nur für Gebäude mit Baujahr vor 2000)'. Unklar, ob GEAK Plus nur für Gebäude vor 2000 verlangt wird oder ob die Förderung nur für Gebäude vor 2000 gilt. Beim Gebäudehülle-Programm gilt ausdrücklich Baujahr vor 2000.",
+    "Wegleitung nennt für Gebäudesanierung max. CHF 10'000; die Verordnung (Art. 4 Bst. b) nennt kein Maximum. Wegleitung ist massgebend für die Praxis, Abweichung festhalten.",
+    "Batteriespeicher (Reglement Art. 4 Abs. 1 Bst. h) und Fernwärmeanschlüsse (Bst. g) sind im Reglement als Verwendungszweck genannt; für Batteriespeicher ist in Verordnung und Wegleitung kein Ansatz zu finden. Fernwärme-Ansatz gleich wie Erdwärme-/Grundwasser-WP (VO Art. 4 Bst. c).",
+    "PV-Anlagen werden nicht erwähnt, also nicht gefördert.",
+    "Beratung Unternehmen: Ansatz nur in der Verordnung (40 %, max. CHF 3'000); die Wegleitung nennt Formular 1 'Beratung und Information' ohne Ansatz für Unternehmen.",
+    "Widersprüchliche Auszahlungsfrist: Verordnung Art. 8 'innert 30 Tagen', Wegleitung 'in der Reihenfolge der eingehenden Dokumente, finanzielle Situation'.",
+    "Gesuchsberechtigte (Eigentümer) nicht ausdrücklich definiert. Gültigkeitsende der Dokumente nicht angegeben.",
+    "Steffisburg Förderbeiträge von Energieversorgern (z. B. NetZulg AG, Energie Thun AG, BKW) nicht erfasst.",
+    "Die Erlass-Seiten nennen für die Verordnung eine 2. Teilrevision mit Inkraftsetzung 01.01.2021 (Beschluss 06.12.2021, rückwirkend); sachlich unproblematisch."
+  ]
+}

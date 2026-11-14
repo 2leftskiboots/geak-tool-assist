@@ -1,0 +1,27 @@
+{
+  "traeger": "Einwohnergemeinde Unterlangenegg",
+  "bfs": 945,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.unterlangenegg.ch",
+    "https://www.unterlangenegg.ch/verwaltung/reglemente-formulare/"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (47 Einträge inkl. Spezialfinanzierungen) enthält nichts zu Energieförderung; Spezialfinanzierungen betreffen Kühlhaus/Gefrieranlage, Gemeindewälder, Liegenschaften FV, Mehrwertabschöpfung, Schwankungsreserve, Grabbepflanzung. Deren Volltexte wurden nicht gelesen.",
+    "Gemeindewebsite bietet nur Gewerbeförderung (angehende Gewerbebetriebe, innovative Projekte), nicht Energie.",
+    "Keine Suchmaschinen-Treffer (Suche eingeschränkt). Bei der Gemeinde telefonisch bestätigen."
+  ]
+}

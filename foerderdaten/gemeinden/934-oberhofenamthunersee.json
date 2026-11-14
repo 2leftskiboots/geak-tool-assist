@@ -1,0 +1,77 @@
+{
+  "traeger": "Gemeinde Oberhofen am Thunersee",
+  "bfs": 934,
+  "abgerufen": "2026-11-14",
+  "status": "unklar",
+  "geprueft": [
+    "https://www.oberhofen.ch",
+    "https://www.oberhofen.ch/institutionen/energie",
+    "https://www.oberhofen.ch/verwaltung/reglemente-verordnungen",
+    "https://www.oberhofen.ch/verwaltung/themen",
+    "https://www.oberhofen.ch/verwaltung/dienstleistungen",
+    "https://www.oberhofen.ch/verwaltung/bauwesen/bauinspektorat",
+    "https://www.oberhofen.ch/images/files/Bauen-Liegenschaften/Allgemeine-Bilder-fuer-Newsmeldungen/Foerderprogramm-Energie-02-2025.pdf",
+    "https://www.oberhofen.ch/images/files/Reglemente-und-Verordnungen/Allgemein/Reglement-ueber-die-Versorgung-der-Einwohnergemeinde-Oberhofen-mit-elektrischer-Energie.pdf",
+    "https://www.thun.ch/energie/93568",
+    "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf",
+    "https://www.thun.ch/energie/63226"
+  ],
+  "dokumente": [
+    {
+      "titel": "Förderprogramm Energie 02/2025 (auf oberhofen.ch abgelegt)",
+      "url": "https://www.oberhofen.ch/images/files/Bauen-Liegenschaften/Allgemeine-Bilder-fuer-Newsmeldungen/Foerderprogramm-Energie-02-2025.pdf",
+      "typ": "pdf",
+      "stand": "Februar 2025 (Datei erstellt 12.02.2025). Inhalt: «Informationen für Gemeinden» des Kantons Bern (Änderungen im kantonalen Förderprogramm), enthält KEINE kommunalen Beträge",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Energie-Coaching Energieregion Thunersee (Factsheet)",
+      "url": "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf",
+      "typ": "pdf",
+      "stand": "Factsheet ohne Datum; Angebot laut thun.ch seit 1. Mai 2026",
+      "gueltig_ab": "2026-05-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "Energie-Coaching: Gebäudeeigentümer in Gemeinden der Energieregion Thunersee (Heimberg, Hilterfingen, Oberhofen, Spiez, Steffisburg, Thierachern, Thun).",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Das auf oberhofen.ch abgelegte PDF «Förderprogramm Energie 02/2025» ist ein Informationsschreiben des Kantons Bern an die Gemeinden (Hinweis auf kantonale Änderungen: GEAK-Klassen, Heizungsersatz nach Leistung, Elektroboiler nicht mehr gefördert, Gesuch vor Beginn der Massnahme). Es ist kein kommunales Förderprogramm.",
+      "Die Gemeinde verweist für Beratung auf die öffentliche regionale Energieberatung (erste Beratung kostenlos)."
+    ]
+  },
+  "programme": [
+    {
+      "id": "energie-coaching",
+      "kategorie": "beratung",
+      "massnahme": "Energie-Coaching der Energieregion Thunersee (Zusatzangebot der Regionalen Energieberatung Thun Oberland-West, nach kostenloser Erstberatung)",
+      "bedingungen": [
+        "Gebäudeeigentümer der Gemeinden der Energieregion Thunersee",
+        "Bis zu 5 Stunden pro Objekt; bei grösseren komplexen Vorhaben zusätzliches Coaching auf Anfrage bei der Standortgemeinde",
+        "Anmeldung über die regionale Energieberatung nach der kostenlosen einstündigen Erstberatung",
+        "Keine Rechts- und Steuerberatung"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der Beratungskosten", "beschreibung": "Kosten je zur Hälfte von Kunde und Standortgemeinde; Stundensatz CHF 130 (exkl. MWST), Abrechnung nach effektivem Aufwand"},
+      "minimum": "",
+      "maximum": "5 Stunden pro Objekt (= CHF 650 Beratungskosten, davon Gemeinde 50%)",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-05-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf", "stelle": "Factsheet «Kosten und Finanzierung»; Mitgliedschaft Oberhofen laut https://www.thun.ch/energie/93568"}
+    }
+  ],
+  "offen": [
+    "Kein eigenes kommunales Förderprogramm (Reglement/Merkblatt mit Beiträgen für Gebäudehülle, Heizung, PV usw.) auf oberhofen.ch gefunden. Das im Hinweis genannte PDF «Förderprogramm Energie 02/2025» ist nur das kantonale Informationsschreiben. Status deshalb «unklar» (nicht «kein_programm»), weil das Energie-Coaching ein kommunal mitfinanziertes Angebot ist und die Reglementssammlung nur über die Titelliste geprüft wurde.",
+    "Das Reglement über die Versorgung der Einwohnergemeinde Oberhofen mit elektrischer Energie liegt nur als Scan (Bild) vor und konnte nicht maschinell gelesen werden; Hinweise auf einen Energiefonds sind daher nicht ausgeschlossen. Die Titelliste der Reglemente enthält keinen Energiefonds / kein Förderreglement Energie.",
+    "Die Tarifblätter der Energie Oberhofen AG (NetZulg AG) enthalten eine Gemeindeabgabe (Konzessionsabgabe); Verwendung für Förderung nicht belegt.",
+    "Oberhofen ist laut thun.ch Mitglied der Energieregion Thunersee; ob Oberhofen daneben das «Förderprogramm Energieeffizienz» von Thun (https://www.thun.ch/energie/63226, Energie Thun AG) nutzt, ist nicht belegt. Dieses ist ein Programm eines Energieversorgers/der Stadt Thun und wurde nicht erfasst.",
+    "Empfehlung: schriftliche Anfrage bei der Gemeindeverwaltung Oberhofen (Tel. 033 244 11 11) oder der Energieregion Thunersee (energieregion-thunersee@thun.ch)."
+  ]
+}

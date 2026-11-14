@@ -1,0 +1,198 @@
+{
+  "traeger": "Gemeinde Heimberg",
+  "bfs": 928,
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf",
+    "https://www.heimberg.ch/fileadmin/user_upload/Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf",
+    "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_%C3%BCber_das_F%C3%B6rderprogramm_Energie_2026.pdf",
+    "https://www.heimberg.ch/fileadmin/wizard/Antragsformular_f%C3%BCr_F%C3%B6rderbeitr%C3%A4ge.pdf (nur über Suchtreffer-Zusammenfassung, nicht selbst gelesen)",
+    "https://www.heimberg.ch/verwaltung/abteilungen/abteilung-bau/raumplanung/energie.html (nur als Suchtreffer gesehen, nicht selbst gelesen)"
+  ],
+  "dokumente": [
+    {
+      "titel": "Verordnung zum Reglement über das Förderprogramm Energie (VFE)",
+      "url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf",
+      "typ": "pdf",
+      "stand": "Gemeinderatsbeschluss vom 08.12.2025",
+      "gueltig_ab": "2026-01-01 (rückwirkend)",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Reglement über das Förderprogramm Energie (RFE)",
+      "url": "https://www.heimberg.ch/fileadmin/user_upload/Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf",
+      "typ": "pdf",
+      "stand": "Gemeinderatsbeschluss vom 08.12.2025; Referendumsfrist ohne Referendum abgelaufen",
+      "gueltig_ab": "2026-01-01 (rückwirkend)",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Verordnung über das Förderprogramm Energie 2026 (gescannte Fassung, inhaltlich dieselbe Verordnung vom 08.12.2025)",
+      "url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_%C3%BCber_das_F%C3%B6rderprogramm_Energie_2026.pdf",
+      "typ": "pdf",
+      "stand": "vom 08.12.2025",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Gesuche bei der Bauverwaltung einreichen. ACHTUNG: Gesuch kann bis maximal ein Jahr NACH Realisierung des Projekts eingereicht werden (VFE Art. 6 Abs. 1); es werden nur Projekte nach Inkrafttreten (1.1.2026) berücksichtigt. Gesuche werden erst behandelt, wenn alle Unterlagen vorliegen, in der Reihenfolge des Eingangs (Poststempel), in der Regel innert 3 Monaten. Entscheid der Bauverwaltung per Verfügung.",
+    "voraussetzung_kanton": "Keine. Ausser GEAK Plus und Energieberatung (Beitrag auf den Restbetrag nach Abzug des Förderbeitrags Kanton Bern).",
+    "kumulation": "Beitrag ist, soweit nicht anders definiert, mit weiteren Förderbeiträgen (z. B. nationale oder kantonale Programme) kumulierbar (VFE Art. 2 Abs. 7).",
+    "budget": "Spezialfinanzierung, jährliche Einlagen CHF 50'000-150'000 (Höhe im Budgetprozess); Bestand max. CHF 300'000. Beiträge nur, wenn Mittel vorhanden; bei fehlenden Mitteln werden Gesuche in den Folgejahren berücksichtigt, nach Datum der Genehmigungsverfügung. Kein Rechtsanspruch.",
+    "gesamtmaximum": "Keines je Gesuch genannt; Maxima je Massnahme.",
+    "berechtigte": "Natürliche und juristische Personen, deren Projekt sich in Heimberg befindet. Die Einwohnergemeinde Heimberg als Eigentümerin ist nicht förderberechtigt; als Baurechtgeberin ist der Baurechtnehmer förderberechtigt (RFE Art. 5).",
+    "nachweise_auszahlung": "Auszahlung in der Regel innert 60 Tagen nach vollständiger Realisierung und Genehmigung der Abrechnung (VFE Art. 8).",
+    "weitere_bestimmungen": [
+      "Beiträge nur für Massnahmen, die über gesetzliche Vorschriften oder behördlich verfügte Vorgaben hinausgehen (Stand bei Gesuchseingabe); Ausführung innerhalb der Gemeinde Heimberg; Stand der Technik (VFE Art. 3).",
+      "Beiträge verjähren ein Jahr nach Rechtskraft der Verfügung; Realisierungsfrist aus wichtigen Gründen um höchstens ein Jahr verlängerbar (VFE Art. 10 Abs. 1).",
+      "Rückforderung (ohne Verzinsung) bei unwahren Angaben, zweckwidriger Verwendung, Auflagenverletzung (VFE Art. 9).",
+      "Auflagen möglich: Erhebungen/Messungen, Auskunft, Zutritt zu Demonstrationszwecken, Information der Öffentlichkeit, Planungsunterlagen (VFE Art. 5).",
+      "Pionierprojekte entscheidet der Gemeinderat auf Antrag der Planungs- und Energiekommission (VFE Art. 7 Abs. 2).",
+      "Kein Bezug zum Baujahr oder zum Neubau-Ausschluss in der Verordnung genannt."
+    ]
+  },
+  "programme": [
+    {
+      "id": "solar-thermie",
+      "kategorie": "solar_thermie",
+      "massnahme": "Thermische Solaranlagen",
+      "bedingungen": [
+        "Neuanlagen, Erweiterung bestehender Anlagen, Ersatz bestehender Anlagen mit > 10 Jahre Betriebsdauer."
+      ],
+      "ansatz": {"art": "pro_m2", "wert": 100, "einheit": "Fr./m² Kollektorfläche"},
+      "minimum": "",
+      "maximum": "CHF 2'500",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 1 Bst. a"}
+    },
+    {
+      "id": "pv",
+      "kategorie": "pv",
+      "massnahme": "Photovoltaik-Anlagen",
+      "bedingungen": [
+        "Neuanlagen, Erweiterung bestehender Anlagen, Ersatz bestehender Anlagen mit > 10 Jahre Betriebsdauer."
+      ],
+      "ansatz": {"art": "pro_kwp", "wert": 200, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "CHF 2'500",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 1 Bst. b"}
+    },
+    {
+      "id": "holz-pellet",
+      "kategorie": "heizung",
+      "massnahme": "Holz- und Pelletheizungen",
+      "bedingungen": [
+        "Erweiterung bestehender Anlagen, Ersatz bestehender Anlagen mit > 20 Jahre Betriebsdauer."
+      ],
+      "ansatz": {"art": "pro_kw", "wert": 100, "einheit": "Fr./kW"},
+      "minimum": "",
+      "maximum": "CHF 2'000",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 1 Bst. c"}
+    },
+    {
+      "id": "waermepumpe",
+      "kategorie": "heizung",
+      "massnahme": "Wärmepumpen (Luft, Grundwasser, Erdwärme)",
+      "bedingungen": [
+        "Erweiterung bestehender Anlagen, Ersatz bestehender Anlagen mit > 20 Jahre Betriebsdauer.",
+        "Luft-Wärmepumpen sind eingeschlossen."
+      ],
+      "ansatz": {"art": "pro_kw", "wert": 100, "einheit": "Fr./kW"},
+      "minimum": "",
+      "maximum": "CHF 2'000",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 1 Bst. d"}
+    },
+    {
+      "id": "pv-batteriespeicher",
+      "kategorie": "pv_speicher",
+      "massnahme": "Batteriespeicher für Photovoltaikanlagen",
+      "bedingungen": [
+        "Neuanlagen, Erweiterung bestehender Anlagen."
+      ],
+      "ansatz": {"art": "andere", "wert": null, "einheit": "", "beschreibung": "Grundbeitrag CHF 500; zusätzlich CHF 100 pro kWh nutzbare Batteriekapazität"},
+      "minimum": "CHF 500",
+      "maximum": "CHF 3'000 total",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 1 Bst. e"}
+    },
+    {
+      "id": "ladestation",
+      "kategorie": "mobilitaet",
+      "massnahme": "Erstellung einer privaten Ladestation für Elektrofahrzeuge",
+      "bedingungen": [],
+      "ansatz": {"art": "pauschal", "wert": 200, "einheit": "Fr. pro installiertem Ladepunkt"},
+      "minimum": "",
+      "maximum": "CHF 2'000 total",
+      "kombinierbar": "Kumulierbar mit nationalen/kantonalen Programmen.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 1 Bst. f"}
+    },
+    {
+      "id": "geak-plus",
+      "kategorie": "geak",
+      "massnahme": "Erstellung eines GEAK-Plus Berichts",
+      "bedingungen": [],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% des Restbetrags nach Abzug Förderbeitrag Kanton Bern"},
+      "minimum": "",
+      "maximum": "CHF 500 Ein-/Zweifamilienhaus; CHF 1'000 Mehrfamilienhaus/Verwaltung/Schule/Verkauf/Restaurant",
+      "kombinierbar": "Zusätzlich zum Kantonsbeitrag (Restbetrag).",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 2 Bst. g"}
+    },
+    {
+      "id": "energieberatung-unternehmen",
+      "kategorie": "beratung",
+      "massnahme": "Energieberatungen für Unternehmen (Energieanalysen, Energieeffizienzprogramme)",
+      "bedingungen": [
+        "Ausführung durch ausgewiesene, externe Fachperson."
+      ],
+      "ansatz": {"art": "prozent", "wert": 40, "einheit": "% des Restbetrags der Analyse/Beratung nach Abzug Förderbeitrag Kanton Bern"},
+      "minimum": "",
+      "maximum": "CHF 3'000",
+      "kombinierbar": "Nach Abzug Kantonsbeitrag.",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 2 Bst. h"}
+    },
+    {
+      "id": "pionierprojekte",
+      "kategorie": "sonstiges",
+      "massnahme": "Pionierprojekte mit Vorzeigecharakter (zukunftsweisende Sonderprojekte)",
+      "bedingungen": [
+        "Projekte, die im Bereich Energieeffizienz, Treibhausgas-Einsparung oder erneuerbare Energien wesentlich über die gesetzlichen Anforderungen hinausgehen; Beitrag an die Mehrkosten."
+      ],
+      "ansatz": {"art": "prozent", "wert": 30, "einheit": "% der Gesamtkosten"},
+      "minimum": "",
+      "maximum": "CHF 30'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-01-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.heimberg.ch/fileadmin/user_upload/Verordnung_zum_Reglement_%C3%BCber_das_F%C3%B6rderprogramm_Energie_vom_08.12.2025.pdf", "stelle": "VFE Art. 4 Abs. 1 Ziff. 3 Bst. i"}
+    }
+  ],
+  "offen": [
+    "Keine Förderung der Gebäudehülle (Fenster/Dämmung) und keine Fernwärme-/Wärmeverbund-Beiträge in der Verordnung genannt.",
+    "Datum der Publikation des Inkrafttretens im Thuner Amtsanzeiger ist in den PDF-Texten als Platzhalter (tt.mm.2026) offen; Suchtreffer erwähnen 26.02.2026 (nicht aus Dokument verifiziert).",
+    "Gesuch kann NACH Realisierung (bis 1 Jahr) eingereicht werden; ob dennoch eine Voranmeldung empfohlen ist, steht nicht im Dokument.",
+    "Es existiert ein Antragsformular für Förderbeiträge (Version 2026): https://www.heimberg.ch/fileadmin/wizard/Antragsformular_f%C3%BCr_F%C3%B6rderbeitr%C3%A4ge.pdf ; nicht selbst gelesen (Beilagen/Formularangaben prüfen). Kontakt laut Suchtreffer: bau@heimberg.ch, 033 439 20 40. Die Heimberg-Seite zum Förderprogramm (HTML) wurde nicht direkt aufgerufen.",
+    "Gesamtmaximum und Verhältnis der Beträge zu Gesamtkosten (Prozentgrenze) sind nicht definiert.",
+    "Energieversorger-Programme (Energie Thun AG, BKW) nicht erfasst."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "traeger": "Gemeinde Forst-Längenbühl",
+  "bfs": 948,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.forst-laengenbuehl.ch",
+    "https://www.forst-laengenbuehl.ch/verwaltung/reglemente-und-verordnungen"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (26 Einträge) enthält kein Energie-/Förderreglement. Konzessionsabgabe Stromversorgung nur als Titel gesehen, nicht gelesen. Website-Domain 3636.ch hat ein ungültiges Zertifikat (nur www.forst-laengenbuehl.ch abrufbar). Dokumente sind über Detailseiten verlinkt, nicht direkt geöffnet.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

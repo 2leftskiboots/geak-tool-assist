@@ -1,0 +1,17 @@
+{
+  "traeger": "Gemeinde Därstetten",
+  "bfs": 761,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.daerstetten.ch",
+    "https://www.daerstetten.ch/de/verwaltung/online-schalter/reglemente/"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementsliste (29 Einträge) enthält nichts zu Energie; vorhanden sind u. a. Reglement über die Mehrwertabgabe (nicht gelesen), Jugendförderungs- und Kulturförderungsreglement.",
+    "Startseite zeigt keine Rubrik Energie/Förderprogramm; keine separate Energie-Unterseite gefunden. Websuche ohne Treffer."
+  ]
+}

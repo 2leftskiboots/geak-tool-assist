@@ -1,0 +1,18 @@
+{
+  "traeger": "Gemeinde Kirchdorf (BE)",
+  "bfs": 872,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.kirchdorf-be.ch",
+    "https://www.kirchdorf-be.ch/verwaltung/reglemente"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (rund 40 Dokumente) enthält kein Energie-/Förderreglement; nur Konzessionsabgabe Stromlieferung (740.21), Gebührentarif Feuerungskontrolle und Sozialfonds. Datei 740.21 beim Abruf nicht als Konzessionsabgabe-Reglement erkennbar (lieferte Metadaten «Gebührenreglement Kirchdorf»), nicht inhaltlich geprüft.",
+    "Seite /verwaltung/einwohnerservice/umwelt nur als Link gesehen, nicht gelesen.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

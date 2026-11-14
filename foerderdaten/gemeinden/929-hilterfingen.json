@@ -1,0 +1,33 @@
+{
+  "traeger": "Einwohnergemeinde Hilterfingen",
+  "bfs": 929,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.hilterfingen.ch",
+    "https://www.hilterfingen.ch/reglemente/",
+    "https://www.hilterfingen.ch/verwaltung/bauverwaltung/",
+    "https://www.hilterfingen.ch/?uid=9",
+    "https://www.hilterfingen.ch/Gemeinde-Info-Nr.-107.pdf (Text nicht lesbar ausgewertet; Suchtreffer-Zusammenfassung)",
+    "Websuche: Hilterfingen Förderprogramm Energie / Reglement / Förderbeiträge (mehrere Anfragen, keine Treffer der Gemeinde)"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (42 Einträge) enthält kein Energie-/Förderreglement und keine Spezialfinanzierung Energie; Stichwortverzeichnis (A-Z) hat keinen Eintrag Energie/Förderung/Solar/Konzessionsabgabe (nur Energie Thun AG); Bauverwaltung-Seite listet unter 'Energie und Umwelt' nur Elektrizität, Gas, Umweltschutz, öV.",
+    "Gemeinde-Info Hilterfingen-Hünibach (Frühjahr 2025) erwähnt nach Suchzusammenfassung, dass GEAK Plus oder Impulsberatungen für Heizungsersatz 'finanziell gefördert' werden, ohne Beträge; vermutlich Kanton/Regionale Energieberatung, nicht Gemeindeprogramm. Text selbst nicht verifiziert (PDF zu gross/nicht dekodiert).",
+    "Es wurde keine Reglementsammlung für 2026-Änderungen ausser den Auflistungen geprüft; Gemeinderat könnte Förderung per Budget oder Einzelbeschluss gewähren, nicht ausgeschlossen. Empfehlung: bei Gemeindeverwaltung (Bauverwaltung) rückfragen.",
+    "Konzessionsabgabe/Energiefonds nicht gefunden; Hilterfingen-Strom wird teils von Energie Thun AG versorgt (Programme von Energieversorgern nicht erfasst).",
+    "Regionale Energieberatung Thun Oberland-West (Industriestrasse 6, Thun, 033 225 22 90) ist Anlaufstelle."
+  ]
+}

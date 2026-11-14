@@ -1,0 +1,24 @@
+{
+  "traeger": "Einwohnergemeinde Thurnen",
+  "bfs": 889,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.thurnen.ch",
+    "https://www.thurnen.ch/de/verwaltung/dokumente/",
+    "https://www.thurnen.ch/de/verwaltung/dienstleistungen/",
+    "https://www.thurnen.ch/de/verwaltung/dienstleistungen/119_energie&navid=317228317228",
+    "https://www.thurnen.ch/de/verwaltung/dienstleistungen/114_solaranlagen-|-erneuerbare-energien-&navid=317228317228",
+    "https://www.thurnen.ch/wAssets/docs/dienstleistungen/20220613_Reglement-Spezialfinanzierung-Investitionen.pdf",
+    "https://www.thurnen.ch/wAssets/docs/dienstleistungen/Reglement-fuer-die-Erhebung-einer-Konzessionsabgabe-Stromversorgung.pdf"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Seite «Energie» verweist nur auf Energieberatung Bern-Mittelland (031 370 14 44) und nennt keine kommunalen Förderbeiträge; Seite «Solaranlagen | erneuerbare Energien» behandelt nur Baubewilligung/Meldepflicht.",
+    "Erlasse: Spezialfinanzierung Investitionen (13.06.2022) dient dem baulichen Unterhalt der Verwaltungsliegenschaften; Konzessionsabgabe Stromversorgung (28.11.2022, BKW AG) ist eine Abgabe an die Gemeinde, kein Förderreglement. Beide gelesen.",
+    "Rund 90 Erlasse; vollständige Liste nur auszugsweise ausgewertet (Energie-/Förder-/Fondsbegriffe), kein Energie-Förderreglement erkennbar.",
+    "Energieversorger (BKW AG): evtl. eigenes Förderprogramm, nicht erfasst."
+  ]
+}

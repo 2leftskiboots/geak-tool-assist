@@ -1,0 +1,19 @@
+{
+  "traeger": "Gemeinde Stocken-Höfen",
+  "bfs": 770,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.stocken-hoefen.ch",
+    "https://www.stocken-hoefen.ch/l1/online-schalter-erlasse.php",
+    "https://www.stocken-hoefen.ch/l1/online-schalter-formulare-merkblaetter.php"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Erlassliste (26 Dokumente) enthält kein Energie-/Förderreglement. Nicht lesbar (Scan): Konzessionsabgabe Stromversorgung (ab 01.07.2021) und Richtlinien über das Beitrags- und Spendenwesen (ab 01.07.2024); Inhalt bezüglich Energiebeiträgen nicht geprüft.",
+    "Merkblätter-Seite nur als Link erfasst, nicht gelesen.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

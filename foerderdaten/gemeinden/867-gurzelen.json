@@ -1,0 +1,26 @@
+{
+  "traeger": "Gemeinde Gurzelen",
+  "bfs": 867,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.gurzelen.ch",
+    "https://www.gurzelen.ch/verwaltung/reglemente-und-verordnungen"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement über die Erhebung der Konzessionsabgabe Stromversorgung (kein Förderprogramm)",
+      "url": "https://www.gurzelen.ch/images/content/pdf/reglemente/Reglement-ueber-die-Erhebung-der-Konzessionsabgabe-Stromversorgung.pdf",
+      "typ": "pdf",
+      "stand": "13.06.2021",
+      "gueltig_ab": "2022-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Reglementssammlung (21 Dokumente) enthält kein Energie-/Förderreglement. Konzessionsabgabe Stromversorgung (13.06.2021, in Kraft 01.01.2022; BKW; 1.5 Rp./kWh, max. Fr. 300 pro Zähler) gelesen: reine Abgabe an die Gemeinde, keine Förderung. Reglement über Gemeindebeiträge (Schulgelder) nicht gelesen, Titel deutet auf Schulgelder.",
+    "WebSearch war zeitweise gesperrt (too_many_requests); die Suche nach einem Programm stützt sich daher auf die Reglementssammlung der Gemeindewebsite (Titelliste), nicht auf Suchmaschinentreffer. Gemeinde bei Bedarf telefonisch bestätigen lassen."
+  ]
+}

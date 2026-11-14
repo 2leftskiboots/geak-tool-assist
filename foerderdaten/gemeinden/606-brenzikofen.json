@@ -1,0 +1,28 @@
+{
+  "traeger": "Einwohnergemeinde Brenzikofen",
+  "bfs": 606,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.brenzikofen.ch",
+    "https://brenzikofen.ch/index.php/verwaltung/reglemente/",
+    "https://brenzikofen.ch/wp-content/uploads/2023/01/Reglement-Konzessionsabgabe-Stromversorgung.pdf",
+    "https://brenzikofen.ch/wp-content/uploads/2026/09/SF-WEU.pdf"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Reglementsliste (24 Einträge) enthält kein Förder-/Energiereglement. Das Reglement Konzessionsabgabe Stromversorgung (Art. 1-4, Inkraft 1.7.2022) regelt nur die Abgabe an das EVU (max. 1.5 Rp./kWh, max. CHF 300 pro Jahr und Zähler), keine Förderung. SF WEU = Spezialfinanzierung «Werterhalt Liegenschaften des Finanzvermögens» (nur Titelblatt gelesen, Scan; Änderung 1.1.2027 angekündigt), kein Energiebezug erkennbar.",
+    "Keine Suchmaschinen-Treffer (Suche eingeschränkt). Bei der Gemeinde (031 771 33 36) telefonisch bestätigen."
+  ]
+}

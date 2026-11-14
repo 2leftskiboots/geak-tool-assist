@@ -1,0 +1,40 @@
+{
+  "traeger": "Einwohnergemeinde Eriz",
+  "bfs": 924,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.eriz.ch",
+    "https://www.eriz.ch/verwaltung/reglemente",
+    "https://www.eriz.ch/verwaltung/ebau",
+    "https://www.eriz.ch/images/files/reglemente/Gebuehrenreglement-per-01.01.2025.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Gebührenreglement (Verordnung über Kanzleiabgaben), Art. 23-24 Konzessionsabgabe Elektrizitätsversorgung",
+      "url": "https://www.eriz.ch/images/files/reglemente/Gebuehrenreglement-per-01.01.2025.pdf",
+      "typ": "pdf",
+      "stand": "Änderungen per 1.1.2025 (Versammlung 26.11.2024)",
+      "gueltig_ab": "2025-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Konzessionsabgabe 1.5 Rp/kWh (Gebührenreglement Art. 24); keine Zweckbindung/kein Förderprogramm."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Die Reglementsliste (25 Dokumente) enthält kein Energie-/Förderreglement. Die Energie-Seite (eBau/Energie) nennt nur die Meldepflicht für Wärmeerzeugerersatz und verweist auf Kanton und Regionale Energieberatung Thun Oberland-West; keine kommunalen Beiträge.",
+    "Eine Suchmaschinen-Vorschau (nicht verifiziert) deutet an, dass Mitteilungsblatt Nr. 169 (ca. 2024) vom Wegfall bisheriger Gemeindeaufgaben im Energiebereich spricht; das PDF (https://www.eriz.ch/images/files/mitteilungsblatt/Mitteilungsblatt_Nr_169.pdf) wurde nur maschinell nach Schlagworten durchsucht und nicht vollständig gelesen.",
+    "Nicht geprüft: Budget/Jahresrechnung auf einen Energiefonds."
+  ]
+}

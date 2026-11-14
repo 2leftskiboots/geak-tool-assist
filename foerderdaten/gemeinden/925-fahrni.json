@@ -1,0 +1,44 @@
+{
+  "traeger": "Gemeinde Fahrni",
+  "bfs": 925,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://gemeinde-fahrni.ch (www.fahrni.ch: Zertifikatsfehler, nicht abrufbar)",
+    "https://gemeinde-fahrni.ch/2",
+    "https://gemeinde-fahrni.ch/2/WasserAbwasser-1",
+    "https://gemeinde-fahrni.ch/sitemap",
+    "https://gemeinde-fahrni.ch/Online-Schalter/Reglemente",
+    "https://gemeinde-fahrni.ch/media/archive1/Reglement_Konzessionsabgabe_Stromversorgung.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement Konzessionsabgabe Stromversorgung",
+      "url": "https://gemeinde-fahrni.ch/media/archive1/Reglement_Konzessionsabgabe_Stromversorgung.pdf",
+      "typ": "pdf",
+      "stand": "4 Seiten (Scan); Art. 4: rückwirkend in Kraft ab 1. Januar 2022",
+      "gueltig_ab": "2022-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Konzessionsabgabe-Reglement Art. 3: 1.0-2.5 Rp./kWh, max. CHF 300 pro Jahr und Zähler; reine Abgaberegelung, keine Verwendung für Energieförderung (Seite 2 gelesen)."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Online-Schalter «Reglemente» (29 Einträge) enthält keinen Erlass zu Energieförderung/Energiefonds; die Seite «Bau» nennt nur kantonales Energiegesetz und die öffentliche regionale Energieberatung, keine Gemeindeförderung. Sitemap ohne Energie-Eintrag.",
+    "Das Konzessionsabgabe-Reglement liegt als Scan vor; nur Art. 3-4 (Seite 2) wurde gelesen, Seiten 1, 3, 4 nicht im Detail.",
+    "Fahrni gehört nicht zur Energieregion Thunersee (Mitgliederliste laut thun.ch); Energie-Coaching dort nicht verfügbar.",
+    "Die Domain www.fahrni.ch lieferte einen Zertifikatsfehler; es wurde die Domain gemeinde-fahrni.ch geprüft.",
+    "Energieversorger-Programme (z.B. BKW, Energie Thun AG) nicht erfasst."
+  ]
+}

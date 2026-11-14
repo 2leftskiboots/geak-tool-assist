@@ -1,0 +1,39 @@
+{
+  "traeger": "Einwohnergemeinde Pohlern",
+  "bfs": 936,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.pohlern.ch",
+    "https://www.pohlern.ch/pohleren%20-%20affinity/reglemente-formulare.htm",
+    "https://www.pohlern.ch/PDF/Reglement%20%FCber%20die%20Erhebung%20einer%20Konzessionsabgabe%20Stromversorgung_Webseite.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement über die Erhebung einer Konzessionsabgabe Stromversorgung",
+      "url": "https://www.pohlern.ch/PDF/Reglement%20%FCber%20die%20Erhebung%20einer%20Konzessionsabgabe%20Stromversorgung_Webseite.pdf",
+      "typ": "pdf",
+      "stand": "Gemeindeversammlung 3. Juni 2022",
+      "gueltig_ab": "2022-07-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Konzessionsabgabe BKW: 1.5 Rp/kWh, max. CHF 300 pro Jahr und Zähler (Art. 3). Keine Zweckbindung, kein Förderprogramm im Reglement."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Die Seite «Reglemente / Formulare» listet 20 Reglemente mit Datum (Abfall, Abwasser, Bau, Gebühren, Liegenschaftssteuer, Organisation, Personal, Spezialfinanzierungen Liegenschaften/Unterhalt, Mehrwertabgabe, Konzessionsabgabe u. a.); keines betrifft Energieförderung.",
+    "Nicht geprüft: Jahresrechnung/Budget auf Energie-Konten; Mitteilungen/«Pouere Blettli». Pohlern nutzt teils Verwaltungsleistungen von Blumenstein; dort ebenfalls kein Programm (siehe 922).",
+    "Das Konzessionsabgabe-Reglement ist ein gescanntes PDF (Text über Bildansicht gelesen)."
+  ]
+}

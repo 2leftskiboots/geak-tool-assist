@@ -78,7 +78,7 @@ Reihenfolge nach Nutzen und Risiko. Zuerst kommt die Schlusskontrolle, weil sie 
 | E01 | [GEAK-Projekt auslesen](etappen/E01-projekt-auslesen.md) | 🔶 gebaut, wartet auf Stichproben/OK | E00 |
 | W01 | [Wartung: Struktur-Check und Release-Ablauf](etappen/W01-wartung.md) | offen | E01 |
 | E02 | [Schlusskontrolle Texte](etappen/E02-schlusskontrolle-texte.md) | offen | E01 |
-| E03 | [Förderdatenbank](etappen/E03-foerderdatenbank.md) | offen | – |
+| E03 | [Förderdatenbank](etappen/E03-foerderdatenbank.md) | gebaut, Abnahme offen | – |
 | E04 | [Förderbeiträge bestimmen und prüfen](etappen/E04-foerderbeitraege-bestimmen.md) | offen | E01, E03 |
 | E05 | [Übergabeformat und Lückenprüfung](etappen/E05-uebergabeformat.md) | offen | E01 |
 | E06 | [Ist-Zustand schreiben](etappen/E06-ist-zustand-schreiben.md) | offen | E05 |

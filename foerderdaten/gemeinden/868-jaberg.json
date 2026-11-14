@@ -1,0 +1,122 @@
+{
+  "traeger": "Einwohnergemeinde Jaberg",
+  "bfs": 868,
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.jaberg.ch",
+    "https://www.jaberg.ch/rechtliches/",
+    "https://www.jaberg.ch/dokumente/",
+    "https://www.jaberg.ch/publikationen/",
+    "https://www.jaberg.ch/informationen/"
+  ],
+  "dokumente": [
+    {
+      "titel": "Richtlinien zur Verwendung der Konzessionsabgaben (Einwohnergemeinde Jaberg)",
+      "url": "https://www.jaberg.ch/.cm4all/uproc.php/0/Publikationen/2024_GV01/240101%20Richtlinien%20zur%20Verwendung%20der%20Konzessionsabgaben%20Copy.pdf",
+      "typ": "pdf",
+      "stand": "Gemeinderat Jaberg, Sitzung vom 29. Januar 2024 (unterzeichnet 5. Februar 2024)",
+      "gueltig_ab": "2024-01-01",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Gesuch um einen Beitrag aus den Konzessionsabgaben (Vorlage mit Leistungskatalog)",
+      "url": "https://www.jaberg.ch/.cm4all/uproc.php/0/E-Dokumente/Vorlage%20Gesuch%20Beitrag%20aus%20Konzessionsabgaben.pdf",
+      "typ": "pdf",
+      "stand": "PDF-Metadaten: erstellt 17.12.2024, geändert 19.12.2024 (kein Stand im Dokument selbst)",
+      "gueltig_ab": "",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Schriftliches Gesuch (Formular «Gesuch um einen Beitrag aus den Konzessionsabgaben») nach der Durchführung der Massnahme bei der Gemeindeverwaltung; Rechnung als Nachweis zwingend beilegen. Gesuch bis maximal 2 Jahre nach Durchführung der Massnahme bzw. Beratung. Das Gesuch wird NACH der Massnahme gestellt (kein Gesuch vor Baubeginn nötig).",
+    "voraussetzung_kanton": "Keine genannt. Das Formular fragt nur: «Wurden bereits andere Fördergelder bezogen? Falls ja, welche und in welcher Höhe?»",
+    "kumulation": "Nicht ausgeschlossen; andere bezogene Fördergelder sind auf dem Gesuch anzugeben. Keine Regel zur Anrechnung genannt.",
+    "budget": "Die jährlich ausbezahlten Förderbeiträge dürfen die entsprechenden Einnahmen aus den Konzessionsabgaben nicht übersteigen. Gesuche werden in der Reihenfolge des Eingangs behandelt und berücksichtigt. Kein Anspruch auf Auszahlung (Richtlinien Art. 5).",
+    "gesamtmaximum": "Max. CHF 1'000.00 pro Gesuch (Richtlinien Art. 6 Abs. 1).",
+    "berechtigte": "Nur Eigentümer von Liegenschaften oder Anlagen in der Gemeinde Jaberg. Für Liegenschaften ausserhalb Jabergs keine Beiträge. Pro Anlage nur ein Gesuch, auch bei mehreren Eigentümern.",
+    "nachweise_auszahlung": "Rechnungskopie als Nachweis; Datum des Abschlusses der Massnahme angeben. Der Gemeinderat entscheidet abschliessend über die Gesuche (Art. 4).",
+    "weitere_bestimmungen": [
+      "Art. 2 Abs. 3 Richtlinien: Der Gemeinderat legt jährlich fest, welche Leistungen mit welchem Beitrag unterstützt werden; Leistungskatalog und allfällige zeitliche Begrenzung werden jährlich kommuniziert.",
+      "Art. 3 Abs. 3: Der Gemeinderat kann in Ausnahmefällen abweichende Leistungen berücksichtigen.",
+      "Verwendungszweck (Art. 2): Beratungsleistungen und Umsetzungsmassnahmen im Bereich Energie, «falls möglich».",
+      "Rechtsgrundlage: Reglement über die Konzessionsabgabe für die Stromversorgung, von der Gemeindeversammlung am 02.12.2021 genehmigt, in Kraft seit 01.01.2022."
+    ]
+  },
+  "programme": [
+    {
+      "id": "geak-plus-efh-dfh",
+      "kategorie": "geak",
+      "massnahme": "GEAK Plus; Doppel- und Einfamilienhaus",
+      "bedingungen": [
+        "Eigentümer einer Liegenschaft in der Gemeinde Jaberg",
+        "Gesuch mit Rechnung als Nachweis, höchstens 2 Jahre nach Erstellung der Beratung"
+      ],
+      "ansatz": {"art": "pauschal", "wert": 500, "einheit": "Fr.", "beschreibung": "Förderbeitrag pauschal CHF 500.00"},
+      "minimum": "",
+      "maximum": "CHF 1'000.00 pro Gesuch (Art. 6 Richtlinien)",
+      "kombinierbar": "Mehrere Massnahmen auf demselben Gesuch möglich (Ankreuzfelder), Gesamtdeckel CHF 1'000 pro Gesuch; ob mehrere Gesuche pro Eigentümer zulässig sind, ist nicht geregelt.",
+      "gueltig_ab": "",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.jaberg.ch/.cm4all/uproc.php/0/E-Dokumente/Vorlage%20Gesuch%20Beitrag%20aus%20Konzessionsabgaben.pdf", "stelle": "Gesuchsformular, Tabelle Massnahme/Förderbeitrag, Zeile 1"}
+    },
+    {
+      "id": "geak-plus-mfh",
+      "kategorie": "geak",
+      "massnahme": "GEAK Plus; Mehrfamilienhaus",
+      "bedingungen": [
+        "Eigentümer einer Liegenschaft in der Gemeinde Jaberg",
+        "Gesuch mit Rechnung als Nachweis, höchstens 2 Jahre nach Erstellung der Beratung"
+      ],
+      "ansatz": {"art": "pauschal", "wert": 700, "einheit": "Fr.", "beschreibung": "Förderbeitrag pauschal CHF 700.00"},
+      "minimum": "",
+      "maximum": "CHF 1'000.00 pro Gesuch (Art. 6 Richtlinien)",
+      "kombinierbar": "siehe GEAK Plus EFH/DFH",
+      "gueltig_ab": "",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.jaberg.ch/.cm4all/uproc.php/0/E-Dokumente/Vorlage%20Gesuch%20Beitrag%20aus%20Konzessionsabgaben.pdf", "stelle": "Gesuchsformular, Tabelle Massnahme/Förderbeitrag, Zeile 2"}
+    },
+    {
+      "id": "heizungsersatz-fossil-erneuerbar",
+      "kategorie": "heizung",
+      "massnahme": "Ersatz fossile Heizungsanlage durch erneuerbare Heizungsanlage",
+      "bedingungen": [
+        "Ersatz einer fossilen Heizungsanlage durch eine erneuerbare Heizungsanlage",
+        "Eigentümer der Liegenschaft/Anlage in der Gemeinde Jaberg",
+        "Gesuch nach Abschluss der Massnahme mit Rechnung, höchstens 2 Jahre danach"
+      ],
+      "ansatz": {"art": "pauschal", "wert": 500, "einheit": "Fr. pro Heizungsanlage", "beschreibung": "CHF 500.00 pro Heizungsanlage"},
+      "minimum": "",
+      "maximum": "CHF 1'000.00 pro Gesuch (Art. 6 Richtlinien)",
+      "kombinierbar": "Auf dem Formular nicht weiter geregelt; andere Fördergelder sind anzugeben.",
+      "gueltig_ab": "",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.jaberg.ch/.cm4all/uproc.php/0/E-Dokumente/Vorlage%20Gesuch%20Beitrag%20aus%20Konzessionsabgaben.pdf", "stelle": "Gesuchsformular, Tabelle Massnahme/Förderbeitrag, Zeile 3"}
+    },
+    {
+      "id": "ladeinfrastruktur-wallbox",
+      "kategorie": "mobilitaet",
+      "massnahme": "Ladeinfrastruktur (Basisinstallation) bei nicht öffentlichen Parkplätzen",
+      "bedingungen": [
+        "Nicht öffentliche Parkplätze",
+        "Basisinstallation der Ladeinfrastruktur",
+        "Eigentümer der Anlage in der Gemeinde Jaberg; Gesuch mit Rechnung, höchstens 2 Jahre nach Durchführung"
+      ],
+      "ansatz": {"art": "pauschal", "wert": 250, "einheit": "Fr. pro Wallbox", "beschreibung": "CHF 250.00 pro Wallbox"},
+      "minimum": "",
+      "maximum": "CHF 1'000.00 pro Gesuch (Art. 6 Richtlinien)",
+      "kombinierbar": "Auf dem Formular nicht weiter geregelt.",
+      "gueltig_ab": "",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.jaberg.ch/.cm4all/uproc.php/0/E-Dokumente/Vorlage%20Gesuch%20Beitrag%20aus%20Konzessionsabgaben.pdf", "stelle": "Gesuchsformular, Tabelle Massnahme/Förderbeitrag, Zeile 4"}
+    }
+  ],
+  "offen": [
+    "Der Leistungskatalog wird laut Art. 2 Abs. 3 der Richtlinien jährlich vom Gemeinderat festgelegt. Das gefundene Gesuchsformular stammt von Dezember 2024; ein Katalog für 2025/2026 wurde auf der Website nicht gefunden. Beträge bei der Gemeindeverwaltung (031 781 17 08, gemeinde@jaberg.ch) bestätigen lassen, bevor sie verwendet werden.",
+    "Kein Gesuch vor Baubeginn nötig (Gesuch nach der Massnahme); die Bewilligung/Budgetlage (Einnahmen aus Konzessionsabgaben als Jahresdeckel, Reihenfolge des Eingangs) ist vorab nicht prüfbar. Kein Anspruch auf Auszahlung.",
+    "Unklar, ob mehrere Gesuche je Eigentümer/Jahr möglich sind (Deckel CHF 1'000 gilt pro Gesuch).",
+    "Das Gesuchsformular nennt keinen Stand/Gültigkeitsdatum; im Dokument keine Befristung.",
+    "Höhe der Konzessionsabgabe und Reglement über die Konzessionsabgabe (GV 02.12.2021) nicht gelesen (nur in den Richtlinien referenziert); nicht für die Beitragsberechnung nötig.",
+    "Energieversorger-Programme (BKW u. a.) nicht erfasst; keines gesichtet."
+  ]
+}

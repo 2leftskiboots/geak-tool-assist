@@ -7,7 +7,10 @@
   "scripts": {
     "test-zugang": "node scripts/test-zugang.js",
     "lese-projekt": "node scripts/lese-projekt.js",
-    "feldkatalog": "node scripts/feldkatalog.js"
+    "feldkatalog": "node scripts/feldkatalog.js",
+    "foerder-pruefen": "node scripts/foerderdaten-pruefen.js",
+    "foerder-quellen": "node scripts/foerderdaten-quellen.js",
+    "foerder-bericht": "node scripts/foerderdaten-bericht.js"
   },
   "dependencies": {
     "playwright": "1.55.0"

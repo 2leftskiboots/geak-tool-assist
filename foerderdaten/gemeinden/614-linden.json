@@ -1,0 +1,22 @@
+{
+  "traeger": "Gemeinde Linden",
+  "bfs": 614,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.linden.ch",
+    "https://www.linden.ch/reglemente",
+    "https://www.linden.ch/onlineschalter",
+    "https://www.linden.ch/dienstleistungen",
+    "https://www.linden.ch/reglemente (im Browser gelesen, beide Seiten, 40 Einträge: kein Energie-/Förderreglement; nur Wärmeverbund-Reglement)"
+  ],
+  "dokumente": [],
+  "allgemein": {},
+  "programme": [],
+  "offen": [
+    "Auf der Startseite und im Menü gibt es keine Rubrik Energie/Umwelt/Förderprogramm.",
+    "Websuche ergab keine Treffer zu einem Energie-Förderprogramm der Gemeinde Linden (BE). Kein Beleg für ein Programm, aber auch kein vollständiger Nachweis des Gegenteils.",
+    "Empfehlung: von Hand prüfen (Reglemente-Seite im Browser öffnen) oder Gemeindeverwaltung fragen.",
+    "Konzessionsabgabe/Energiefonds in Budget/Rechnung nicht geprüft; Energieversorger-Programme nicht erfasst."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "traeger": "Einwohnergemeinde Wichtrach",
+  "bfs": 632,
+  "abgerufen": "2026-11-14",
+  "status": "unklar",
+  "geprueft": [
+    "https://www.wichtrach.ch",
+    "https://www.wichtrach.ch/de/verwaltung/dokumente/",
+    "https://www.wichtrach.ch/de/verwaltung/lebenslagen/",
+    "https://www.wichtrach.ch/de/verwaltung/dienstleistungen/62_energie",
+    "https://www.wichtrach.ch/de/verwaltung/dienstleistungen/152_f%C3%B6rderungsfonds-evk"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Die Energie-Seite der Gemeinde verweist nur auf das kantonale Förderprogramm (Gesuch online beim Kanton), Energieberatung Bern-Mittelland, BKW und eBau; keine kommunalen Beträge.",
+      "Der «Förderungsfonds EvK» (Gemeinde Wichtrach) ist kein Energieprogramm: Darlehen bis CHF 300'000 bzw. Beiträge bis CHF 50'000 für neu gegründete Unternehmen mit neuen Arbeitsplätzen."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Von der Dokumentenliste (4 Seiten) war nur Seite 1 abrufbar; Seiten 2 bis 4 (Reglemente, Tarife, Verordnungen ab Buchstabe F) wurden nicht gesehen. Auf Seite 1 steht nur das «Energiegesetz - Informationsblatt für Grundeigentümer»; ein Reglement zu Konzessionsabgabe/Förderprogramm Energie konnte daher nicht ausgeschlossen werden.",
+    "Eine Suchvorschau (nicht verifiziert) nennt keine Konzessionsabgabe und keinen kommunalen GEAK-Beitrag. Das Versorgungswerk Niederwichtrach ist gemeindeeigen (Energieversorger, nicht erfasst); sonst BKW.",
+    "Empfehlung: Gemeindeverwaltung fragen (031 780 19 09) oder Dokumentenseiten 2 bis 4 im Browser durchsehen."
+  ]
+}

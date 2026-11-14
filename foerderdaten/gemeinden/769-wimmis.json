@@ -1,0 +1,32 @@
+{
+  "traeger": "Einwohnergemeinde Wimmis",
+  "bfs": 769,
+  "abgerufen": "2026-11-14",
+  "status": "unklar",
+  "geprueft": [
+    "https://www.wimmis.ch",
+    "https://www.wimmis.ch/einwohnergemeinde/gemeindebetriebe/waermeverbund.html/86",
+    "https://www.plattformj.ch/artikel/191882/"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Wärmeverbund Wimmis (Gemeinde-/Burgergemeinde-eigen): Anschlusskosten trägt laut Wärmeversorgungsreglement der Wärmebezüger; die Seite nennt keine Förderbeiträge für Anschlüsse."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Die Reglementssammlung der Einwohnergemeinde Wimmis wurde nicht gefunden (Navigation «Amtliche Publikationen» war nicht abrufbar, 404). Die Startseite und die Wärmeverbund-Seite enthalten keine Energie-Förderbeiträge; deshalb nur «unklar», nicht «kein_programm».",
+    "Plattform J (8. Juli 2021, Drittquelle): Der Gemeinderat strich die BKW-Konzessionsabgabe (1.5 Rp/kWh, über CHF 100'000/Jahr, floss in die allgemeine Kasse, keine Zweckbindung). Ob später ein Reglement eingeführt wurde, ist ungeklärt.",
+    "Suchvorschauen (nicht verifiziert): Info-Bulletins Vindemias 2017/2025 empfehlen GEAK Plus und die regionale Energieberatung, erwähnen aber nur Bundes-/Kantonsbeiträge.",
+    "Nicht geprüft: Wärmeversorgungsreglement 2015 (https://www.wimmis.ch/public/upload/assets/896/W%C3%A4rmeversorgungsreglement%202015.pdf) und Budget/Rechnung auf Energiefonds.",
+    "Empfehlung: Gemeindeverwaltung fragen (033 657 81 11, info@wimmis.ch)."
+  ]
+}

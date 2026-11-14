@@ -1,0 +1,419 @@
+{
+  "traeger": "Gemeinde Spiez",
+  "bfs": 768,
+  "abgerufen": "2026-11-14",
+  "status": "programm",
+  "geprueft": [
+    "https://www.spiez.ch/de/verwaltung/dienstleistungen/469_f%C3%B6rderprogramm-energie",
+    "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf",
+    "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Reglement-sig-ueber-die-Erhebung-der-Konzessionsabgabe-auf.pdf",
+    "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Verordnung-sig-ueber-die-Erhebung-der-Konzessionsabgabe-auf.pdf",
+    "https://www.thun.ch/energie/93568",
+    "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf"
+  ],
+  "dokumente": [
+    {
+      "titel": "Übersicht Förderprogramm Energie der Gemeinde Spiez (ab 2026)",
+      "url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf",
+      "typ": "pdf",
+      "stand": "Gemäss Planungs-, Umwelt- und Baukommission (PUB) vom 24. Februar 2026; PDF 12 Seiten, Datei erstellt 12.03.2026, auf der Webseite mit Datum 13.03.2026 gelistet",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Reglement über die Erhebung der Konzessionsabgabe auf Strom und die Spezialfinanzierung Förderprogramm Energie",
+      "url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Reglement-sig-ueber-die-Erhebung-der-Konzessionsabgabe-auf.pdf",
+      "typ": "pdf",
+      "stand": "27. Februar 2023 (Grosser Gemeinderat)",
+      "gueltig_ab": "2024-01-01",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Verordnung über die Erhebung der Konzessionsabgabe auf Strom und die Spezialfinanzierung Förderprogramm Energie",
+      "url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Verordnung-sig-ueber-die-Erhebung-der-Konzessionsabgabe-auf.pdf",
+      "typ": "pdf",
+      "stand": "16. Dezember 2022 (Gemeinderat)",
+      "gueltig_ab": "2024-01-01",
+      "gueltig_bis": ""
+    },
+    {
+      "titel": "Energie-Coaching Energieregion Thunersee (Factsheet)",
+      "url": "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf",
+      "typ": "pdf",
+      "stand": "Factsheet ohne Datum; Angebot laut thun.ch seit 1. Mai 2026",
+      "gueltig_ab": "2026-05-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "Gesuche sind vor Baubeginn bzw. vor Umsetzung der Massnahme einzureichen (Übersicht S. 2; Verordnung Art. 6 Abs. 1: zwingend vor der Realisierung). Laut Webseite der Gemeinde ab 1.1.2026 nur noch online über https://portal.energie-foerderung.ch (nicht mehr per Post/E-Mail). Gesuche werden erst behandelt, wenn alle Unterlagen vorliegen; Behandlung in der Reihenfolge des Eingangs (Verordnung Art. 6 Abs. 3-4). Entscheid als Verfügung (Art. 7). Zuständig: Abteilung Hochbau/Planung/Umwelt.",
+    "voraussetzung_kanton": "Keine allgemeine Voraussetzung, dass der Kanton fördert. Einzelne Tatbestände knüpfen an den Kanton an: GEAK Plus = 50% des vom Kanton nicht bezahlten Anteils; Heizungsersatz: «Weitere Bedingungen gemäss Förderung Kanton Bern Anlagen», Gesuchsbrief und Auszahlungsbestätigung des Kantons sind einzureichen, keine Doppelförderung im Bereich «Gebäude» gemäss kantonalem Programm; Einzelbauteile: keine Förderung, wenn die Gesamtsanierung über das kantonale Programm («Gebäude», GEAK-Klassenaufstieg) unterstützt wird.",
+    "kumulation": "Mehrfachförderung grundsätzlich möglich mit anderen Programmen inkl. kantonaler Förderung (Übersicht S. 2; Verordnung Art. 2 Abs. 5), ausser: kantonale Förderung über den GEAK-Klassenaufstieg und Klimaprämie Energie Zukunft Schweiz.",
+    "budget": "Spezialfinanzierung Förderprogramm Energie, gespiesen mit 30% der jährlichen Gemeindeabgabe auf Strom (Verordnung Art. 2 Abs. 2; Reglement Art. 3: Bandbreite 20-40%). Beiträge nur, solange Mittel vorhanden; bei ungenügendem Bestand Warteliste nach Eingangsdatum (Art. 2 Abs. 3). Kein Rechtsanspruch (Art. 2 Abs. 4). Höhe des Jahrestopfs im Dokument nicht genannt.",
+    "gesamtmaximum": "Kein Mindestbeitrag. Maximalbeitrag als Total aller Fördertatbestände pro Gebäude (Haus mit eigenem EGID) und Jahr: CHF 6'000 für EFH (1-2 Wohnungen, SIA Kat. II), CHF 8'000 für alle anderen Kategorien. Überbauung mit mehreren Gebäuden pro Bauherrschaft und Jahr: erstes Gebäude CHF 6'000 (EFH) bzw. CHF 8'000 (andere), jedes weitere Gebäude CHF 2'000, Maximum pro Überbauung CHF 16'000. «Innovative Projekte» sind vom Maximalbeitrag ausgenommen. Für den jährlichen Maximalbeitrag ist das Fertigstellungsdatum der einzelnen Massnahmen relevant.",
+    "berechtigte": "Natürliche und juristische Personen, deren Projekt sich in Spiez befindet; die Einwohnergemeinde selbst ist nicht förderberechtigt (Reglement Art. 5). Massnahmen müssen in der Gemeinde Spiez ausgeführt werden und dem Stand der Technik entsprechen (Verordnung Art. 3). Gebäudealter je Tatbestand (siehe Programme).",
+    "nachweise_auszahlung": "Je Tatbestand Schlussrechnung und weitere Unterlagen (siehe Programme). Auszahlung in der Regel innert 60 Tagen nach vollständiger Realisierung und Genehmigung der Belege (Verordnung Art. 8). Verjährung des Beitrags 2 Jahre nach Rechtskraft der Verfügung (Art. 10). Rückforderung bei falschen Angaben, zweckwidriger Verwendung oder Verletzung von Auflagen (Art. 9).",
+    "weitere_bestimmungen": [
+      "Höhe der Beiträge richtet sich nach den bei Gesuchseinreichung geltenden Ansätzen (Verordnung Art. 4 Abs. 3).",
+      "Gebäude = Haus mit eigenem EGID; Nebenbauten (z.B. Garagen) zählen zum Hauptgebäude (Übersicht S. 2, Fussnote 1).",
+      "Förderung von Energie-Kampagnen ist nicht Teil des Programms (Übersicht S. 2).",
+      "Beitragsausrichtung kann mit Auflagen verbunden werden (Messungen, Auskunft, Zutritt, Information der Öffentlichkeit) (Verordnung Art. 5).",
+      "Gebäudehülle: nur energetische Verbesserungen an Gebäuden, die vor 2000 erstellt wurden (Datum rechtskräftige Baubewilligung); Aufstockungen, Anbauten, Neubauten, Ersatzneubauten nicht förderberechtigt (Übersicht S. 5).",
+      "Heizungsersatz: Energieträger nach Priorisierung der Wärmeversorgungskarte Spiez; Erdsonden/Grundwasser-WP und Holz nur, wenn höher priorisierte Energieträger (erneuerbare Fernwärme) nicht verfügbar sind (Übersicht S. 7)."
+    ]
+  },
+  "programme": [
+    {
+      "id": "geak-plus",
+      "kategorie": "geak",
+      "massnahme": "GEAK Plus mit Bericht, ausgestellt durch GEAK-Experte/Expertin",
+      "bedingungen": [
+        "Gesuch vor Umsetzung der Massnahme",
+        "Förderbeitrag gilt für bestehende Gebäude (vor 2012 erstellt)",
+        "Einmalig pro Liegenschaft oder Gebäudegruppe innerhalb der Gültigkeitsdauer von 10 Jahren",
+        "Es gelten die Rahmenbedingungen des kantonalen Förderprogramms",
+        "Gesuch: Kopie Offerte GEAK Plus; Auszahlung: Rechnung GEAK-Bericht und Bestätigung der Auszahlung durch den Kanton Bern"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% des vom Kanton nicht bezahlten Anteils", "beschreibung": "50% des vom Kanton nicht bezahlten Anteils; EFH/ZFH max. CHF 500, MFH sowie SIA Kat. III-VI max. CHF 1'000"},
+      "minimum": "",
+      "maximum": "EFH/ZFH CHF 500; MFH sowie SIA Kat. III-VI CHF 1'000",
+      "kombinierbar": "Mit kantonaler Förderung (Kanton zahlt GEAK Plus, Gemeinde 50% vom Rest). Zählt zum Gebäude-Jahresmaximum.",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 3 «GEAK Plus und Grobanalyse»"}
+    },
+    {
+      "id": "grobanalyse",
+      "kategorie": "beratung",
+      "massnahme": "Grobanalyse für komplexe Gebäude gemäss Vorgaben Kanton (SIA Kat. VII-XII)",
+      "bedingungen": [
+        "Gesuch vor Umsetzung der Massnahme",
+        "Gesuch: Kopie Offerte Grobanalyse; Auszahlung: Rechnung Grobanalyse und Bestätigung der Auszahlung durch den Kanton"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% des vom Kanton nicht bezahlten Anteils", "beschreibung": "50% des vom Kanton nicht bezahlten Anteils, max. CHF 1'000"},
+      "minimum": "",
+      "maximum": "CHF 1'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 3"}
+    },
+    {
+      "id": "energieeffizienz-gewerbe-industrie",
+      "kategorie": "beratung",
+      "massnahme": "Energieeffizienz Gewerbe und Industrie (Beratung, Dienstleistung, Energieanalysen, mehrjährige Effizienzprogramme, Betriebsoptimierung)",
+      "bedingungen": [
+        "Beratung/Dienstleistung durch ausgewiesene externe Fachperson mit Abschlussbericht",
+        "Drittförderung wird vom hiesigen Beitrag abgezogen",
+        "Keine Infrastrukturen gefördert; Ausnahme: Messinstallationen für Monitoring/Betriebsoptimierung",
+        "Keine Förderung von Massnahmen mit gesetzlicher Verpflichtung (z.B. Grossverbrauchermodell)",
+        "Bei mehrjährigen Angeboten wird jährliches Monitoring während max. 3 Jahren unterstützt",
+        "Maximal ein Förderbeitrag alle fünf Jahre",
+        "Gesuch: Kopie Offerte, Vorgehensablauf; Auszahlung: Rechnungen, Beratungsbericht, Auszüge Drittförderung"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der Gesamtkosten nach Abzug Drittförderung", "beschreibung": "50% der Gesamtkosten nach Abzug Drittförderung, max. CHF 5'000"},
+      "minimum": "",
+      "maximum": "CHF 5'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 4"}
+    },
+    {
+      "id": "huelle-fenster",
+      "kategorie": "huelle",
+      "massnahme": "Einzelbauteile: Fensterersatz",
+      "bedingungen": [
+        "Gesamtsanierungen, die durch das kantonale Förderprogramm im Bereich «Gebäude» unterstützt werden, erhalten keine Förderbeiträge",
+        "Mindeststandard Fenster: U-Wert Fenster 0.90 und Glas 0.60 W/m2K (Zeichen im PDF-Text nicht lesbar, vermutlich «≤»)",
+        "Vorgängig GEAK Plus oder Energieberatung der öffentlichen regionalen Energieberatung gefordert",
+        "Nur Sanierungen (keine Aufstockungen, Anbauten, Neubauten, Ersatzneubauten)",
+        "Förderberechtigt sind nur im Ausgangszustand beheizte Gebäudeteile (Ausnahme: Dämmung Estrich, Keller, Sockel)",
+        "Nur Gebäude, die vor 2000 erstellt wurden (Datum rechtskräftige Baubewilligung)",
+        "Gesuch: GEAK Plus oder Bestätigung Energieberatung, Offerte, Flächenauszug in Plänen, Selbstdeklaration mit Produktangaben und U-Wert-Berechnung; Auszahlung: Abweichungen, detaillierte Schlussrechnungen mit Kennzeichnung der angerechneten Positionen, U-Wert-Berechnungen"
+      ],
+      "ansatz": {"art": "pro_m2", "wert": 50, "einheit": "Fr./m² Mauerlichtmass"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum (CHF 6'000 EFH / CHF 8'000 andere)",
+      "kombinierbar": "Mit anderen Programmen grundsätzlich möglich, nicht aber mit kantonaler GEAK-Klassenaufstiegs-Förderung für dasselbe Gebäude («Gesamtsanierung»)",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 5"}
+    },
+    {
+      "id": "huelle-daemmung-aussen",
+      "kategorie": "huelle",
+      "massnahme": "Einzelbauteile: Dämmung gegen aussen (Wand, Dach, Boden)",
+      "bedingungen": [
+        "Mindeststandard Dämmung gegen aussen: U-Wert 0.20 W/m2K (Zeichen im PDF-Text nicht lesbar, vermutlich «≤»)",
+        "Übrige Bedingungen wie Fensterersatz (kein Gesamtsanierungs-Beitrag des Kantons, GEAK Plus oder Energieberatung vorgängig, nur Sanierung, nur beheizte Teile ausser Estrich/Keller/Sockel, Gebäude vor 2000)"
+      ],
+      "ansatz": {"art": "pro_m2", "wert": 50, "einheit": "Fr./m² gedämmte Fläche"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum (CHF 6'000 EFH / CHF 8'000 andere)",
+      "kombinierbar": "Wie Fensterersatz",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 5"}
+    },
+    {
+      "id": "huelle-daemmung-unbeheizt",
+      "kategorie": "huelle",
+      "massnahme": "Einzelbauteile: Dämmung gegen unbeheizte Räume (Wand, Dach, Boden)",
+      "bedingungen": [
+        "Mindeststandard Dämmung gegen unbeheizt: U-Wert 0.25 W/m2K (Zeichen im PDF-Text nicht lesbar, vermutlich «≤»)",
+        "Übrige Bedingungen wie Fensterersatz"
+      ],
+      "ansatz": {"art": "pro_m2", "wert": 15, "einheit": "Fr./m² gedämmte Fläche"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum (CHF 6'000 EFH / CHF 8'000 andere)",
+      "kombinierbar": "Wie Fensterersatz",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 5"}
+    },
+    {
+      "id": "solar-thermie",
+      "kategorie": "solar_thermie",
+      "massnahme": "Thermische Solaranlagen (Sonnenkollektoranlagen für Warmwasser oder Warmwasser und Heizungsunterstützung)",
+      "bedingungen": [
+        "Gebäude mit Baujahr vor 2012",
+        "Validierte Leistungsgarantie (VLG) von Swissolar/EnergieSchweiz muss vorliegen",
+        "Erweiterung bestehender Anlagen wird ab 5 m2 neuer Kollektorfläche gefördert",
+        "Aktive Anlagenüberwachung gemäss QM-Solarwärme bei thermischer Kollektor-Nennleistung über 20 kW",
+        "Gesuch: Offerte mit Aperturfläche, Kollektortyp, thermischer Kollektor-Nennleistung; Angaben zur Anlagenüberwachung. Auszahlung: Schlussrechnung, datiertes und unterschriebenes Inbetriebsetzungs-Protokoll",
+        "Anlagen für saisonale Speicherung (Solartanks, Eisspeicher) können über «Innovative Projekte» beantragen"
+      ],
+      "ansatz": {"art": "pro_kw", "wert": 300, "einheit": "Fr./kW (thermische Kollektor-Nennleistung)"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 6"}
+    },
+    {
+      "id": "heizung-fernwaerme",
+      "kategorie": "waermenetz",
+      "massnahme": "Heizungsersatz: Anschluss an erneuerbare Fernwärmenetze (mind. 75% erneuerbare Energie)",
+      "bedingungen": [
+        "Ersatz von Gas-, Öl- oder Elektroheizungen",
+        "Wahl des Energieträgers gemäss Priorisierung der Wärmeversorgungskarte Spiez",
+        "Massgebend für die Beitragshöhe ist die Leistung der neuen Heizung",
+        "Weitere Bedingungen gemäss Förderung Kanton Bern Anlagen; keine Doppelförderung im Bereich «Gebäude» gemäss kantonalem Programm",
+        "Gesuch: Offerte neue Wärmeversorgung, Gesuchsbrief Kanton Bern, Deklaration Wärmemix; Auszahlung: Schlussrechnung, Inbetriebnahmeprotokoll, Bestätigung Auszahlung Kanton",
+        "Erneuerbarer Anteil mind. 75% gem. KEnV 2016 Anhang 8 oder Vollzugshilfe EN-101 (g = 0.4)"
+      ],
+      "ansatz": {"art": "andere", "wert": 2000, "einheit": "Fr. pauschal", "beschreibung": "Pauschal CHF 2'000; ab 20 kW CHF 100/kW"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "Mit kantonaler Förderung des Heizungsersatzes (Anlagen) kombinierbar",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 7 «Heizungsersatz», Förderbeiträge Nr. 1"}
+    },
+    {
+      "id": "heizung-wp-erdsonde-grundwasser",
+      "kategorie": "heizung",
+      "massnahme": "Heizungsersatz: Erdsonden-/Grundwasser-Wärmepumpe",
+      "bedingungen": [
+        "Ersatz von Gas-, Öl- oder Elektroheizungen",
+        "Nur gefördert, wenn höher priorisierte Energieträger (erneuerbare Fernwärme) nicht verfügbar sind",
+        "Massgebend für die Beitragshöhe ist die Leistung der neuen Heizung",
+        "Weitere Bedingungen gemäss Förderung Kanton Bern Anlagen; keine Doppelförderung im Bereich «Gebäude»",
+        "Zusätzlich gefordert: GEAK Plus oder Energieberatung der öffentlichen regionalen Energieberatung oder Nachweis guter Gebäudehülle (GEAK D) oder dokumentierter Verbrauch < 100 kWh/m2 Endenergie (gemessen)",
+        "Gesuch: Offerte, Gesuchsbrief Kanton; Auszahlung: Schlussrechnung, Inbetriebnahmeprotokoll, Bestätigung Auszahlung Kanton"
+      ],
+      "ansatz": {"art": "andere", "wert": 2000, "einheit": "Fr. pauschal", "beschreibung": "Pauschal CHF 2'000; ab 20 kW CHF 100/kW"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "Mit kantonaler Heizungsersatz-Förderung; Wärmepumpe ist zusätzlich zur Machbarkeitsstudie förderbar",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 7, Förderbeiträge Nr. 2"}
+    },
+    {
+      "id": "heizung-holz",
+      "kategorie": "heizung",
+      "massnahme": "Heizungsersatz: Holzfeuerung",
+      "bedingungen": [
+        "Ersatz von Gas-, Öl- oder Elektroheizungen",
+        "Nur gefördert, wenn höher priorisierte Energieträger (Fernwärme) nicht verfügbar sind; Holz wird nach Wärmeverbünden, Grundwasser und Erdsonden eingestuft (Fussnote 7)",
+        "Massgebend ist die Leistung der neuen Heizung",
+        "Weitere Bedingungen gemäss Förderung Kanton Bern Anlagen; keine Doppelförderung im Bereich «Gebäude»",
+        "Gesuch: Offerte, Gesuchsbrief Kanton; Auszahlung: Schlussrechnung, Inbetriebnahmeprotokoll, Bestätigung Auszahlung Kanton"
+      ],
+      "ansatz": {"art": "andere", "wert": 2000, "einheit": "Fr. pauschal", "beschreibung": "Pauschal CHF 2'000; ab 20 kW CHF 100/kW"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "Mit kantonaler Heizungsersatz-Förderung",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 7, Förderbeiträge Nr. 3"}
+    },
+    {
+      "id": "waermepumpenboiler",
+      "kategorie": "sonstiges",
+      "massnahme": "Wärmepumpenboiler (Ersatz zentraler Elektroboiler)",
+      "bedingungen": [
+        "Förderberechtigt ist, wer bereits eine installierte PV-Anlage auf dem Gebäude hat oder gleichzeitig eine PV-Anlage installiert",
+        "Eine PV-Anlage ist installiert (minimale Leistung 3 kWp)",
+        "Gesuch: Offerte Wärmepumpenboiler, Nachweis PV-Anlage; Auszahlung: Schlussrechnung"
+      ],
+      "ansatz": {"art": "pauschal", "wert": 1000, "einheit": "Fr."},
+      "minimum": "",
+      "maximum": "",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 7"}
+    },
+    {
+      "id": "machbarkeitsstudie-erdsonde-wasser",
+      "kategorie": "beratung",
+      "massnahme": "Machbarkeitsstudien für Erdsonden-, Grundwasser- oder Seewassernutzung (geologische Vorabklärungen und Begleitung bei Bohrungen)",
+      "bedingungen": [
+        "Ergebnisse der Vorabklärungen und Begleitung werden der Gemeinde zur Verfügung gestellt",
+        "Vorgängige schriftliche Kontaktaufnahme mit der Abteilung Hochbau/Planung/Umwelt (bau@spiez.ch); bei Grund-/Seewassernutzung Nachweis der Kontaktaufnahme mit dem Gesuch",
+        "Die Wärmepumpe selbst kann zusätzlich unter «Heizungsersatz» gefördert werden",
+        "Gesuch: Offerte Machbarkeitsstudie; Auszahlung: Schlussrechnung, Bericht Machbarkeitsstudie"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der Kosten", "beschreibung": "50% der Kosten von geologischen Abklärungen und Begleitungen, max. CHF 4'000"},
+      "minimum": "",
+      "maximum": "CHF 4'000",
+      "kombinierbar": "Zusätzlich zu Heizungsersatz",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 8"}
+    },
+    {
+      "id": "pv-winteroptimiert-fassade-integriert",
+      "kategorie": "pv",
+      "massnahme": "Winteroptimierte PV-Anlagen: in Fassaden und Fassadenelementen integrierte PV-Anlagen",
+      "bedingungen": [
+        "Neigung steiler als 60 Grad und Orientierung Süd +/- 90 Grad (Ost über Süd bis West)",
+        "Reflexionsarme Ausführung nach Stand der Technik",
+        "Minimale Leistung der PV-Anlage 3 kWp",
+        "Gesuch: Offerte mit Normleistung in kWp, Plan mit erkennbarer Modulanzahl, Datenblatt Modultypen; Auszahlung: Kopie Schlussrechnung, Mess- und Prüfprotokoll Photovoltaik mit Datum und Unterschrift"
+      ],
+      "ansatz": {"art": "pro_kwp", "wert": 1000, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 9"}
+    },
+    {
+      "id": "pv-winteroptimiert-fassade-angebaut",
+      "kategorie": "pv",
+      "massnahme": "Winteroptimierte PV-Anlagen: an Fassaden angebaute PV-Anlagen",
+      "bedingungen": ["Wie winteroptimierte PV (Neigung > 60 Grad, Süd +/- 90 Grad, min. 3 kWp, reflexionsarm)"],
+      "ansatz": {"art": "pro_kwp", "wert": 300, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 9"}
+    },
+    {
+      "id": "pv-winteroptimiert-bauten-flachdach",
+      "kategorie": "pv",
+      "massnahme": "Winteroptimierte PV-Anlagen: PV-Anlagen an Bauten und Infrastrukturen sowie auf Flachdächern",
+      "bedingungen": ["Wie winteroptimierte PV (Neigung > 60 Grad, Süd +/- 90 Grad, min. 3 kWp, reflexionsarm)"],
+      "ansatz": {"art": "pro_kwp", "wert": 300, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 9"}
+    },
+    {
+      "id": "pv-dachbelegung",
+      "kategorie": "pv",
+      "massnahme": "PV-Dachbelegung (PV-Anlagen mit möglichst hohem Belegungsgrad)",
+      "bedingungen": [
+        "Gebäude mit Baujahr vor 2023 (keine Neubauten)",
+        "Minimale Leistung der PV-Anlage 5 kWp",
+        "Dachbelegung: mind. 60% der geeigneten Dachflächen (sonnendach.ch: gut, sehr gut oder hervorragend; oder > 1'000 kWh/m2a Einstrahlung)",
+        "An- und Aufbauten (Kamine, Lüftungsbauteile, Lukarnen) und gestalterische Vorgaben werden berücksichtigt; Attikaterrassen zählen nicht zur Dachfläche",
+        "Gesuch: Offerte mit Normleistung kWp, vermasster Detailplan mit erkennbarer Modulanzahl, Datenblatt; Auszahlung: Kopie Schlussrechnung, Mess- und Prüfprotokoll"
+      ],
+      "ansatz": {"art": "pro_kwp", "wert": 200, "einheit": "Fr./kWp"},
+      "minimum": "",
+      "maximum": "Gebäude-Jahresmaximum",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 10"}
+    },
+    {
+      "id": "ladeinfrastruktur-basis",
+      "kategorie": "mobilitaet",
+      "massnahme": "Basisinfrastruktur für Ladeinfrastruktur E-Mobilität (Basisinstallation, Ausbaustufe C1 gem. SIA 2060)",
+      "bedingungen": [
+        "Förderung für bestehende Parkplätze; Gebäude mit Baujahr vor 2023",
+        "Ladestationen müssen ein intelligentes Lastmanagement aufweisen",
+        "Ab drei Parkplätzen",
+        "Ladestationen selbst werden nicht gefördert",
+        "Gesuch: Kopie Offerte, Situationsplan, Nachweis Lastmanagement; Auszahlung: Kopie Schlussrechnung"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der Gesamtkosten", "beschreibung": "50% der Gesamtkosten bis max. CHF 250 pro Parkplatz"},
+      "minimum": "",
+      "maximum": "CHF 250 pro Parkplatz",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 11"}
+    },
+    {
+      "id": "innovative-projekte",
+      "kategorie": "sonstiges",
+      "massnahme": "Innovative Projekte inkl. Anlagen für saisonale Speicherung (Solartanks, Eisspeicher)",
+      "bedingungen": [
+        "Zukunftsweisende Sonderprojekte, die wesentlich über die gesetzlichen Anforderungen hinausgehen und/oder ausserordentlich zum kommunalen Netto-Null-Ziel oder zur Behebung der Winterstromproblematik beitragen",
+        "Keine Förderung wirtschaftlicher Lösungen (Nachweis nicht amortisierbare Mehrkosten/Payback)",
+        "Beurteilung und Empfehlung durch den Fachausschuss Energie",
+        "Vom Gebäude-Maximalbeitrag ausgenommen"
+      ],
+      "ansatz": {"art": "prozent", "wert": 25, "einheit": "% der Projektkosten", "beschreibung": "Bis 25% der Projektkosten, max. CHF 30'000"},
+      "minimum": "",
+      "maximum": "CHF 30'000",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-02-25",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.spiez.ch/de/verwaltung/dokumente/dokumente/Uebersicht-Foerderprogramm-Spiez-definitiv-ab-20260.pdf", "stelle": "Übersicht S. 12"}
+    },
+    {
+      "id": "energie-coaching",
+      "kategorie": "beratung",
+      "massnahme": "Energie-Coaching der Energieregion Thunersee (Zusatzangebot der Regionalen Energieberatung Thun Oberland-West, nach kostenloser Erstberatung)",
+      "bedingungen": [
+        "Gebäudeeigentümer der Gemeinden der Energieregion Thunersee",
+        "Bis zu 5 Stunden pro Objekt; bei grösseren komplexen Vorhaben zusätzliches Coaching auf Anfrage bei der Standortgemeinde",
+        "Anmeldung über die regionale Energieberatung nach der kostenlosen einstündigen Erstberatung",
+        "Keine Rechts- und Steuerberatung"
+      ],
+      "ansatz": {"art": "prozent", "wert": 50, "einheit": "% der Beratungskosten", "beschreibung": "Kosten je zur Hälfte von Kunde und Standortgemeinde; Stundensatz CHF 130 (exkl. MWST), Abrechnung nach effektivem Aufwand"},
+      "minimum": "",
+      "maximum": "5 Stunden pro Objekt (= CHF 650 Beratungskosten, davon Gemeinde 50%)",
+      "kombinierbar": "",
+      "gueltig_ab": "2026-05-01",
+      "gueltig_bis": "",
+      "quelle": {"url": "https://www.thun.ch/_docn/7336285/UWEM_A4_One-Pager_Factsheet_Energie-Coaching_v4.pdf", "stelle": "Factsheet «Kosten und Finanzierung»; Mitgliedschaft Spiez laut https://www.thun.ch/energie/93568"}
+    }
+  ],
+  "offen": [
+    "Datumsabweichung: Webseite der Gemeinde nennt «revidiertes Programm tritt am 1. Januar 2026 in Kraft» und Dokumentdatum 13.03.2026; das PDF selbst nennt PUB-Beschluss 24.02.2026, in Kraft per 25.02.2026. Massgebend für Gesuche vor dem 25.02.2026 evtl. die Vorversion (Stand 16.10.2024) – nicht geprüft.",
+    "Gesuchseingabe laut Webseite nur noch online über https://portal.energie-foerderung.ch (Portal nicht geprüft).",
+    "Heizungsersatz: Formulierung «pauschal CHF 2'000; ab 20 kW CHF 100/kW» lässt offen, ob ab 20 kW der Betrag insgesamt CHF 100 x kW beträgt (bei 20 kW = 2'000, also stetig) oder 2'000 plus 100/kW über 20 kW. Vermutlich Gesamtbetrag CHF 100/kW, nicht eindeutig. Bei der Gemeinde klären.",
+    "In der PDF-Textebene sind Sonderzeichen (z.B. «≤» bei U-Werten) nicht lesbar; U-Wert-Mindeststandards als Grenzwerte (vermutlich ≤) interpretiert.",
+    "Kein Betrag für PV-Speicher (Batterie) im Programm; keine Förderung für Neubauten.",
+    "Jahresbudget der Spezialfinanzierung (Franken) nicht genannt; Mittel = 30% der Konzessionsabgabe (1.5 Rp./kWh, max. CHF 25 pro Zähler und Monat, Reglement Art. 2).",
+    "Energie-Coaching: Spiez ist laut thun.ch Mitgliedsgemeinde der Energieregion Thunersee; Spiez-eigenes Dokument erwähnt das Coaching nicht. Gemeindeanteil/Konditionen bei Spiez bestätigen.",
+    "Energieversorger-Programme (z.B. BKW, Energie Thun AG) nicht erfasst.",
+    "Verordnung Art. 6 Abs. 2 nennt Einreichung bei der Abteilung Hochbau/Planung/Umwelt (Dokumentenstand 2022/2024); weicht vom neuen Online-Portal ab."
+  ]
+}

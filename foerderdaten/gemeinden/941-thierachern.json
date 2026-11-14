@@ -1,0 +1,34 @@
+{
+  "traeger": "Einwohnergemeinde Thierachern",
+  "bfs": 941,
+  "abgerufen": "2026-11-14",
+  "status": "unklar",
+  "geprueft": [
+    "https://www.thierachern.ch",
+    "https://www.thierachern.ch/de/verwaltung/lebenslagen/?kategorie_id=7",
+    "https://www.thierachern.ch/de/verwaltung/dienstleistungen/62_energie---informationen-einholen",
+    "https://www.thierachern.ch/de/verwaltung/dienstleistungen/143_solaranlagen",
+    "https://www.thierachern.ch/de/verwaltung/dienstleistungen/144_wärmeerzeuger-ersatz",
+    "https://www.thierachern.ch/de/aktuelles/meldungen/archiv/GR-Sitzung-2026-03.php",
+    "Websuche: Thierachern Förderprogramm Energie / Reglement / Förderbeiträge (keine Gemeinde-Treffer zu Energieförderung)"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Kein kommunales Förderprogramm Energie gefunden. Rubrik 'Umwelt und Bauen' hat Energie (Informationen einholen), Solaranlagen, Wärmeerzeuger-Ersatz (beides nur Meldung via eBau) ohne Förderangaben. Reglementssammlung der Gemeinde wurde nicht gefunden/gelesen (URL-Rate /de/verwaltung/reglemente/ ergab 404), daher nicht kein_programm.",
+    "Seite 'Energie - Informationen einholen' beschreibt die Energieregion Thunersee (Heimberg, Oberhofen, Spiez, Steffisburg, Thierachern, Thun) und nennt eine Fussnote zu 'kommunalen Förderbeiträgen' ohne Inhalt in den gelesenen Texten; verweist auf Amt für Umwelt und Energie und Regionale Energieberatung. Unklar, ob dort ein Link zu Förderbeiträgen versteckt ist.",
+    "Glütschbach-Post 2015: einmaliger Gemeindebeitrag CHF 5'000 an Pfadfinderheime Kyburg (Einzelfall, kein Programm); Glütschbach-Post 5/2022 verweist auf Regionale Energieberatung.",
+    "Empfehlung: Bauverwaltung Thierachern (033 346 00 46) anfragen oder Reglementsliste im Browser prüfen.",
+    "Programme von Energieversorgern nicht erfasst."
+  ]
+}

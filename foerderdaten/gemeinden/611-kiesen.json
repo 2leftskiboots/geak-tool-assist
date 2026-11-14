@@ -1,0 +1,28 @@
+{
+  "traeger": "Einwohnergemeinde Kiesen",
+  "bfs": 611,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.kiesen.ch",
+    "https://www.kiesen.ch/verwaltung-politik/",
+    "https://kiesen.ch/downloads/reglemente/reglement_konzessionsabgabe_strom.pdf"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Reglementsliste (ca. 28 Titel) enthält kein Förder-/Energiereglement; einzige Energie-Nähe: Reglement Konzessionsabgabe Stromversorgung (Beschluss 21.11.2024, Inkraft 1.1.2025; Abgabe der BKW) ohne Förderbestimmungen, und aufgehobener Gebührentarif Feuerungskontrolle. Website ohne Rubrik Energie/Förderprogramm.",
+    "Abruf der Reglementsliste nur als Titelliste (keine Links); Baureglement und weitere nicht im Volltext gelesen.",
+    "Bei der Gemeinde (031 781 12 74) telefonisch bestätigen."
+  ]
+}

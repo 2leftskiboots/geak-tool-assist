@@ -1,0 +1,42 @@
+{
+  "traeger": "Einwohnergemeinde Oberlangenegg",
+  "bfs": 935,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.oberlangenegg.ch",
+    "https://www.oberlangenegg.ch/reglemente",
+    "https://www.oberlangenegg.ch/_docn/5539864/Reglement_f%C3%BCr_die_Erhebung_einer_Konzessionsabgabe_Stromversorgung.pdf",
+    "https://www.oberlangenegg.ch/_docn/6391406/Gemeindepost_Nr._132_November_2025.pdf",
+    "https://www.oberlangenegg.ch/reglemente (im Browser gelesen, beide Seiten, 27 Einträge: kein Energie-/Förderreglement; Konzessionsabgabe-Reglement ohne Zweckbindung)"
+  ],
+  "dokumente": [
+    {
+      "titel": "Reglement für die Erhebung einer Konzessionsabgabe Stromversorgung",
+      "url": "https://www.oberlangenegg.ch/_docn/5539864/Reglement_f%C3%BCr_die_Erhebung_einer_Konzessionsabgabe_Stromversorgung.pdf",
+      "typ": "pdf",
+      "stand": "Gemeindeversammlung 24. Mai 2022",
+      "gueltig_ab": "2022-01-01",
+      "gueltig_bis": ""
+    }
+  ],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": [
+      "Konzessionsabgabe BKW: mindestens 1.0 und höchstens 4.0 Rp/kWh, max. CHF 300/Zähler und Jahr; unterbrechbar 1.0 Rp weniger, max. CHF 96 (Art. 3). Keine Zweckbindung, kein Förderprogramm im Reglement."
+    ]
+  },
+  "programme": [],
+  "offen": [
+    "Gemeindepost Nr. 132 (Nov. 2025, Beitrag der Regionalen Energieberatung zu GEAK): nennt nur allgemein, dass Kanton «und teils auch Gemeinden» GEAK Plus finanziell unterstützen; kein Hinweis auf ein Oberlangenegger Programm (per Stichwortsuche im Text, nicht vollständig gelesen).",
+    "Nicht geprüft: Budget/Jahresrechnung 2026 auf Energiefonds oder Förderbeitrag-Konten (PDFs liegen vor: https://www.oberlangenegg.ch/_docn/6681500/Budget_2026.pdf, Text nicht ausgewertet; die gefundene Datei trägt Metadaten «Vorbericht Budget 2016», evtl. alte Version).",
+    "Empfehlung: Gemeindeverwaltung fragen (033 453 16 49, info@oberlangenegg.ch), ob ein kommunales Energieförderprogramm besteht.",
+    "Budget/Rechnung nicht auf Energiefonds geprüft; Energieversorger nicht erfasst."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "traeger": "Einwohnergemeinde Heiligenschwendi",
+  "bfs": 927,
+  "abgerufen": "2026-11-14",
+  "status": "unklar",
+  "geprueft": [
+    "https://www.heiligenschwendi.ch (Abruf scheiterte: TLS-Zertifikat passt nicht zum Hostnamen)",
+    "http://www.heiligenschwendi.ch/reglemente.html (nur als Suchtreffer-Zusammenfassung gesehen)",
+    "http://www.heiligenschwendi.ch/onlineschalter-links.html (Suchtreffer)",
+    "http://www.heiligenschwendi.ch/links.html (Suchtreffer)",
+    "Websuche: Heiligenschwendi Förderprogramm Energie / Reglement Energie / Förderbeiträge (mehrere Anfragen, keine Gemeinde-Treffer)"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Die Gemeindewebsite war für die automatische Abfrage nicht erreichbar (Zertifikatsfehler); Reglementsliste, Energie- und Bauen-Seiten konnten nicht selbst gelesen werden. Deshalb nicht als kein_programm markiert. Manuell im Browser prüfen: http://www.heiligenschwendi.ch/reglemente.html und Rubrik Bauen/Energie.",
+    "Suchtreffer-Zusammenfassungen: Reglementsliste führt Abfall, Abwasser, Bau, Feuerwehr, Friedhof, Wasser, Parkplatz u. a., kein Energie-/Förderreglement; Links-Seite verweist nur auf kantonale Energieförderung (031 633 36 50) und Regionale Energieberatung Thun Oberland-West. Weder Spezialfinanzierung noch Konzessionsabgabe-Reglement gefunden.",
+    "Die Reglementsseite scheint älter (Hinweis der Suche); neuere Beschlüsse (z. B. Gemeindeversammlung) sind nicht geprüft.",
+    "Energiefranken.ch nennt kein Programm für die Gemeinde (nur als Wegweiser).",
+    "Empfehlung: Gemeindeverwaltung Heiligenschwendi anfragen oder Seiten im Browser prüfen."
+  ]
+}

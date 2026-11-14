@@ -1,0 +1,28 @@
+{
+  "traeger": "Einwohnergemeinde Oppligen",
+  "bfs": 622,
+  "abgerufen": "2026-11-14",
+  "status": "kein_programm",
+  "geprueft": [
+    "https://www.oppligen.ch",
+    "https://www.oppligen.ch/verwaltung/online-schalter/reglemente",
+    "https://www.oppligen.ch/images/content/reglemente/Erhebung_Konzessionsabgabe_Stromversorgung_Reglement_unterzeichnet_20240701.pdf"
+  ],
+  "dokumente": [],
+  "allgemein": {
+    "gesuch": "",
+    "voraussetzung_kanton": "",
+    "kumulation": "",
+    "budget": "",
+    "gesamtmaximum": "",
+    "berechtigte": "",
+    "nachweise_auszahlung": "",
+    "weitere_bestimmungen": []
+  },
+  "programme": [],
+  "offen": [
+    "Reglementsliste (12 Einträge) enthält kein Förder-/Energiereglement. Reglement Konzessionsabgabe Stromversorgung (27.5.2024, Inkraft 1.7.2024; EVU ist BKW AG; Art. 1-4) regelt nur die Abgabe, keine Förderung.",
+    "BKW-Programme nicht erfasst (Energieversorger); nicht geprüft.",
+    "Keine Suchmaschinen-Treffer (Suche eingeschränkt). Bei der Gemeinde (031 781 16 56) telefonisch bestätigen."
+  ]
+}
